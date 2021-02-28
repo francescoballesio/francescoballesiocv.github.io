@@ -2,7 +2,7 @@
 Curriculum Vitae
 
 
-### Conferences
+### Abstracts / Talks / Posters
 
 |DateStart| DateEnd| Conference |Title |  Material |
 |-----------|------------| ---------- |---------- |--------|
