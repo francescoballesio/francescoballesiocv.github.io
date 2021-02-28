@@ -4,7 +4,7 @@ Curriculum Vitae
 
 ### Conferences
 
-|DateStart| DateEnd| Conference(Abstract-Paper) |Title |  Material |
+|DateStart| DateEnd| Conference |Title |  Material |
 |-----------|------------| ---------- |---------- |--------|
 |2020/11/16 | 2020/11/18 | [BBCC](https://www.bbcc-meetings.it/program/) | Population genomics analyses on pangenome graphs  | [Abstract](abstracts/BBCC2020_PopulationGenomicsAnalysesOnPangenomeGraph_Program-and-AbstractBook.pdf), [Presentation](presentations/f1000research-326757.pdf) ([f1000research link](https://f1000research.com/slides/9-1338)) |
 |2020/09/28 | 2020/10/01 | [EG VCBM](https://www.gcpr-vmv-vcbm-2020.uni-tuebingen.de/) | Graph Layout by Path-Guided Stochastic Gradient  | [Abstract](abstracts/EG_VCMB_GraphLayoutByPath-GuidedStochasticGradientDescent_Abstract_AndreaGuarracino.pdf), [Poster](posters/EG_VCMB_GraphLayoutByPath-GuidedStochasticGradientDescent_Poster_Landscape_AndreaGuarracino.pdf) |
