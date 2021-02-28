@@ -2,8 +2,20 @@
 Curriculum Vitae
 
 
-### Abstracts / Talks / Posters
+### Pubblications
+|Date| Papers |Title |  DOI |
+|--------- |---------- |---------- |--------|
 
+
+### Teachings
+|DateStart| DateEnd |Course |  Material |
+|-----------|------------| ----------  |--------|
+|2020/10/22 | - | Teacher in Data Structures for Bioinformatics (2 CFU) - M.Sc.inBioinformatics | [Repository](https://github.com/AndreaGuarracino/DataStructuresForBioinformatics), [Link](http://www.scienze.uniroma2.it/?cat=491&catParent=10) |
+|2019/10/05 | - | Tutor in Bioinformatics (6 CFU) - B.Sc. in Biological Science | - |
+|2019/06/-- | - | Exam assistance for Molecular Biology (8  CFU) and Bioinfor-matics (6 CFU) - B.Sc. in Biological Science | - |
+
+
+### Abstracts / Talks / Posters
 |DateStart| DateEnd| Conference |Title |  Material |
 |-----------|------------| ---------- |---------- |--------|
 |2020/11/16 | 2020/11/18 | [BBCC](https://www.bbcc-meetings.it/program/) | Population genomics analyses on pangenome graphs  | [Abstract](abstracts/BBCC2020_PopulationGenomicsAnalysesOnPangenomeGraph_Program-and-AbstractBook.pdf), [Presentation](presentations/f1000research-326757.pdf) ([f1000research link](https://f1000research.com/slides/9-1338)) |
@@ -16,12 +28,22 @@ Curriculum Vitae
 |2020/07/13 | 2020/07/16 | [ISMB 2020](https://www.iscb.org/ismb2020) | Comprehensive analysis of human SARS-CoV-2 infection andhost-virus interaction | [Abstract](abstracts/ISMB2020_ComprehensiveAnalysisSARSCoV2_Abstract_AndreaGuarracino.pdf), [Poster](posters/ISMB2020_ComprehensiveAnalysisSARSCoV2_Poster_AndreaGuarracino.pdf)|
 
 
+### Reviewer for international journals
+###TODO
+
+### Helper activities
+|DateStart| DateEnd| Event |Title |  Material |
+|-----------|------------| ---------- |---------- |--------|
+|2020/06/07 | 2020/08/30 | [Google Summer of Code (GSOC)](https://summerofcode.withgoogle.com/) | Parallel Graph Traversal for Variation Graphs | [Link](https://gsocgraph.blogspot.com/2020/08/final-week-recap-of-my-gsoc-experience.html)|
+
+
 ### Certificates
 |DateStart| DateEnd| Course |Title |  Material |
 |-----------|------------| ---------- |---------- |--------|
 |2018/04/21 | 2019/04/21 | Course | English language certification | [Certificate](certificates/EnglishCertificateESOL_B2_CEFR.pdf)|
 |2017/09/-- | 2017/09/-- | Course | Best practices for RNA-Seq data analysis - Software   Carpentry   Workshop   and   ELIXIR-IIB   | Certificate|
 
-### Pubblications
-|Date| Papers |Title |  DOI |
-|--------- |---------- |---------- |--------|
+### Other
+|DateStart| DateEnd| Topic |Title |  Material |
+|-----------|------------| ---------- |---------- |--------|
+|2020/06/20 | 2020/06/20 | [Lemonde/binaire](https://www.lemonde.fr/blog/binaire/) | Quote in the newspaper "Le Monde": SARS-CoV-2 et Covid-19 | [Link](https://www.lemonde.fr/blog/binaire/2020/05/06/sars-cov-2-et-covid-19-on-va-jouer-sur-les-mots/)|
