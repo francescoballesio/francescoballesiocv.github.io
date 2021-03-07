@@ -31,6 +31,7 @@ Curriculum Vitae
 ### Reviewer for international journals
 ###TODO
 
+
 ### Helper activities
 |DateStart| DateEnd| Event |Title |  Material |
 |-----------|------------| ---------- |---------- |--------|
@@ -41,7 +42,8 @@ Curriculum Vitae
 |DateStart| DateEnd| Course |Title |  Material |
 |-----------|------------| ---------- |---------- |--------|
 |2018/04/21 | 2019/04/21 | Course | English language certification | [Certificate](certificates/EnglishCertificateESOL_B2_CEFR.pdf)|
-|2017/09/-- | 2017/09/-- | Course | Best practices for RNA-Seq data analysis - Software   Carpentry   Workshop   and   ELIXIR-IIB   | Certificate|
+|2017/09/27 | 2017/09/29 | Course | Best practices for RNA-Seq data analysis - ELIXIR-IIB | [Certificate](certificates/CertificateBestPracticesForRNAseqDataAnalysis_ELIXIR_IIB.pdf), [Link](https://elixir-iib-training.github.io/website/2017/09/27/RNA-seq-Salerno.html), [Repository](https://github.com/ELIXIR-IIB-training/RNASeq2017) |
+
 
 ### Other
 |DateStart| DateEnd| Topic |Title |  Material |
