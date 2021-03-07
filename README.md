@@ -28,6 +28,14 @@ Curriculum Vitae
 |2020/07/13 | 2020/07/16 | [ISMB 2020](https://www.iscb.org/ismb2020) | Comprehensive analysis of human SARS-CoV-2 infection andhost-virus interaction | [Abstract](abstracts/ISMB2020_ComprehensiveAnalysisSARSCoV2_Abstract_AndreaGuarracino.pdf), [Poster](posters/ISMB2020_ComprehensiveAnalysisSARSCoV2_Poster_AndreaGuarracino.pdf)|
 
 
+### Courses
+|DateStart| DateEnd| Course |Title |  Material |
+|-----------|------------| ---------- |---------- |--------|
+|2020/07/08 | 2020/07/08 | Course | Overcoming Challenges in Academic Writing: Tips for Writing Articles and Grant Applications | [Certificate](certificates/CertificateOvercomingChallengesAcademicWriting_ENAGO.pdf), [Link](https://www.enago.com/academy/how-to-overcome-challenges-in-academic-writing/)|
+|2018/04/21 | 2019/04/21 | Course | English language certification | [Certificate](certificates/EnglishCertificateESOL_B2_CEFR.pdf)|
+|2017/09/27 | 2017/09/29 | Course | Best practices for RNA-Seq data analysis - ELIXIR-IIB | [Certificate](certificates/CertificateBestPracticesForRNAseqDataAnalysis_ELIXIR_IIB.pdf), [Link](https://elixir-iib-training.github.io/website/2017/09/27/RNA-seq-Salerno.html), [Repository](https://github.com/ELIXIR-IIB-training/RNASeq2017) |
+
+
 ### Reviewer for international journals
 ###TODO
 
@@ -37,12 +45,6 @@ Curriculum Vitae
 |-----------|------------| ---------- |---------- |--------|
 |2020/06/07 | 2020/08/30 | [Google Summer of Code (GSOC)](https://summerofcode.withgoogle.com/) | Parallel Graph Traversal for Variation Graphs | [Link](https://gsocgraph.blogspot.com/2020/08/final-week-recap-of-my-gsoc-experience.html)|
 
-
-### Certificates
-|DateStart| DateEnd| Course |Title |  Material |
-|-----------|------------| ---------- |---------- |--------|
-|2018/04/21 | 2019/04/21 | Course | English language certification | [Certificate](certificates/EnglishCertificateESOL_B2_CEFR.pdf)|
-|2017/09/27 | 2017/09/29 | Course | Best practices for RNA-Seq data analysis - ELIXIR-IIB | [Certificate](certificates/CertificateBestPracticesForRNAseqDataAnalysis_ELIXIR_IIB.pdf), [Link](https://elixir-iib-training.github.io/website/2017/09/27/RNA-seq-Salerno.html), [Repository](https://github.com/ELIXIR-IIB-training/RNASeq2017) |
 
 
 ### Other
