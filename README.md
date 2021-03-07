@@ -8,11 +8,11 @@ Curriculum Vitae
 
 
 ### Teachings
-|DateStart| DateEnd |Course |  Material |
-|-----------|------------| ----------  |--------|
-|2020/10/22 | - | Teacher in Data Structures for Bioinformatics (2 CFU) - M.Sc.inBioinformatics | [Repository](https://github.com/AndreaGuarracino/DataStructuresForBioinformatics), [Link](http://www.scienze.uniroma2.it/?cat=491&catParent=10) |
-|2019/10/05 | - | Tutor in Bioinformatics (6 CFU) - B.Sc. in Biological Science | - |
-|2019/06/-- | - | Exam assistance for Molecular Biology (8  CFU) and Bioinfor-matics (6 CFU) - B.Sc. in Biological Science | - |
+|DateStart| Course |  Material |
+|-----------|------------| --------|
+|2020/10/22 | Teacher in Data Structures for Bioinformatics (2 CFU) - M.Sc.inBioinformatics | [Repository](https://github.com/AndreaGuarracino/DataStructuresForBioinformatics), [Link](http://www.scienze.uniroma2.it/?cat=491&catParent=10) |
+|2019/10/07 | Tutor in Bioinformatics (6 CFU) - B.Sc. in Biological Science | - |
+|2019/06/07 | Exam assistance for Molecular Biology (8 CFU) and Bioinformatics (6 CFU) - B.Sc. in Biological Science | - |
 
 
 ### Abstracts / Talks / Posters
