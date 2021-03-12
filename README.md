@@ -37,7 +37,11 @@ Curriculum Vitae
 
 
 ### Reviewer for international journals
-###TODO
+|DateStart| Journal |
+|-----------|------------|
+|2021/02/26 | [Human Genomics](https://humgenomics.biomedcentral.com/) | 
+|2021/02/23 | [PLOS ONE](https://journals.plos.org/plosone/) | 
+
 
 
 ### Helper activities
@@ -46,8 +50,8 @@ Curriculum Vitae
 |2020/06/07 | 2020/08/30 | [Google Summer of Code (GSOC)](https://summerofcode.withgoogle.com/) | Parallel Graph Traversal for Variation Graphs | [Link](https://gsocgraph.blogspot.com/2020/08/final-week-recap-of-my-gsoc-experience.html)|
 
 
-
 ### Other
-|DateStart| DateEnd| Topic |Title |  Material |
-|-----------|------------| ---------- |---------- |--------|
-|2020/06/20 | 2020/06/20 | [Lemonde/binaire](https://www.lemonde.fr/blog/binaire/) | Quote in the newspaper "Le Monde": SARS-CoV-2 et Covid-19 | [Link](https://www.lemonde.fr/blog/binaire/2020/05/06/sars-cov-2-et-covid-19-on-va-jouer-sur-les-mots/)|
+|DateStart| Topic |Title |  Material |
+|-----------|------------| ---------- |---------- |
+|2020/10/20 | [Human Pangenome Reference Consortium](https://humanpangenome.org/about-us/associate-members/) | Associate Member of the Human Pangenome Reference Consortium | [Link](https://humanpangenome.org/about-us/associate-members/)|
+|2020/06/20 | [Lemonde/binaire](https://www.lemonde.fr/blog/binaire/) | Quote in the newspaper "Le Monde": SARS-CoV-2 et Covid-19 | [Link](https://www.lemonde.fr/blog/binaire/2020/05/06/sars-cov-2-et-covid-19-on-va-jouer-sur-les-mots/)|
