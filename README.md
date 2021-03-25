@@ -6,7 +6,7 @@ Curriculum Vitae
 |Date| Journal |Title |  DOI |
 |--------- |---------- |---------- |--------|
 |2021/02/02 | Cell Death & Disease | Inhibition of HECT E3 ligases as potential therapy for COVID-19 | [Link](https://doi.org/10.1038/s41419-021-03513-1)|
-|2021/03/01 | NAR Genomics and Bioinformatics | \*Relative Information Gain: Shannon entropy-based measure of the relative structural conservation in RNA alignments. **\*Shared first authorship** | [Link](https://doi.org/10.1093/nargab/lqab007), [Repository](https://github.com/helmercitterich-lab/RIG) |
+|2021/03/01 | NAR Genomics and Bioinformatics | **\*Relative Information Gain: Shannon entropy-based measure of the relative structural conservation in RNA alignments. \*Shared first authorship** | [Link](https://doi.org/10.1093/nargab/lqab007), [Repository](https://github.com/helmercitterich-lab/RIG) |
 |2021/02/02 | Cell Death & Differentiation | Control of replication stress and mitosis in colorectal cancer stem cells through the interplay of PARP1, MRE11 and RAD51 | [Link](https://doi.org/10.1038/s41418-020-00733-4)|
 
 ### Teachings
