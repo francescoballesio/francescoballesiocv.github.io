@@ -18,6 +18,13 @@ Curriculum Vitae
 |2019/06/07 | Exam assistance for Molecular Biology (8 CFU) and Bioinformatics (6 CFU) - B.Sc. in Biological Science, University of Rome Tor Vergata | - |
 
 
+### Reviewer for international journals
+|DateStart| Journal |
+|-----------|------------|
+|2021/02/26 | [Human Genomics](https://humgenomics.biomedcentral.com/) | 
+|2021/02/23 | [PLOS ONE](https://journals.plos.org/plosone/) | 
+
+
 ### Abstracts / Talks / Posters
 |DateStart| DateEnd| Conference |Title |  Material |
 |-----------|------------| ---------- |---------- |--------|
@@ -28,7 +35,7 @@ Curriculum Vitae
 |2020/07/17 | 2020/07/25 | [BCC 2020](https://bcc2020.sched.com/) | COVID-19 PubSeq:  Public SARS-CoV-2 Sequence Resource | [Abstract](abstracts/BCC2020_COVID19_PubSeq_Abstract_AndreaGuarracino.pdf), [Poster](posters/BCC2020_COVID19_PubSeq_Poster_AndreaGuarracino.pdf), [Presentation](https://bcc2020.sched.com/event/coLw/covid-19-pubseq-public-sars-cov-2-sequence-resource)|
 |2020/07/13 | 2020/07/16 | [ISMB 2020](https://www.iscb.org/ismb2020) | Pantograph: Scalable Interactive Graph Genome Visualization | [Abstract](abstracts/ISMB2020_PantographBrowsablePangenomeVisualization_Abstract_AndreaGuarracino.pdf), [Poster](posters/ISMB2020_PantographBrowsablePangenomeVisualization_Poster_AndreaGuarracino.pdf)|
 |2020/07/13 | 2020/07/16 | [ISMB 2020](https://www.iscb.org/ismb2020) | Semantic Variation Graphs - A Pangenome Ontology | [Abstract](abstracts/ISMB2020_SemanticVariationGraphs_OntologiesForPangenomeGraphs_Abstract_AndreaGuarracino.pdf), [Poster](posters/ISMB2020_SemanticVariationGraphs_OntologiesForPangenomeGraphs_Poster_AndreaGuarracino.pdf) ([KITopen link](https://publikationen.bibliothek.kit.edu/1000127608))|
-|2020/07/13 | 2020/07/16 | [ISMB 2020](https://www.iscb.org/ismb2020) | Comprehensive analysis of human SARS-CoV-2 infection andhost-virus interaction | [Abstract](abstracts/ISMB2020_ComprehensiveAnalysisSARSCoV2_Abstract_AndreaGuarracino.pdf), [Poster](posters/ISMB2020_ComprehensiveAnalysisSARSCoV2_Poster_AndreaGuarracino.pdf)|
+|2020/07/13 | 2020/07/16 | [ISMB 2020](https://www.iscb.org/ismb2020) | Comprehensive analysis of human SARS-CoV-2 infection and host-virus interaction | [Abstract](abstracts/ISMB2020_ComprehensiveAnalysisSARSCoV2_Abstract_AndreaGuarracino.pdf), [Poster](posters/ISMB2020_ComprehensiveAnalysisSARSCoV2_Poster_AndreaGuarracino.pdf)|
 
 
 ### Courses
@@ -37,14 +44,6 @@ Curriculum Vitae
 |2020/07/08 | 2020/07/08 | Course | Overcoming Challenges in Academic Writing: Tips for Writing Articles and Grant Applications | [Certificate](certificates/CertificateOvercomingChallengesAcademicWriting_ENAGO.pdf), [Link](https://www.enago.com/academy/how-to-overcome-challenges-in-academic-writing/)|
 |2018/04/21 | 2019/04/21 | Course | English language certification | [Certificate](certificates/EnglishCertificateESOL_B2_CEFR.pdf)|
 |2017/09/27 | 2017/09/29 | Course | Best practices for RNA-Seq data analysis - ELIXIR-IIB | [Certificate](certificates/CertificateBestPracticesForRNAseqDataAnalysis_ELIXIR_IIB.pdf), [Link](https://elixir-iib-training.github.io/website/2017/09/27/RNA-seq-Salerno.html), [Repository](https://github.com/ELIXIR-IIB-training/RNASeq2017) |
-
-
-### Reviewer for international journals
-|DateStart| Journal |
-|-----------|------------|
-|2021/02/26 | [Human Genomics](https://humgenomics.biomedcentral.com/) | 
-|2021/02/23 | [PLOS ONE](https://journals.plos.org/plosone/) | 
-
 
 
 ### Helper activities
