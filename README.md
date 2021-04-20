@@ -5,7 +5,7 @@ Curriculum Vitae
 ### Publications
 |Date| Journal |Title |  DOI |
 |--------- |---------- |---------- |--------|
-|2021/04/19 | Cancers | The Targeting of MRE11 or RAD51 Sensitizes Colorectal Cancer Stem Cells to CHK1 Inhibition | [Link](https://www.mdpi.com/2072-6694/13/8/1957)| #https://doi.org/10.3390/cancers13081957
+|2021/04/19 | Cancers | The Targeting of MRE11 or RAD51 Sensitizes Colorectal Cancer Stem Cells to CHK1 Inhibition | [Link](https://doi.org/10.3390/cancers13081957)|
 |2021/03/24 | Cell Death & Disease | Inhibition of HECT E3 ligases as potential therapy for COVID-19 | [Link](https://doi.org/10.1038/s41419-021-03513-1)|
 |2021/03/01 | NAR Genomics and Bioinformatics | *Relative Information Gain: Shannon entropy-based measure of the relative structural conservation in RNA alignments. <br/>\****Shared first authorship*** | [Link](https://doi.org/10.1093/nargab/lqab007), [Repository](https://github.com/helmercitterich-lab/RIG) |
 |2021/02/02 | Cell Death & Differentiation | Control of replication stress and mitosis in colorectal cancer stem cells through the interplay of PARP1, MRE11 and RAD51 | [Link](https://doi.org/10.1038/s41418-020-00733-4)|
