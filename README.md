@@ -28,6 +28,7 @@ Curriculum Vitae
 ### Abstracts / Talks / Posters
 |DateStart| DateEnd| Conference |Title |  Material |
 |-----------|------------| ---------- |---------- |--------|
+|2021/05/11 | 2021/05/14 | [The Biology of Genomes](https://meetings.cshl.edu/meetings.aspx?meet=GENOME&year=21) | The PanGenome Graph Builder | [Abstract](abstracts/BoG2021_ThePangenomeGraphBuilder_Abstract_AndreaGuarracino.pdf), [Poster](posters/BoG2021_ThePanGenomeGraphBuilder_Poster_AndreaGuarracino.pdf) |
 |2020/11/16 | 2020/11/18 | [BBCC](https://www.bbcc-meetings.it/program/) | Population genomics analyses on pangenome graphs  | [Abstract](abstracts/BBCC2020_PopulationGenomicsAnalysesOnPangenomeGraph_Program-and-AbstractBook.pdf), [Presentation](presentations/f1000research-326757.pdf) ([f1000research link](https://f1000research.com/slides/9-1338)) |
 |2020/09/28 | 2020/10/01 | [EG VCBM](https://www.gcpr-vmv-vcbm-2020.uni-tuebingen.de/) | Graph Layout by Path-Guided Stochastic Gradient  | [Abstract](abstracts/EG_VCMB_GraphLayoutByPath-GuidedStochasticGradientDescent_Abstract_AndreaGuarracino.pdf), [Poster](posters/EG_VCMB_GraphLayoutByPath-GuidedStochasticGradientDescent_Poster_Landscape_AndreaGuarracino.pdf) |
 |2020/09/21 | 2020/09/23 | [T2T-HPRC-Virtual Conference](https://www.t2t-hprc-2020conference.com/) | Graph Layout by Path-Guided Stochastic Gradient | [Abstract](abstracts/T2T_HPRC_GraphLayoutByPath-GuidedStochasticGradientDescent_Abstract_AndreaGuarracino.pdf), [Poster](posters/T2T_HPRC_GraphLayoutByPath-GuidedStochasticGradientDescent_Poster_Portrait_AndreaGuarracino.pdf)|
