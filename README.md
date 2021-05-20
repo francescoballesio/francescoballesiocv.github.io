@@ -43,7 +43,7 @@ Curriculum Vitae
 
 ### Courses
 |DateStart| DateEnd| Title |  Material |
-|-----------|------------| ---------- |---------- |--------|
+|-----------|------------| ---------- |--------|
 |2020/07/08 | 2020/07/08 |  Overcoming Challenges in Academic Writing: Tips for Writing Articles and Grant Applications | [Certificate](certificates/CertificateOvercomingChallengesAcademicWriting_ENAGO.pdf), [Link](https://www.enago.com/academy/how-to-overcome-challenges-in-academic-writing/)|
 |2018/04/21 | 2019/04/21 |  English language certification | [Certificate](certificates/EnglishCertificateESOL_B2_CEFR.pdf)|
 |2017/09/27 | 2017/09/29 |  Best practices for RNA-Seq data analysis - ELIXIR-IIB | [Certificate](certificates/CertificateBestPracticesForRNAseqDataAnalysis_ELIXIR_IIB.pdf), [Link](https://elixir-iib-training.github.io/website/2017/09/27/RNA-seq-Salerno.html), [Repository](https://github.com/ELIXIR-IIB-training/RNASeq2017) |
