@@ -3,13 +3,14 @@ Curriculum Vitae
 
 
 ### Publications
-|Date| Journal |Title |  DOI |
+|Date| Journal |Title | Links |
 |--------- |---------- |---------- |--------|
-|2021/05/17 | Communications Biology | Genome-wide bioinformatic analyses predict key host and viral factors in SARS-CoV-2 pathogenesis | [Link](https://doi.org/10.1038/s42003-021-02095-0), [Repository](https://github.com/vaguiarpulido/covid19-research.git)|
-|2021/04/19 | Cancers | The Targeting of MRE11 or RAD51 Sensitizes Colorectal Cancer Stem Cells to CHK1 Inhibition | [Link](https://doi.org/10.3390/cancers13081957)|
-|2021/03/24 | Cell Death & Disease | Inhibition of HECT E3 ligases as potential therapy for COVID-19 | [Link](https://doi.org/10.1038/s41419-021-03513-1)|
-|2021/03/01 | NAR Genomics and Bioinformatics | *Relative Information Gain: Shannon entropy-based measure of the relative structural conservation in RNA alignments. <br/>\****Shared first authorship*** | [Link](https://doi.org/10.1093/nargab/lqab007), [Repository](https://github.com/helmercitterich-lab/RIG) |
-|2021/02/02 | Cell Death & Differentiation | Control of replication stress and mitosis in colorectal cancer stem cells through the interplay of PARP1, MRE11 and RAD51 | [Link](https://doi.org/10.1038/s41418-020-00733-4)|
+|2021/05/26 | Nucleic Acids Research | *BRIO: a web server for RNA sequence and structure motif scan <br/>\****Shared first authorship*** | [Publication](https://doi.org/10.1093/nar/gkab400), [Web server](http://brio.bio.uniroma2.it/), [Repository](https://github.com/helmercitterich-lab/BRIO)|
+|2021/05/17 | Communications Biology | Genome-wide bioinformatic analyses predict key host and viral factors in SARS-CoV-2 pathogenesis | [Publication](https://doi.org/10.1038/s42003-021-02095-0), [Repository](https://github.com/vaguiarpulido/covid19-research.git)|
+|2021/04/19 | Cancers | The Targeting of MRE11 or RAD51 Sensitizes Colorectal Cancer Stem Cells to CHK1 Inhibition | [Publication](https://doi.org/10.3390/cancers13081957)|
+|2021/03/24 | Cell Death & Disease | Inhibition of HECT E3 ligases as potential therapy for COVID-19 | [Publication](https://doi.org/10.1038/s41419-021-03513-1)|
+|2021/03/01 | NAR Genomics and Bioinformatics | *Relative Information Gain: Shannon entropy-based measure of the relative structural conservation in RNA alignments <br/>\****Shared first authorship*** | [Publication](https://doi.org/10.1093/nargab/lqab007), [Repository](https://github.com/helmercitterich-lab/RIG) |
+|2021/02/02 | Cell Death & Differentiation | Control of replication stress and mitosis in colorectal cancer stem cells through the interplay of PARP1, MRE11 and RAD51 | [Publication](https://doi.org/10.1038/s41418-020-00733-4)|
 
 ### Teachings
 |DateStart| Course |  Material |
