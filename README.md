@@ -44,21 +44,22 @@ Curriculum Vitae
 
 
 ### Courses
-|DateStart| DateEnd| Title |  Material |
-|-----------|------------| ---------- |--------|
+|DateStart| DateEnd | Title | Material |
+|-----------|------------|----------|--------|
 |2020/07/08 | 2020/07/08 |  Overcoming Challenges in Academic Writing: Tips for Writing Articles and Grant Applications | [Certificate](certificates/CertificateOvercomingChallengesAcademicWriting_ENAGO.pdf), [Link](https://www.enago.com/academy/how-to-overcome-challenges-in-academic-writing/)|
 |2018/04/21 | 2019/04/21 |  English language certification | [Certificate](certificates/EnglishCertificateESOL_B2_CEFR.pdf)|
 |2017/09/27 | 2017/09/29 |  Best practices for RNA-Seq data analysis - ELIXIR-IIB | [Certificate](certificates/CertificateBestPracticesForRNAseqDataAnalysis_ELIXIR_IIB.pdf), [Link](https://elixir-iib-training.github.io/website/2017/09/27/RNA-seq-Salerno.html), [Repository](https://github.com/ELIXIR-IIB-training/RNASeq2017) |
 
 
 ### Helper activities
-|DateStart| DateEnd| Event |Title |  Material |
-|-----------|------------| ---------- |---------- |--------|
+|DateStart | DateEnd | Event | Title | Material |
+|-----------|------------|----------|----------|--------|
 |2020/06/07 | 2020/08/30 | [Google Summer of Code (GSOC)](https://summerofcode.withgoogle.com/) | Parallel Graph Traversal for Variation Graphs | [Link](https://gsocgraph.blogspot.com/2020/08/final-week-recap-of-my-gsoc-experience.html)|
 
 
-### Other
-|DateStart| Topic |Title |  Material |
-|-----------|------------| ---------- |---------- |
-|2020/10/20 | [Human Pangenome Reference Consortium](https://humanpangenome.org/about-us/associate-members/) | Associate Member of the Human Pangenome Reference Consortium | [Link](https://humanpangenome.org/about-us/associate-members/)|
-|2020/06/20 | [Lemonde/binaire](https://www.lemonde.fr/blog/binaire/) | Quote in the newspaper "Le Monde": SARS-CoV-2 et Covid-19 | [Link](https://www.lemonde.fr/blog/binaire/2020/05/06/sars-cov-2-et-covid-19-on-va-jouer-sur-les-mots/)|
+### Achievements
+|DateStart | Place | Title |  Material |
+|-----------|------------|----------|----------|
+|2020/10/20 | Ph.D. school, University of Rome Tor Vergata | Chair at the **Deciphering the complexity in neurodegeneration and cancer** workshop | [Poster](achievements/PhDWorkshop_DecipheringTheComplexityInNeurodegenAndCancer_Poster_AndreaGuarracino.pdf) |
+|2020/10/20 | [Human Pangenome Reference Consortium](https://humanpangenome.org/about-us/associate-members/) | Associate Member of the **Human Pangenome Reference Consortium** | [Link](https://humanpangenome.org/about-us/associate-members/)|
+|2020/06/20 | [Lemonde/binaire](https://www.lemonde.fr/blog/binaire/) | Quote in the newspaper **Le Monde**: SARS-CoV-2 et Covid-19 | [Link](https://www.lemonde.fr/blog/binaire/2020/05/06/sars-cov-2-et-covid-19-on-va-jouer-sur-les-mots/)|
