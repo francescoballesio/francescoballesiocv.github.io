@@ -60,6 +60,6 @@ Curriculum Vitae
 ### Achievements
 |DateStart | Place | Title |  Material |
 |-----------|------------|----------|----------|
-|2020/10/20 | Ph.D. school, University of Rome Tor Vergata | Chair at the **Deciphering the complexity in neurodegeneration and cancer** workshop | [Poster](achievements/PhDWorkshop_DecipheringTheComplexityInNeurodegenAndCancer_Poster_AndreaGuarracino.pdf) |
+|2021/07/09 | Ph.D. school, University of Rome Tor Vergata | Chair at the **Deciphering the complexity in neurodegeneration and cancer** workshop | [Poster](achievements/PhDWorkshop_DecipheringTheComplexityInNeurodegenAndCancer_Poster_AndreaGuarracino.pdf) |
 |2020/10/20 | [Human Pangenome Reference Consortium](https://humanpangenome.org/about-us/associate-members/) | Associate Member of the **Human Pangenome Reference Consortium** | [Link](https://humanpangenome.org/about-us/associate-members/)|
 |2020/06/20 | [Lemonde/binaire](https://www.lemonde.fr/blog/binaire/) | Quote in the newspaper **Le Monde**: SARS-CoV-2 et Covid-19 | [Link](https://www.lemonde.fr/blog/binaire/2020/05/06/sars-cov-2-et-covid-19-on-va-jouer-sur-les-mots/)|
