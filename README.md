@@ -30,6 +30,7 @@ Curriculum Vitae
 ### Abstracts / Talks / Posters
 |DateStart| DateEnd| Conference |Title |  Material |
 |-----------|------------| ---------- |---------- |--------|
+|2021/09/06 | 2021/09/08 | [German Conference on Bioinformatics](https://dechema.converia.de/frontend/index.php?folder_id=3138&page_id=) | ODGI: scalable tools for pangenome graphs | [Abstract](abstracts/GCB2021_ODGIScalableToolsForPangenomeGraphs_Abstract_AndreaGuarracino.pdf) |
 |2021/06/09 | 2021/06/12 | [EACR](https://www.eacr2021.org/) | Control of replication stress and mitosis in cancer stem cells | [Abstract](abstracts/EACR2021_ControlReplicationStressAndMitosisInCancerStemCells_Abstract_AndreaGuarracino.pdf), [Poster](posters/EACR2021_ControlReplicationStressAndMitosisInCancerStemCells_Poster_AndreaGuarracino.pdf) |
 |2021/05/20 | 2021/05/21 | [EMBL in Italy](http://www.embl-hamburg.de/aboutus/alumni/events-networks/local-chapters/italy/48_genoa_2021/index.html) | Identification of RNA sequence and structure motifs for protein interaction | [Poster](posters/EMBLInItaly2021_IdentificationOfRNASeqAndStrMotifsForProteinInteraction_AndreaGuarracino.pdf) |
 |2021/05/11 | 2021/05/14 | [The Biology of Genomes](https://meetings.cshl.edu/meetings.aspx?meet=GENOME&year=21) | The PanGenome Graph Builder | [Abstract](abstracts/BoG2021_ThePangenomeGraphBuilder_Abstract_AndreaGuarracino.pdf), [Poster](posters/BoG2021_ThePanGenomeGraphBuilder_Poster_AndreaGuarracino.pdf) |
