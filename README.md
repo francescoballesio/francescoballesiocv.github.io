@@ -27,6 +27,13 @@ Curriculum Vitae
 |2021/02/23 | [PLOS ONE](https://journals.plos.org/plosone/) | 
 
 
+### Mentoring experience
+| DateStart | DateEnd | Place | Thesis |
+|-----------|---------|-------|--------|
+|2020/03/09 | 2021/03/12 | Master's degree in Bioinformatics, University of Rome Tor Vergata | Machine Learning methods applied to kinase-substrate interaction prediction |
+|2020/03/02 | 2020/12/17 | Master's degree in Bioinformatics, University of Rome Tor Vergata | Natural Language Processing techniques for protein encoding applied to phosphorylation prediction |
+
+
 ### Abstracts / Talks / Posters
 |DateStart| DateEnd| Conference |Title |  Material |
 |-----------|------------| ---------- |---------- |--------|
