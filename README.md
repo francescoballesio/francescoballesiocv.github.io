@@ -15,7 +15,7 @@ Curriculum Vitae
 ### Teachings
 | DateStart | DateEnd | Course | Material |
 |-----------|---------|--------|----------|
-|2020/10/22 | present | Teacher in Data Structures for Bioinformatics (2 CFU) - M.Sc. in Bioinformatics, University of Rome Tor Vergata | [Repository](https://github.com/AndreaGuarracino/DataStructuresForBioinformatics), [Link](https://didatticaweb.uniroma2.it/docenti/curriculum_vitae/T_343147-Andrea-Guarracino/0) |
+|2020/10/26 | present | Teacher in Data Structures for Bioinformatics (2 CFU) - M.Sc. in Bioinformatics, University of Rome Tor Vergata | [Repository](https://github.com/AndreaGuarracino/DataStructuresForBioinformatics), [Link](https://didatticaweb.uniroma2.it/docenti/curriculum_vitae/T_343147-Andrea-Guarracino/0) |
 |2019/10/07 | 2020/12/07 | Tutor in Bioinformatics (6 CFU) - B.Sc. in Biological Science, University of Rome Tor Vergata | - |
 |2019/06/07 | 2021/07/21 | Exam assistance for Molecular Biology (8 CFU) and Bioinformatics (6 CFU) - B.Sc. in Biological Science, University of Rome Tor Vergata | - |
 
@@ -37,6 +37,8 @@ Curriculum Vitae
 ### Abstracts / Talks / Posters
 |DateStart| DateEnd| Conference |Title |  Material |
 |-----------|------------| ---------- |---------- |--------|
+|2021/09/27 | 2021/10/01 | [Biodiversity Genomics 2021](https://enrolment.engage-powered.com/hinxtonhall/go/register.aspx) | Chromosome communities in the human pangenome | Abstract (coming soon) |
+|2021/09/21 | 2021/09/24 | [AGI2021 Congress](https://agi2021.centercongressi.com/programme.php) | A pangenome for the expanded BXD family of mice | Abstract (coming soon), Poster (coming soon) |
 |2021/09/06 | 2021/09/08 | [German Conference on Bioinformatics](https://dechema.converia.de/frontend/index.php?folder_id=3138&page_id=) | ODGI: scalable tools for pangenome graphs | [Abstract](abstracts/GCB2021_ODGIScalableToolsForPangenomeGraphs_Abstract_AndreaGuarracino.pdf) |
 |2021/06/09 | 2021/06/12 | [EACR](https://www.eacr2021.org/) | Control of replication stress and mitosis in cancer stem cells | [Abstract](abstracts/EACR2021_ControlReplicationStressAndMitosisInCancerStemCells_Abstract_AndreaGuarracino.pdf), [Poster](posters/EACR2021_ControlReplicationStressAndMitosisInCancerStemCells_Poster_AndreaGuarracino.pdf) |
 |2021/05/20 | 2021/05/21 | [EMBL in Italy](http://www.embl-hamburg.de/aboutus/alumni/events-networks/local-chapters/italy/48_genoa_2021/index.html) | Identification of RNA sequence and structure motifs for protein interaction | [Poster](posters/EMBLInItaly2021_IdentificationOfRNASeqAndStrMotifsForProteinInteraction_AndreaGuarracino.pdf) |
