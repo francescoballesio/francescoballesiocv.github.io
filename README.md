@@ -15,9 +15,10 @@ Curriculum Vitae
 ### Teachings
 | DateStart | DateEnd | Course | Material |
 |-----------|---------|--------|----------|
-|2020/10/26 | present | Teacher in Data Structures for Bioinformatics (2 CFU) - M.Sc. in Bioinformatics, University of Rome Tor Vergata | [Repository](https://github.com/AndreaGuarracino/DataStructuresForBioinformatics), [Link](https://didatticaweb.uniroma2.it/docenti/curriculum_vitae/T_343147-Andrea-Guarracino/0) |
+|2020/10/26 | present | Teacher in Data Structures for Bioinformatics (2 C.F.U.) - M.Sc. in Bioinformatics, University of Rome Tor Vergata | [Repository](https://github.com/AndreaGuarracino/DataStructuresForBioinformatics), [Link](https://didatticaweb.uniroma2.it/docenti/curriculum_vitae/T_343147-Andrea-Guarracino/0) |
 |2019/10/07 | 2020/12/07 | Tutor in Bioinformatics (6 CFU) - B.Sc. in Biological Science, University of Rome Tor Vergata | - |
-|2019/06/07 | 2021/07/21 | Exam assistance for Molecular Biology (8 CFU) and Bioinformatics (6 CFU) - B.Sc. in Biological Science, University of Rome Tor Vergata | - |
+|2019/12/16 | 29/03/2021 | Exam assistance for Computational Proteogenomics (2 C.F.U.) - M.Sc. in Bioinformatics, University of Rome Tor Vergata | [Statistics (page 1)](other/EsamiSvoltiLaureeDocentePerAnnoAccademico.2021.11.05.pdf) |
+|2019/06/07 | 2021/07/21 | Exam assistance for Molecular Biology (8 C.F.U.) and Bioinformatics (6 C.F.U.) - B.Sc. in Biological Science, University of Rome Tor Vergata | [Statistics (page 1)](other/EsamiSvoltiLaureeDocentePerAnnoAccademico.2021.11.05.pdf) |
 
 
 ### Reviewer for international journals
@@ -28,10 +29,10 @@ Curriculum Vitae
 
 
 ### Mentoring experience
-| DateStart | DateEnd | Place | Thesis |
-|-----------|---------|-------|--------|
-|2020/03/09 | 2021/03/12 | Master's degree in Bioinformatics, University of Rome Tor Vergata | Machine Learning methods applied to kinase-substrate interaction prediction |
-|2020/03/02 | 2020/12/17 | Master's degree in Bioinformatics, University of Rome Tor Vergata | Natural Language Processing techniques for protein encoding applied to phosphorylation prediction |
+| DateStart | DateEnd | Place | Thesis title | Statistics |
+|-----------|---------|-------|--------|--------|
+|2020/03/09 | 2021/03/12 | Master's degree in Bioinformatics, University of Rome Tor Vergata | Machine Learning methods applied to kinase-substrate interaction prediction | [Statistics (page 2)](other/EsamiSvoltiLaureeDocentePerAnnoAccademico.2021.11.05.pdf) |
+|2020/03/02 | 2020/12/17 | Master's degree in Bioinformatics, University of Rome Tor Vergata | Natural Language Processing techniques for protein encoding applied to phosphorylation prediction | [Statistics (page 2)](other/EsamiSvoltiLaureeDocentePerAnnoAccademico.2021.11.05.pdf) |
 
 
 ### Abstracts / Talks / Posters
