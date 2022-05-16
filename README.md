@@ -5,6 +5,7 @@ Curriculum Vitae
 ### Publications
 |Date| Journal |Title | Links |
 |--------- |---------- |---------- |--------|
+|2022/05/13 | ODGI: understanding pangenome graphs | [Publication](https://doi.org/10.1093/bioinformatics/btac308)|
 |2022/02/15 | Non-coding RNA Research | Evaluation of potential miRNA sponge effects of SARS genomes in human | [Publication](https://doi.org/10.1016/j.ncrna.2022.01.003)|
 |2021/05/26 | Nucleic Acids Research | *BRIO: a web server for RNA sequence and structure motif scan <br/>\****Shared first authorship*** | [Publication](https://doi.org/10.1093/nar/gkab400), [Web server](http://brio.bio.uniroma2.it/), [Repository](https://github.com/helmercitterich-lab/BRIO), [Graphical abstract](abstracts/BRIO_GraphicalAbstract_AndreaGuarracino.pdf)|
 |2021/05/17 | Communications Biology | Genome-wide bioinformatic analyses predict key host and viral factors in SARS-CoV-2 pathogenesis | [Publication](https://doi.org/10.1038/s42003-021-02095-0), [Repository](https://github.com/vaguiarpulido/covid19-research.git)|
