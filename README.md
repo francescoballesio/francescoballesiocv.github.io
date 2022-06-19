@@ -15,12 +15,13 @@ Curriculum Vitae
 |2021/02/02 | Cell Death & Differentiation | Control of replication stress and mitosis in colorectal cancer stem cells through the interplay of PARP1, MRE11 and RAD51 | [Publication](https://doi.org/10.1038/s41418-020-00733-4)|
 
 ### Teachings
-| DateStart | DateEnd | Course | Material |
-|-----------|---------|--------|----------|
-|2020/10/26 | present | Teacher in Data Structures for Bioinformatics (2 C.F.U.) - M.Sc. in Bioinformatics, University of Rome Tor Vergata | [Repository](https://github.com/AndreaGuarracino/DataStructuresForBioinformatics), [Link](https://didatticaweb.uniroma2.it/docenti/curriculum_vitae/T_343147-Andrea-Guarracino/0) |
-|2019/10/07 | 2020/12/07 | Tutor in Bioinformatics (6 CFU) - B.Sc. in Biological Science, University of Rome Tor Vergata | - |
-|2019/12/16 | 29/03/2021 | Exam assistance for Computational Proteogenomics (2 C.F.U.) - M.Sc. in Bioinformatics, University of Rome Tor Vergata | [Statistics (page 1)](other/EsamiSvoltiLaureeDocentePerAnnoAccademico.2021.11.05.pdf) |
-|2019/06/07 | 2021/07/21 | Exam assistance for Molecular Biology (8 C.F.U.) and Bioinformatics (6 C.F.U.) - B.Sc. in Biological Science, University of Rome Tor Vergata | [Statistics (page 1)](other/EsamiSvoltiLaureeDocentePerAnnoAccademico.2021.11.05.pdf) |
+| DateStart  | DateEnd    | Course                                                                                                                                       | Material                                                                                                                                                                          |
+|------------|------------|----------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 2022/05/23 | 2022/05/27 | CPANG22 Computational PANGenomics, Instituto Gulbenkian de Ciência, Oeiras, Portugal                                                         | [Website](https://gtpb.github.io/CPANG22/), [Repository](https://github.com/GTPB/CPANG22), [Poster](other/CPANG22_Poster.AndreaGuarracino.pdf)                                                                   |
+| 2020/10/26 | present    | Teacher in Data Structures for Bioinformatics (2 C.F.U.) - M.Sc. in Bioinformatics, University of Rome Tor Vergata                           | [Repository](https://github.com/AndreaGuarracino/DataStructuresForBioinformatics), [Link](https://didatticaweb.uniroma2.it/docenti/curriculum_vitae/T_343147-Andrea-Guarracino/0) |
+| 2019/10/07 | 2020/12/07 | Tutor in Bioinformatics (6 CFU) - B.Sc. in Biological Science, University of Rome Tor Vergata                                                | -                                                                                                                                                                                 |
+| 2019/12/16 | 29/03/2021 | Exam assistance for Computational Proteogenomics (2 C.F.U.) - M.Sc. in Bioinformatics, University of Rome Tor Vergata                        | [Statistics (page 1)](other/EsamiSvoltiLaureeDocentePerAnnoAccademico.2021.11.05.pdf)                                                                                             |
+| 2019/06/07 | 2021/07/21 | Exam assistance for Molecular Biology (8 C.F.U.) and Bioinformatics (6 C.F.U.) - B.Sc. in Biological Science, University of Rome Tor Vergata | [Statistics (page 1)](other/EsamiSvoltiLaureeDocentePerAnnoAccademico.2021.11.05.pdf)                                                                                             |
 
 
 ### Reviewer for international journals
