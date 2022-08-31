@@ -73,7 +73,7 @@ November 2018 - present<br/>
 April 2020 - present<br/>
 <ul>
     <li>Developing of tools to construct pangenome graphs of any complexity and scale (<a href="https://github.com/pangenome/pggb">pggb</a>, <a href="https://github.com/pangenome/smoothxg">smoothxg</a>)</li>
-    <li>Optimized Dynamic Genome/Graph Implementation ([ODGI](https://github.com/pangenome/odgi) development to analyze and manipulate pangenome graphs, scaling up to large collections of eukaryotic genomes (<a href="https://doi.org/10.1093/bioinformatics/btac308">Guarracino et al., 2022</a>)</li>
+    <li>Optimized Dynamic Genome/Graph Implementation (<a href="https://github.com/pangenome/odgi">ODGI</a>) development to analyze and manipulate pangenome graphs, scaling up to large collections of eukaryotic genomes (<a href="https://doi.org/10.1093/bioinformatics/btac308">Guarracino et al., 2022</a>)</li>
     <li>Development of a new algorithm for sorting pangenome graphs to simplify downstream analyses on them (<a href="https://github.com/pangenome/odgi/blob/master/src/algorithms/path_sgd.cpp">Path-guided Sorting</a>, <a href="https://github.com/pangenome/odgi/blob/master/src/algorithms/path_sgd_layout.cpp">Path-guided Layout</a>)</li>
     <li>Development of a new gap-affine pairwise aligner to align whole eukaryotic chromosomes (<a href="https://github.com/waveygang/wfmash">wfmash</a>)</li>
     <li>Software and workflows development for PubSeq, a free and open online public sequence resource with on-the-fly analysis (<a href="https://github.com/pubseq/bh20-seq-resource">bh20-seq-resource</a>)</li>
