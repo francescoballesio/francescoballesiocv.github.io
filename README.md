@@ -64,7 +64,7 @@ November 2018 - present<br/>
     <li>Proteomic and phosphoproteomic analyses of Reverse Phase Protein microarray (RPPA) data</li>
     <li>RNA structural characterization and conservation research (<a href="https://doi.org/10.1093/nargab/lqab007">Pietrosanto, Adinolfi, Guarracino et al., 2021</a>)</li>
     <li>Web server development for RNA sequence and structure motif scan (<a href="https://doi.org/10.1093/nar/gkab400">Guarracino et al., 2021</a>)</li>
-    <li>Energetic and functional analyses of phosphorylations applied _in silico_ on 3D structures of protein complexes</li>
+    <li>Energetic and functional analyses of phosphorylations applied <em>in silico</em> on 3D structures of protein complexes</li>
     <li>Cox modeling and survival analysis on patient cohorts (from TCGA and cBioPortal platforms)</li>
     <li>Basic procedures on High Performance Computing (HPC) machines</li>
 </ul>
