@@ -1,0 +1,25 @@
+name: README.md to index.html
+
+# This workflow is triggered on pushes to the repository.
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  converttohtml:
+    name: Build HTML
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: baileyjm02/markdown-to-pdf@v1
+        with:
+          input_path: README.md
+          output_dir: .
+          build_html: true
+          build_pdf: false
+          table_of_contents: true
+      - uses: actions/upload-artifact@v1
+        with:
+          name: README
+          path: '*.html'
