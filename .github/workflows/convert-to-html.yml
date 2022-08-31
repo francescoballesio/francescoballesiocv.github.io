@@ -11,15 +11,17 @@ jobs:
     name: Build HTML
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: docker://pandoc/core:2.9
       - uses: baileyjm02/markdown-to-pdf@v1
         with:
-          input_path: README.md
-          output_dir: .
-          build_html: true
-          build_pdf: false
-          table_of_contents: true
-      - uses: actions/upload-artifact@v1
+          # https://stackoverflow.com/questions/63928077/how-can-i-add-header-metadata-without-adding-the-h1
+          args: >-  # allows you to break string into multiple lines
+            -f markdown
+            --standalone
+            --metadata title="Andrea Guarracino CV" --variable=title=""
+            --output=index.html
+            README.md
+      - uses: actions/upload-artifact@v3
         with:
           name: README
-          path: '*.html'
+          path: index.html
