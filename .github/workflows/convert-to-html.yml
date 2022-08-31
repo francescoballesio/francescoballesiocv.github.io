@@ -12,7 +12,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: docker://pandoc/core:2.9
-      - uses: baileyjm02/markdown-to-pdf@v1
         with:
           # https://stackoverflow.com/questions/63928077/how-can-i-add-header-metadata-without-adding-the-h1
           args: >-  # allows you to break string into multiple lines
