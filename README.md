@@ -25,7 +25,7 @@ April 2020 - present<br/>
 </ul>
 
 **Ongoing projects with [University of Rome Tor Vergata](http://web.uniroma2.it/)** (Rome, Italy) under  Prof. Manuela Helmer-Citterich and Dr. Ilio Vitale.<br/>
-April 2020 - present<br/>
+November 2018 - present<br/>
 <ul>
     <li>Spindle Assembly Checkpoint functionality in colon-rectal cancer stem cells</li>
     <li>Exploiting karyotypic aberrations and chromosomal instability in cancer stem cells for precision immunotherapy</li>
