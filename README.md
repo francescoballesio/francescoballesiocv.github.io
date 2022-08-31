@@ -62,8 +62,8 @@ November 2018 - present<br/>
     <li>Analysis of Assay for Transposase-Accessible Chromatin using sequencing (ATAC-seq) data</li>
     <li>Normalization and correlation analysis of transcriptomic microarray data (Affymetrix)</li>
     <li>Proteomic and phosphoproteomic analyses of Reverse Phase Protein microarray (RPPA) data</li>
-    <li>RNA structural characterization and conservation research ([Pietrosanto, Adinolfi, Guarracino et al., 2021](https://doi.org/10.1093/nargab/lqab007))</li>
-    <li>Web server development for RNA sequence and structure motif scan ([Guarracino et al., 2021](https://doi.org/10.1093/nar/gkab400))</li>
+    <li>RNA structural characterization and conservation research (<a href="https://doi.org/10.1093/nargab/lqab007">Pietrosanto, Adinolfi, Guarracino et al., 2021</a>)</li>
+    <li>Web server development for RNA sequence and structure motif scan (<a href="https://doi.org/10.1093/nar/gkab400">Guarracino et al., 2021</a>)</li>
     <li>Energetic and functional analyses of phosphorylations applied _in silico_ on 3D structures of protein complexes</li>
     <li>Cox modeling and survival analysis on patient cohorts (from TCGA and cBioPortal platforms)</li>
     <li>Basic procedures on High Performance Computing (HPC) machines</li>
@@ -72,12 +72,12 @@ November 2018 - present<br/>
 **Development of new software for pangenome graphs building and analysis**<br/>
 April 2020 - present<br/>
 <ul>
-    <li>Developing of tools to construct pangenome graphs of any complexity and scale ([pggb](https://github.com/pangenome/pggb), [smoothxg](https://github.com/pangenome/smoothxg))</li>
-    <li>Optimized Dynamic Genome/Graph Implementation ([ODGI](https://github.com/pangenome/odgi) development to analyze and manipulate pangenome graphs, scaling up to large collections of eukaryotic genomes ([Guarracino et al., 2022](https://doi.org/10.1093/bioinformatics/btac308))</li>
-    <li>Development of a new algorithm for sorting pangenome graphs to simplify downstream analyses on them ([Path-guided Sorting](https://github.com/pangenome/odgi/blob/master/src/algorithms/path_sgd.cpp), [Path-guided Layout](https://github.com/pangenome/odgi/blob/master/src/algorithms/path_sgd_layout.cpp))</li>
-    <li>Development of a new gap-affine pairwise aligner to align whole eukaryotic chromosomes ([wfmash](https://github.com/waveygang/wfmash))</li>
-    <li>Software and workflows development for PubSeq, a free and open online public sequence resource with on-the-fly analysis ([bh20-seq-resource](https://github.com/pubseq/bh20-seq-resource))</li>
-    <li>Pangenome graph browser development ([Pantograph](https://github.com/graph-genome/graph-genome.github.io))</li>
+    <li>Developing of tools to construct pangenome graphs of any complexity and scale (<a href="https://github.com/pangenome/pggb">pggb</a>, <a href="https://github.com/pangenome/smoothxg">smoothxg</a>)</li>
+    <li>Optimized Dynamic Genome/Graph Implementation ([ODGI](https://github.com/pangenome/odgi) development to analyze and manipulate pangenome graphs, scaling up to large collections of eukaryotic genomes (<a href="https://doi.org/10.1093/bioinformatics/btac308">Guarracino et al., 2022</a>)</li>
+    <li>Development of a new algorithm for sorting pangenome graphs to simplify downstream analyses on them (<a href="https://github.com/pangenome/odgi/blob/master/src/algorithms/path_sgd.cpp">Path-guided Sorting</a>, <a href="https://github.com/pangenome/odgi/blob/master/src/algorithms/path_sgd_layout.cpp">Path-guided Layout</a>)</li>
+    <li>Development of a new gap-affine pairwise aligner to align whole eukaryotic chromosomes (<a href="https://github.com/waveygang/wfmash">wfmash</a>)</li>
+    <li>Software and workflows development for PubSeq, a free and open online public sequence resource with on-the-fly analysis (<a href="https://github.com/pubseq/bh20-seq-resource">bh20-seq-resource</a>)</li>
+    <li>Pangenome graph browser development (<a href="https://github.com/graph-genome/graph-genome.github.io">Pantograph</a>)</li>
 </ul>
 
 ### Working Experience
@@ -92,7 +92,7 @@ March 2013 - October 2018
     <li>Implementation of proprietary communication protocols and contact/contactless (RFID) interfaces</li>
     <li>Development and maintenance of websites and e-commerce</li>
     <li>Remote assistance to customers for the usage and programming of multi-service machines, taking feedback to further improve the solutions offered</li>
-    <li>Patent application on a universal system for services fruition, with validation, reconstruction, and credit self-reloading management, on read-only and read/write supports (ITUA20165252, A1) ([Patent](https://it.espacenet.com/publicationDetails/biblio?II=0&ND=3&adjacent=true&locale=it_IT&FT=D&date=20171228&CC=IT&NR=UA20165252A1&KC=A1))</li>
+    <li>Patent application on a universal system for services fruition, with validation, reconstruction, and credit self-reloading management, on read-only and read/write supports (ITUA20165252, A1) (<a href="https://it.espacenet.com/publicationDetails/biblio?II=0&amp;ND=3&amp;adjacent=true&amp;locale=it_IT&amp;FT=D&amp;date=20171228&amp;CC=IT&amp;NR=UA20165252A1&amp;KC=A1">Patent</a>)</li>
     <li>Basic design of simple electrical circuits for controlling actuators and reading analog/digital signals</li>
 </ul>
 
