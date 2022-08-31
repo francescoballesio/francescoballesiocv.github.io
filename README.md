@@ -1,18 +1,100 @@
 Andrea Guarracino CV
 ==============
 
-### Publications (***first authorship**)
-|    Date    |             Journal             |                                                           Title                                                           |                                                                                                                 Links                                                                                                                  |
-|:----------:|:-------------------------------:|:-------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------:|
-| 2022/08/24 |        Nature Immunology        |                   Type I IFNs promote cancer cell stemness by triggering the epigenetic regulator KDM1B                   |                                                                                       [Publication](https://doi.org/10.1038/s41590-022-01290-3)                                                                                        |
-| 2022/05/13 |         Bioinformatics          |                                         ***ODGI: understanding pangenome graphs**                                         |                                                                                     [Publication](https://doi.org/10.1093/bioinformatics/btac308)                                                                                      |
-| 2022/02/15 |     Non-coding RNA Research     |                           Evaluation of potential miRNA sponge effects of SARS genomes in human                           |                                                                                       [Publication](https://doi.org/10.1016/j.ncrna.2022.01.003)                                                                                       |
-| 2021/05/26 |     Nucleic Acids Research      |                             ***BRIO: a web server for RNA sequence and structure motif scan**                             | [Publication](https://doi.org/10.1093/nar/gkab400), [Web server](http://brio.bio.uniroma2.it/), [Repository](https://github.com/helmercitterich-lab/BRIO), [Graphical abstract](abstracts/BRIO_GraphicalAbstract_AndreaGuarracino.pdf) |
-| 2021/05/17 |     Communications Biology      |             Genome-wide bioinformatic analyses predict key host and viral factors in SARS-CoV-2 pathogenesis              |                                                     [Publication](https://doi.org/10.1038/s42003-021-02095-0), [Repository](https://github.com/vaguiarpulido/covid19-research.git)                                                     |
-| 2021/04/19 |             Cancers             |                The Targeting of MRE11 or RAD51 Sensitizes Colorectal Cancer Stem Cells to CHK1 Inhibition                 |                                                                                         [Publication](https://doi.org/10.3390/cancers13081957)                                                                                         |
-| 2021/03/24 |      Cell Death & Disease       |                              Inhibition of HECT E3 ligases as potential therapy for COVID-19                              |                                                                                       [Publication](https://doi.org/10.1038/s41419-021-03513-1)                                                                                        |
-| 2021/03/01 | NAR Genomics and Bioinformatics |  ***Relative Information Gain: Shannon entropy-based measure of the relative structural conservation in RNA alignments**  |                                                            [Publication](https://doi.org/10.1093/nargab/lqab007), [Repository](https://github.com/helmercitterich-lab/RIG)                                                             |
-| 2021/02/02 |  Cell Death & Differentiation   | Control of replication stress and mitosis in colorectal cancer stem cells through the interplay of PARP1, MRE11 and RAD51 |                                                                                       [Publication](https://doi.org/10.1038/s41418-020-00733-4)                                                                                        |
+[//]: # (To generate the index.html file: pandoc -f markdown --standalone --metadata title="Andrea Guarracino CV" --variable=title="" --css=style.css --output=index.html README.md)
+
+[Twitter](https://twitter.com/AndresGuarahino) [Matrix](https://matrix.to/#/@andreaguarracino:matrix.org) [Code](https://github.com/AndreaGuarracino) [Papers](https://scholar.google.com/citations?user=zABbjIoAAAAJ)
+
+A computer engineer in love with the unknown side of biology.
+
+### Current Position and Research Projects
+**Postdoctoral Associate at the [Human Technopole](https://humantechnopole.it/en/)** (Milan, Italy) under Prof. Nicole Soranzo and
+Prof. Erik Garrison.<br/>
+November 2021 - present<br/>
+<ul>
+    <li>Development of new software for pangenome graphs building and analysis</li>
+</ul>
+
+**Collaboration with [University of Tennessee Health and Science Center](https://uthsc.edu/)** (Memphis, USA) under Prof. Erik Garrison and Prof. Pjotr Prins.<br/>
+April 2020 - present<br/>
+<ul>
+    <li>Development of tools for pangenome graph building, manipulation, and analyses</li>
+    <li>Studying chromosome communities (acrocentric and sex chromosomes) in the human pangenome</li>
+    <li>New generation of sequence aligners for aligning whole eukaryotic chromosomes</li>
+    <li>Development of a free and open online public sequence resource for SARS-CoV-2 data storage and analysis</li>
+</ul>
+
+**Ongoing projects with [University of Rome Tor Vergata](http://web.uniroma2.it/)** (Rome, Italy) under  Prof. Manuela Helmer-Citterich and Dr. Ilio Vitale.<br/>
+April 2020 - present<br/>
+<ul>
+    <li>Spindle Assembly Checkpoint functionality in colon-rectal cancer stem cells</li>
+    <li>Exploiting karyotypic aberrations and chromosomal instability in cancer stem cells for precision immunotherapy</li>
+</ul>
+
+### Education
+**Ph.D. in Cellular and Molecular Biology (Bioinformatics)<br/>
+[University of Rome Tor Vergata](http://web.uniroma2.it/)** (Rome, Italy)<br/>
+November 2018 - February 2022<br/>
+Thesis title: "Investigating chromosomal instability in cancer stem cells".<br/>
+Evaluation: excellent quality.
+
+**Master’s degree in Bioinformatics (LM-6)<br/>
+[University of Rome Tor Vergata](http://web.uniroma2.it/)** (Rome, Italy)<br/>
+October 2016 - October 2018<br/>
+Thesis title: "Energetic and functional characterization of phosphorylations involved in the co-regulation of protein interactions".<br/>
+Evaluation: 110/110 cum laude, GPA: 4.00, A+.
+
+**Bachelor’s degree in Computer Engineering (L-8)<br/>
+[University of Salerno](https://www.unisa.it/)** (Rome, Italy)<br/>
+November 2007 - October 2010<br/>
+Thesis title: "HDR methods for industrial inspection applications".<br/>
+Evaluation: 110/110 cum laude, GPA: 4.00, A+.
+
+### Research Experience
+**Bioinformatic analyses of multiomics data<br/>
+[University of Rome Tor Vergata](http://web.uniroma2.it/)** (Rome, Italy)<br/>
+November 2018 - present<br/>
+<ul>
+    <li>Germline and somatic variants analyses on Whole-Exome sequencing (WES) data: quality control, sample matching, rRNA contamination, read trimming and mapping, variant calling, and functional prediction</li>
+    <li>Microsatellite instability (MSI) status on paired tumor-normal and tumor-only WES data</li>
+    <li>Variant calling and differential expression analyses on RNA-seq data</li>
+    <li>Neoantigen prediction and prioritization by integrating WES data and RNA-seq data</li>
+    <li>Analysis of Assay for Transposase-Accessible Chromatin using sequencing (ATAC-seq) data</li>
+    <li>Normalization and correlation analysis of transcriptomic microarray data (Affymetrix)</li>
+    <li>Proteomic and phosphoproteomic analyses of Reverse Phase Protein microarray (RPPA) data</li>
+    <li>RNA structural characterization and conservation research ([Pietrosanto, Adinolfi, Guarracino et al., 2021](https://doi.org/10.1093/nargab/lqab007))</li>
+    <li>Web server development for RNA sequence and structure motif scan ([Guarracino et al., 2021](https://doi.org/10.1093/nar/gkab400))</li>
+    <li>Energetic and functional analyses of phosphorylations applied _in silico_ on 3D structures of protein complexes</li>
+    <li>Cox modeling and survival analysis on patient cohorts (from TCGA and cBioPortal platforms)</li>
+    <li>Basic procedures on High Performance Computing (HPC) machines</li>
+</ul>
+
+**Development of new software for pangenome graphs building and analysis**<br/>
+April 2020 - present<br/>
+<ul>
+    <li>Developing of tools to construct pangenome graphs of any complexity and scale ([pggb](https://github.com/pangenome/pggb), [smoothxg](https://github.com/pangenome/smoothxg))</li>
+    <li>Optimized Dynamic Genome/Graph Implementation ([ODGI](https://github.com/pangenome/odgi) development to analyze and manipulate pangenome graphs, scaling up to large collections of eukaryotic genomes ([Guarracino et al., 2022](https://doi.org/10.1093/bioinformatics/btac308))</li>
+    <li>Development of a new algorithm for sorting pangenome graphs to simplify downstream analyses on them ([Path-guided Sorting](https://github.com/pangenome/odgi/blob/master/src/algorithms/path_sgd.cpp), [Path-guided Layout](https://github.com/pangenome/odgi/blob/master/src/algorithms/path_sgd_layout.cpp))</li>
+    <li>Development of a new gap-affine pairwise aligner to align whole eukaryotic chromosomes ([wfmash](https://github.com/waveygang/wfmash))</li>
+    <li>Software and workflows development for PubSeq, a free and open online public sequence resource with on-the-fly analysis ([bh20-seq-resource](https://github.com/pubseq/bh20-seq-resource))</li>
+    <li>Pangenome graph browser development ([Pantograph](https://github.com/graph-genome/graph-genome.github.io))</li>
+</ul>
+
+### Working Experience
+**Computer engineer for multiplatform firmware/software development<br/>
+[GISA S.n.c.](https://www.gisaitalia.net/)** (Salerno, Italy)<br/>
+March 2013 - October 2018
+<ul>
+    <li>Firmware development in STMicroelectronics microcontrollers for high efficiency embedded systems</li>
+    <li>Firmware and library development in open-source hardware and software platforms (Arduino/Genuino)</li>
+    <li>Development of multi-management software and desktop applications for embedded systems programming</li>
+    <li>Mobile applications development for programming and the control of multi-service machines via Bluetooth</li>
+    <li>Implementation of proprietary communication protocols and contact/contactless (RFID) interfaces</li>
+    <li>Development and maintenance of websites and e-commerce</li>
+    <li>Remote assistance to customers for the usage and programming of multi-service machines, taking feedback to further improve the solutions offered</li>
+    <li>Patent application on a universal system for services fruition, with validation, reconstruction, and credit self-reloading management, on read-only and read/write supports (ITUA20165252, A1) ([Patent](https://it.espacenet.com/publicationDetails/biblio?II=0&ND=3&adjacent=true&locale=it_IT&FT=D&date=20171228&CC=IT&NR=UA20165252A1&KC=A1))</li>
+    <li>Basic design of simple electrical circuits for controlling actuators and reading analog/digital signals</li>
+</ul>
 
 ### Teachings
 | Start date |  End date  |                                                                     Course                                                                     |                                                                                     Material                                                                                      |
@@ -22,6 +104,20 @@ Andrea Guarracino CV
 | 2019/10/07 | 2020/12/07 |                         Tutor in Bioinformatics (6 CFU) - B.Sc. in Biological Science, University of Rome Tor Vergata                          |                                                                                         -                                                                                         |
 | 2019/12/16 | 29/03/2021 |             Exam assistance for Computational Proteogenomics (2 C.F.U.) - M.Sc. in Bioinformatics, University of Rome Tor Vergata              |                                               [Statistics (page 1)](other/EsamiSvoltiLaureeDocentePerAnnoAccademico.2021.11.05.pdf)                                               |
 | 2019/06/07 | 2021/07/21 |  Exam assistance for Molecular Biology (8 C.F.U.) and Bioinformatics (6 C.F.U.) - B.Sc. in Biological Science, University of Rome Tor Vergata  |                                               [Statistics (page 1)](other/EsamiSvoltiLaureeDocentePerAnnoAccademico.2021.11.05.pdf)                                               |
+
+### Publications (***first authorship**)
+| Date       | Journal                         | Title                                                                                                                     |                                                                                                                 Links                                                                                                                  |
+|:-----------|:--------------------------------|:--------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------:|
+| 2022/08/24 | Nature Immunology               | Type I IFNs promote cancer cell stemness by triggering the epigenetic regulator KDM1B                                     |                                                                                       [Publication](https://doi.org/10.1038/s41590-022-01290-3)                                                                                        |
+| 2022/05/13 | Bioinformatics                  | ***ODGI: understanding pangenome graphs**                                                                                 |                                                                                     [Publication](https://doi.org/10.1093/bioinformatics/btac308)                                                                                      |
+| 2022/02/15 | Non-coding RNA Research         | Evaluation of potential miRNA sponge effects of SARS genomes in human                                                     |                                                                                       [Publication](https://doi.org/10.1016/j.ncrna.2022.01.003)                                                                                       |
+| 2021/05/26 | Nucleic Acids Research          | ***BRIO: a web server for RNA sequence and structure motif scan**                                                         | [Publication](https://doi.org/10.1093/nar/gkab400), [Web server](http://brio.bio.uniroma2.it/), [Repository](https://github.com/helmercitterich-lab/BRIO), [Graphical abstract](abstracts/BRIO_GraphicalAbstract_AndreaGuarracino.pdf) |
+| 2021/05/17 | Communications Biology          | Genome-wide bioinformatic analyses predict key host and viral factors in SARS-CoV-2 pathogenesis                          |                                                     [Publication](https://doi.org/10.1038/s42003-021-02095-0), [Repository](https://github.com/vaguiarpulido/covid19-research.git)                                                     |
+| 2021/04/19 | Cancers                         | The Targeting of MRE11 or RAD51 Sensitizes Colorectal Cancer Stem Cells to CHK1 Inhibition                                |                                                                                         [Publication](https://doi.org/10.3390/cancers13081957)                                                                                         |
+| 2021/03/24 | Cell Death & Disease            | Inhibition of HECT E3 ligases as potential therapy for COVID-19                                                           |                                                                                       [Publication](https://doi.org/10.1038/s41419-021-03513-1)                                                                                        |
+| 2021/03/01 | NAR Genomics and Bioinformatics | ***Relative Information Gain: Shannon entropy-based measure of the relative structural conservation in RNA alignments**   |                                                            [Publication](https://doi.org/10.1093/nargab/lqab007), [Repository](https://github.com/helmercitterich-lab/RIG)                                                             |
+| 2021/02/02 | Cell Death & Differentiation    | Control of replication stress and mitosis in colorectal cancer stem cells through the interplay of PARP1, MRE11 and RAD51 |                                                                                       [Publication](https://doi.org/10.1038/s41418-020-00733-4)                                                                                        |
+
 
 ### Reviewer for international journals
 | Start date |                         Journal                          |
