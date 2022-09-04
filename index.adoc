@@ -317,7 +317,7 @@ See them on https://scholar.google.com/citations?user=zABbjIoAAAAJ[Google Schola
 
 | Nature, _In revision_
 | A draft human pangenome reference
-| Paper editing, pangenome graph creation, pangenome visualization, population genetic analysis
+| Paper editing, pangenome graph creation and visualization, population genetic analysis
 | icon:spinner[] {uri-liao2022-preprint}[Preprint]
 
 | Nature, _In revision_
@@ -370,7 +370,7 @@ icon:github[] {uri-github-covid19-research}[Repository]
 | Figure 4, _in silico_ 3D structures analysis
 | icon:book[] {uri-novelli2021}[Paper]
 
-| NAR Genomics and Bioinformatics, 2021
+| NAR Genomics & Bioinformatics, 2021
 | **Relative Information Gain: Shannon entropy-based measure of the relative structural conservation in RNA alignments*
 | Paper writing, contributed to Figure 2, made Figure 3, 4, and 5, and fixed, refactored and completed the framework
 | icon:book[] {uri-pietrosanto-adinolfi-guarracino2021-rig}[Paper] +
