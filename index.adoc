@@ -1,0 +1,533 @@
+// Urls
+:uri-twitter: https://twitter.com/AndresGuarahino
+:uri-github: https://github.com/AndreaGuarracino
+:uri-linkedin: https://www.linkedin.com/in/andreaguarracino
+:uri-google-scholar: https://scholar.google.com/citations?user=zABbjIoAAAAJ
+:uri-human-technopole: https://humantechnopole.it/en/
+:uri-uthsc: https://www.uthsc.edu/
+:uri-university-tor-vergata: http://web.uniroma2.it/
+:uri-university-salerno: https://web.unisa.it/en/home
+:uri-gisa: https://www.gisaitalia.net/
+:uri-gisa-patent: https://it.espacenet.com/publicationDetails/biblio?II=0&ND=3&adjacent=true&locale=it_IT&FT=D&date=20171228&CC=IT&NR=UA20165252A1&KC=A1
+:uri-human-genomics: https://humgenomics.biomedcentral.com/
+:uri-plos-one: https://journals.plos.org/plosone/
+
+// Abstracts/ Talks / Posters
+:uri-github-iggsy2022-presentation: https://andreaguarracino.github.io/presentations/IGGSy2022_ChromosomeCommunitiesHumanPangenome_Presentation_AndreaGuarracino.pdf
+:uri-iggsy2022: https://iggsy.org/
+:uri-3dbioinfo2021: https://elixir-europe.org/events/3d-bioinfo-2021-annual-meeting
+:uri-3dbioinfo2021-abstract: https://andreaguarracino.github.io/abstracts/3DBioinfo2021_RNASecondaryStructMotifsInvolvedInTheInteractionWithRBPs_Abstract_AndreaGuarracino.pdf
+:uri-biodiversitygenomics2021: https://enrolment.engage-powered.com/hinxtonhall/go/register.aspx
+:uri-biodiversitygenomics2021-abstract: https://andreaguarracino.github.io/abstracts/BiodiversityGenomics2021_ChromosomeCommunitiesHumanPangenome_Abstract_AndreaGuarracino.pdf
+:uri-biodiversitygenomics2021-presentation: https://andreaguarracino.github.io/presentations/BiodiversityGenomics2021_ChromosomeCommunitiesHumanPangenome_Presentation_AndreaGuarracino.pdf
+:uri-agi2021congress: https://agi2021.centercongressi.com/programme.php
+:uri-agi2021congress-abstract: https://andreaguarracino.github.io/abstracts/AGI2021_APangenomeForTheExpBXDfamOfMice_Abstract_AndreaGuarracino.pdf
+:uri-agi2021congress-poster: https://andreaguarracino.github.io/posters/AGI2021_APangenomeForTheExpBXDfamOfMice_Poster_AndreaGuarracino.pdf
+:uri-germanconferencebioinformatics2021: https://dechema.converia.de/frontend/index.php?folder_id=3138&page_id=
+:uri-germanconferencebioinformatics2021-abstract: https://andreaguarracino.github.io/abstracts/GCB2021_ODGIScalableToolsForPangenomeGraphs_Abstract_AndreaGuarracino.pdf
+:uri-germanconferencebioinformatics2021-presentation: https://andreaguarracino.github.io/presentations/GCB2021_ODGIScalableToolsForPangenomeGraphs_Presentation_AndreaGuarracino.pdf
+:uri-eacr2021: https://www.eacr2021.org/
+:uri-eacr2021-abstract: https://andreaguarracino.github.io/abstracts/EACR2021_ControlReplicationStressAndMitosisInCancerStemCells_Abstract_AndreaGuarracino.pdf
+:uri-eacr2021-poster: https://andreaguarracino.github.io/posters/EACR2021_ControlReplicationStressAndMitosisInCancerStemCells_Poster_AndreaGuarracino.pdf
+:uri-emblinitaly2021: http://www.embl-hamburg.de/aboutus/alumni/events-networks/local-chapters/italy/48_genoa_2021/index.html
+:uri-emblinitaly2021-poster: https://andreaguarracino.github.io/posters/EMBLInItaly2021_IdentificationOfRNASeqAndStrMotifsForProteinInteraction_AndreaGuarracino.pdf
+:uri-thebiologyofgenomes2021: https://meetings.cshl.edu/meetings.aspx?meet=GENOME&year=21
+:uri-thebiologyofgenomes2021-abstract: https://andreaguarracino.github.io/abstracts/BoG2021_ThePangenomeGraphBuilder_Abstract_AndreaGuarracino.pdf
+:uri-thebiologyofgenomes2021-poster: https://andreaguarracino.github.io/posters/BoG2021_ThePanGenomeGraphBuilder_Poster_AndreaGuarracino.pdf
+:uri-bbcc2021: https://www.bbcc-meetings.it/program/
+:uri-bbcc2021-abstract: https://andreaguarracino.github.io/abstracts/BBCC2020_PopulationGenomicsAnalysesOnPangenomeGraph_ProgramAndAbstractBook.pdf
+:uri-bbcc2021-presentation: https://andreaguarracino.github.io/presentations/f1000research-326757.pdf
+:uri-bbcc2021-presentation-f1000research: https://f1000research.com/slides/9-1338
+:uri-vcbm2020: https://www.gcpr-vmv-vcbm-2020.uni-tuebingen.de/
+:uri-vcbm2020-abstract: https://andreaguarracino.github.io/abstracts/EG_VCMB_GraphLayoutByPath-GuidedStochasticGradientDescent_Abstract_AndreaGuarracino.pdf
+:uri-vcbm2020-poster: https://andreaguarracino.github.io/posters/EG_VCMB_GraphLayoutByPath-GuidedStochasticGradientDescent_Poster_Landscape_AndreaGuarracino.pdf
+:uri-t2thprc2020: https://www.t2t-hprc-2020conference.com/
+:uri-t2thprc2020-abstract-a: https://andreaguarracino.github.io/abstracts/T2T_HPRC_GraphLayoutByPath-GuidedStochasticGradientDescent_Abstract_AndreaGuarracino.pdf
+:uri-t2thprc2020-poster-a: https://andreaguarracino.github.io/posters/T2T_HPRC_GraphLayoutByPath-GuidedStochasticGradientDescent_Poster_Portrait_AndreaGuarracino.pdf
+:uri-t2thprc2020-abstract-b: https://andreaguarracino.github.io/abstracts/T2T_HPRC_ScalableVariantDetectionInPangenomeModels_Abstract_AndreaGuarracino.pdf
+:uri-t2thprc2020-poster-b: https://andreaguarracino.github.io/posters/BBCC2020_ScalableVariantDetectionInPangenomeModels_Poster_AndreaGuarracino.pdf
+:uri-t2thprc2020-blog: https://gsocgraph.blogspot.com/2020/08/final-week-recap-of-my-gsoc-experience.html
+:uri-bcc2020: https://bcc2020.sched.com/
+:uri-bcc2020-abstract: https://andreaguarracino.github.io/abstracts/BCC2020_COVID19_PubSeq_Abstract_AndreaGuarracino.pdf
+:uri-bcc2020-poster: https://andreaguarracino.github.io/posters/BCC2020_COVID19_PubSeq_Poster_AndreaGuarracino.pdf
+:uri-bcc2020-presentation: https://bcc2020.sched.com/event/coLw/covid-19-pubseq-public-sars-cov-2-sequence-resource
+:uri-ismb2020: https://www.iscb.org/ismb2020
+:uri-ismb2020-abstract-a: https://andreaguarracino.github.io/abstracts/ISMB2020_PantographBrowsablePangenomeVisualization_Abstract_AndreaGuarracino.pdf
+:uri-ismb2020-poster-a: https://andreaguarracino.github.io/posters/ISMB2020_PantographBrowsablePangenomeVisualization_Poster_AndreaGuarracino.pdf
+:uri-ismb2020-abstract-b: https://andreaguarracino.github.io/abstracts/ISMB2020_SemanticVariationGraphs_OntologiesForPangenomeGraphs_Abstract_AndreaGuarracino.pdf
+:uri-ismb2020-poster-b: https://andreaguarracino.github.io/posters/ISMB2020_SemanticVariationGraphs_OntologiesForPangenomeGraphs_Poster_AndreaGuarracino.pdf
+:uri-ismb2020-best-poster-prize: https://www.iscb.org/ismb2020-general/ismb2020-award-winners#bio-poster
+:uri-ismb2020-citation: https://publikationen.bibliothek.kit.edu/1000127608
+:uri-ismb2020-abstract-c: https://andreaguarracino.github.io/abstracts/ISMB2020_ComprehensiveAnalysisSARSCoV2_Abstract_AndreaGuarracino.pdf
+:uri-ismb2020-poster-c: https://andreaguarracino.github.io/posters/ISMB2020_ComprehensiveAnalysisSARSCoV2_Poster_AndreaGuarracino.pdf
+
+// Universities, institutes
+:human-technopole: {uri-human-technopole}[Human Technopole]
+:uthsc: {uri-uthsc}[University of Tennessee Health and Science Center]
+:university-tor-vergata: {uri-university-tor-vergata}[University of Rome Tor Vergata]
+:university-salerno: {uri-university-salerno}[University of Salerno]
+
+// Publications
+:uri-pietrosanto-adinolfi-guarracino2021-rig: https://doi.org/10.1093/nargab/lqab007
+:uri-guarracino2021-brio: https://doi.org/10.1093/nar/gkab400
+:uri-guarracino2022-odgi: https://doi.org/10.1093/bioinformatics/btac308
+:uri-musella2022: https://doi.org/10.1038/s41590-022-01290-3
+:uri-pepe2022: https://doi.org/10.1016/j.ncrna.2022.01.003
+:uri-guarracino2021-brio-webserver: http://brio.bio.uniroma2.it/
+:uri-guarracino2021-brio-graphical-abstract: https://andreaguarracino.github.io/abstracts/BRIO_GraphicalAbstract_AndreaGuarracino.pdf
+:uri-ferrarini2021: https://doi.org/10.1038/s42003-021-02095-0
+:uri-mattiello2021: https://doi.org/10.3390/cancers13081957
+:uri-novelli2021: https://doi.org/10.1038/s41419-021-03513-1
+:uri-manic2021: https://doi.org/10.1038/s41418-020-00733-4
+:uri-guarracino2022-acro-preprint: https://doi.org/10.1101/2022.08.15.504037
+:uri-liao2022-preprint: https://doi.org/10.1101/2022.07.09.499321
+:uri-jarvis2022-preprint: https://doi.org/10.1101/2022.03.06.483034
+:uri-garrison2022-preprint: https://doi.org/10.1101/2022.02.14.480413
+:uri-marcosola2022-preprint: https://doi.org/10.1101/2022.04.14.488380
+
+// Repositories
+:uri-github-brio: https://github.com/helmercitterich-lab/BRIO
+:uri-github-pggb: https://github.com/pangenome/pggb
+:uri-github-smoothxg: https://github.com/pangenome/smoothxg
+:uri-github-odgi: https://github.com/pangenome/odgi
+:uri-github-pg-sgd-1D: https://github.com/pangenome/odgi/blob/master/src/algorithms/path_sgd.cpp
+:uri-github-pg-sgd-2D: https://github.com/pangenome/odgi/blob/master/src/algorithms/path_sgd_layout.cpp
+:uri-github-wfmash: https://github.com/waveygang/wfmash
+:uri-github-pubseq: https://github.com/pubseq/bh20-seq-resource
+:uri-github-pantograph: https://github.com/graph-genome/graph-genome.github.io
+:uri-github-cpang22-website: https://gtpb.github.io/CPANG22/
+:uri-github-cpang22-material: https://github.com/GTPB/CPANG22
+:uri-github-cpang22-poster: https://github.com/AndreaGuarracino/cv/blob/main/other/CPANG22_Poster.AndreaGuarracino.pdf
+:uri-github-datastructuresforbioinformatics: https://github.com/AndreaGuarracino/DataStructuresForBioinformatics
+:uri-github-esami-svolti: https://andreaguarracino.github.io/other/EsamiSvoltiLaureeDocentePerAnnoAccademico.2021.11.05.pdf
+:uri-github-covid19-research: https://github.com/vaguiarpulido/covid19-research.git
+:uri-github-rig: https://github.com/helmercitterich-lab/RIG
+
+= *Andrea Guarracino's CV*
+Andrea Guarracino Ph.D. <andrea.guarracino@fht.org>
+//:figure-caption!: // To turn off figure caption labels and numbers
+ifdef::backend-html5[]
+:toc-title: CV content
+:toc: left
+:toclevels: 2
+endif::[]
+:icons: font
+
+
+== icon:user[] Personal Details
+
+A computer engineer in love with the unknown side of biology.
+
+icon:twitter[] {uri-twitter}[Twitter] |
+icon:comment[] https://matrix.to/#/@andreaguarracino:matrix.org[Matrix] |
+icon:github[] {uri-github}[Code] |
+icon:skype[] https://join.skype.com/invite/f1KWmWUcDD9f[Skype] |
+icon:google[] {uri-google-scholar}[Papers] |
+icon:linkedin[] {uri-linkedin}[Linkedin]
+
+== icon:black-tie[] Current Position
+
+icon:calendar[] `November 2021 to Present` +
+icon:university[] *Postdoctoral Associate at the {human-technopole}* (Milan, Italy). +
+icon:group[] Reporting to Prof. Nicole Soranzo and Prof. Erik Garrison.
+
+* Development of new software for pangenome graphs building and analysis
+
+
+== icon:search[] Research Projects
+
+icon:calendar[] `April 2020 to Present` +
+icon:university[] *Collaboration with the {uthsc}* (Memphis, USA). +
+icon:group[] Reporting to Prof. Erik Garrison and Prof. Pjotr Prins.
+
+* Development of tools for pangenome graph building, manipulation, and analyses
+* Studying chromosome communities (acrocentric and sex chromosomes) in the human pangenome
+* New generation of sequence aligners for aligning whole eukaryotic chromosomes
+* Development of a free and open online public sequence resource for SARS-CoV-2 data storage and analysis
+
+icon:calendar[] `November 2018 to Present` +
+icon:university[] *Ongoing projects with the {university-tor-vergata}* (Rome, Italy). +
+icon:group[] Reporting to Prof. Manuela Helmer-Citterich and Dr. Ilio Vitale.
+
+* Spindle Assembly Checkpoint functionality in colon-rectal cancer stem cell
+* Exploiting karyotypic aberrations and chromosomal instability in cancer stem cells for precision immunotherapy
+
+
+== icon:graduation-cap[] Education
+
+icon:calendar[] `November 2018 to February 2022` +
+icon:university[] *Ph.D. in Cellular and Molecular Biology (Bioinformatics), {university-tor-vergata}* (Rome, Italy). +
+icon:book[] Thesis title: "Investigating chromosomal instability in cancer stem cells". Evaluation: excellent quality.
+
+icon:calendar[] `October 2016 to October 2018` +
+icon:university[] *Master’s degree in Bioinformatics (LM-6), {university-tor-vergata}* (Rome, Italy). +
+icon:book[] Thesis title: "Energetic and functional characterization of phosphorylations involved in the
+co-regulation of protein interaction". Evaluation: 110/110 cum laude; GPA: 4.00, A+.
+
+icon:calendar[] `October 2007 to October 2010` +
+icon:university[] *Bachelor’s degree in Computer Engineering (L-8), {university-salerno}* (Salerno, Italy). +
+icon:book[] Thesis title: "Energetic and functional characterization of phosphorylations involved in the
+co-regulation of protein interaction". Evaluation: 110/110 cum laude; GPA: 4.00, A+.
+
+
+== icon:flask[] Research Experience
+
+icon:calendar[] `November 2018 to Present` +
+icon:university[] *Bioinformatic analyses of multiomics data, {university-tor-vergata}* (Rome, Italy).
+
+* Germline and somatic variants analyses on Whole-Exome sequencing (WES) data: quality control, sample matching, rRNA contamination, read trimming and mapping, variant calling, and functional prediction
+* Microsatellite instability (MSI) status on paired tumor-normal and tumor-only WES data
+* Variant calling and differential expression analyses on RNA-seq data
+* Neoantigen prediction and prioritization by integrating WES data and RNA-seq data
+* Analysis of Assay for Transposase-Accessible Chromatin using sequencing (ATAC-seq) data
+* Normalization and correlation analysis of transcriptomic microarray data (Affymetrix)
+* Proteomic and phosphoproteomic analyses of Reverse Phase Protein microarray (RPPA) data
+* RNA structural characterization and conservation research ({uri-pietrosanto-adinolfi-guarracino2021-rig}[Pietrosanto, Adinolfi, Guarracino _et al._, 2021])
+* Web server development for RNA sequence and structure motif scan ({uri-guarracino2021-brio}[Guarracino _et al._, 2021])
+* Energetic and functional analyses of phosphorylations applied _in silico_ on 3D structures of protein complexes
+* Cox modeling and survival analysis on patient cohorts (from TCGA and cBioPortal platforms)
+* Basic procedures on High Performance Computing (HPC) machines
+
+icon:calendar[] `April 2020 to Present` +
+icon:university[] *Development of new software for pangenome graphs building and analysis*.
+
+* Developing of tools to construct pangenome graphs of any complexity and scale (icon:github[] {uri-github-pggb}[PGGB], icon:github[] {uri-github-smoothxg}[smoothxg])
+* Optimized Dynamic Genome/Graph Implementation (icon:github[] {uri-github-odgi}[ODGI]) development to analyze and manipulate pangenome graphs, scaling up to large collections of eukaryotic genomes ({uri-guarracino2022-odgi}[Guarracino _et al._, 2022])
+* Development of a new algorithm for sorting pangenome graphs to simplify downstream analyses on them (icon:github[] {uri-github-pg-sgd-1D}[Path-guided Sorting], icon:github[] {uri-github-pg-sgd-1D}[Path-guided Layout])
+* Development of a new gap-affine pairwise aligner to align whole eukaryotic chromosomes (icon:github[] {uri-github-wfmash}[wfmash])
+* Software and workflows development for PubSeq, a free and open online public sequence resource with on-the-fly analysis (icon:github[] {uri-github-pubseq}[bh20-seq-resource])
+* Pangenome graph browser development (icon:github[] {uri-github-pantograph}[Pantograph])
+
+
+== icon:suitcase[] Working Experience
+
+icon:calendar[] `March 2013 to October 2018` +
+icon:university[] *Computer engineer for multiplatform firmware/software development, {uri-gisa}[GISA]* (Salerno, Italy).
+
+* Firmware development in STMicroelectronics microcontrollers for high efficiency embedded systems
+* Firmware and library development in open-source hardware and software platforms (Arduino/Genuino)
+* Development of multi-management software and desktop applications for embedded systems programming
+* Mobile applications development for programming and the control of multi-service machines via Bluetooth
+* Implementation of proprietary communication protocols and contact/contactless (RFID) interfaces
+* Development and maintenance of websites and e-commerce
+* Remote assistance to customers for the usage and programming of multi-service machines, taking feedback to further improve the solutions offered
+* Patent application on a universal system for services fruition, with validation, reconstruction, and credit self-reloading management, on read-only and read/write supports (ITUA20165252, A1) ({uri-gisa-patent}[Patent])
+* Basic design of simple electrical circuits for controlling actuators and reading analog/digital signals
+
+
+== icon:users[] Teachings
+
+[cols="1,1,2,2,1",options="header"]
+|===
+
+| icon:calendar[] Time
+| icon:book[] Course
+| icon:globe[] Place
+| icon:pencil[] Contribution
+| icon:link[] Material
+
+| `23 May 2022 to 27 May 2022` +
+| CPANG22 Computational PANGenomics
+| Instituto Gulbenkian de Ciência (Oeiras, Portugal)
+| Instructor, created new material and tutorials, held some lessons, assisted the participants
+| icon:github[] {uri-github-cpang22-website}[Website] +
+  icon:github[] {uri-github-cpang22-material}[Material] +
+  icon:file-pdf-o[] {uri-github-cpang22-poster}[Poster]
+
+| `26 October 2020 to Present` +
+| Data Structures for Bioinformatics (2 CFU/ECTS)
+| Master’s degree in Bioinformatics, {university-tor-vergata} (Rome, Italy)
+| Teacher, created new material, held all the lessons, assisted the students, did final exams
+| icon:github[] {uri-github-datastructuresforbioinformatics}[Material]
+
+| `7 October 2019 to 7 December 2020` +
+| Bioinformatics (6 CFU/ECTS)
+| Bachelor’s degree in Biological Science, {university-tor-vergata} (Rome, Italy)
+| Tutor, reviewed the practical lessons, assisted the students
+| -
+
+| `16 December 2019 to 29 March 2021` +
+| Computational Proteogenomics (2 CFU/ECTS)
+| Master’s degree in Bioinformatics, {university-tor-vergata} (Rome, Italy)
+| Exam assistant
+| icon:github[] {uri-github-esami-svolti}[Statistics] (page 1)
+
+| `7 June 2019 to 21 July 2021` +
+| Molecular Biology (8 CFU/ECTS)
+| Bachelor’s degree in Biological Science, {university-tor-vergata} (Rome, Italy)
+| Exam assistant
+| icon:github[] {uri-github-esami-svolti}[Statistics] (page 1)
+
+| `7 June 2019 to 21 July 2021` +
+| Bioinformatics (6 CFU/ECTS)
+| Bachelor’s degree in Biological Science, {university-tor-vergata} (Rome, Italy)
+| Exam assistant
+| icon:github[] {uri-github-esami-svolti}[Statistics] (page 1)
+
+|===
+
+
+== icon:search[] Reviewer for international journals
+
+[cols="1,1",options="header"]
+|===
+
+| icon:calendar[] Time
+| icon:book[] Journal
+
+| `26 February 2021 to Present` +
+| {uri-human-genomics}[Human Genomics]
+
+| `23 February 2021 to Present` +
+| {uri-plos-one}[PLOS ONE]
+
+|===
+
+
+== icon:handshake-o[] Mentoring experience
+
+[cols="1,1,1,1",options="header"]
+|===
+
+| icon:calendar[] Time
+| icon:globe[] Place
+| icon:book[] Thesis title
+| icon:link[] Statistics
+
+| `2 September 2021 to 20 April 2022` +
+| Master’s degree in Bioinformatics, {university-tor-vergata} (Rome, Italy)
+| Machine learning to automatically detect the _C. elegans_ bodies from microscope images and measure their growth over time
+| -
+
+| `9 March 2020 to 12 March 2021` +
+| Master’s degree in Bioinformatics, {university-tor-vergata} (Rome, Italy)
+| Machine Learning methods applied to kinase-substrate interaction prediction
+| icon:file-pdf-o[] {uri-github-esami-svolti}[Statistics] (page 2)
+
+| `2 March 2020 to 17 December 2020` +
+| Master’s degree in Bioinformatics, {university-tor-vergata} (Rome, Italy)
+| Natural Language Processing techniques for protein encoding applied to phosphorylation prediction
+| icon:file-pdf-o[] {uri-github-esami-svolti}[Statistics] (page 2)
+
+|===
+
+
+== icon:bullhorn[] Abstracts / Talks / Posters
+
+
+
+[cols="1,1,2,1",options="header"]
+|===
+
+| icon:calendar[] Time
+| icon:globe[] Conference
+| icon:book[] Title
+| icon:link[] Material
+
+| `4 July 2022 to 7 July 2022` +
+| {uri-iggsy2022}[International Genome Graph Symposium 2022]
+| Chromosome communities in the human pangenome
+| icon:file-pdf-o[] {uri-github-iggsy2022-presentation}[Presentation]
+
+| `2 November 2021 to 4 November 2022` +
+| {uri-3dbioinfo2021}[3D-BioInfo 2021]
+| RNA secondary structure motifs involved in the interaction with RNA binding proteins
+| icon:file-pdf-o[] {uri-3dbioinfo2021-abstract}[Abstract]
+
+| `27 September 2021 to 1 October 2021` +
+| {uri-biodiversitygenomics2021}[Biodiversity Genomics 2021]
+| Chromosome communities in the human pangenome
+| icon:file-pdf-o[] {uri-biodiversitygenomics2021-abstract}[Abstract] +
+  icon:file-pdf-o[] {uri-biodiversitygenomics2021-presentation}[Presentation]
+
+| `21 September 2021 to 24 September 2021` +
+| {uri-agi2021congress}[AGI2021 Congress]
+| A pangenome for the expanded BXD family of mice
+| icon:file-pdf-o[] {uri-agi2021congress-abstract}[Abstract] +
+  icon:file-pdf-o[] {uri-agi2021congress-poster}[Poster]
+
+| `6 September 2021 to 8 September 2021` +
+| {uri-germanconferencebioinformatics2021}[German Conference on Bioinformatics 2021]
+| ODGI: scalable tools for pangenome graphs
+| icon:file-pdf-o[] {uri-germanconferencebioinformatics2021-abstract}[Abstract] +
+  icon:file-pdf-o[] {uri-germanconferencebioinformatics2021-presentation}[Presentation]
+
+| `9 June 2021 to 12 June 2021` +
+| {uri-eacr2021}[EACR 2021]
+| Control of replication stress and mitosis in cancer stem cells
+| icon:file-pdf-o[] {uri-eacr2021-abstract}[Abstract] +
+  icon:file-pdf-o[] {uri-eacr2021-poster}[Poster]
+
+| `20 May 2021 to 21 May 2021` +
+| {uri-emblinitaly2021}[EMBL in Italy 2021]
+| Identification of RNA sequence and structure motifs for protein interaction
+| icon:file-pdf-o[] {uri-emblinitaly2021-poster}[Poster]
+
+| `11 May 2021 to 14 May 2021` +
+| {uri-thebiologyofgenomes2021}[The Biology of Genomes 2021]
+| Identification of RNA sequence and structure motifs for protein interaction
+| icon:file-pdf-o[] {uri-thebiologyofgenomes2021-abstract}[Abstract] +
+  icon:file-pdf-o[] {uri-thebiologyofgenomes2021-poster}[Poster]
+
+| `11 May 2021 to 14 May 2021` +
+| {uri-bbcc2021}[BBCC2021]
+| Population genomics analyses on pangenome graphs
+| icon:file-pdf-o[] {uri-bbcc2021-abstract}[Abstract] +
+  icon:file-pdf-o[] {uri-bbcc2021-presentation}[Presentation] ({uri-bbcc2021-presentation-f1000research}[f1000research link])
+
+| `28 September 2020 to 1 October 2020` +
+| {uri-vcbm2020}[EG VCBM 2020]
+| Graph Layout by Path-Guided Stochastic Gradient
+| icon:file-pdf-o[] {uri-vcbm2020-abstract}[Abstract] +
+  icon:file-pdf-o[] {uri-vcbm2020-poster}[Presentation]
+
+| `21 September 2020 to 23 September 2020` +
+| {uri-t2thprc2020}[T2T-HPRC-Virtual Conference 2020]
+| Graph Layout by Path-Guided Stochastic Gradient
+| icon:file-pdf-o[] {uri-t2thprc2020-abstract-a}[Abstract] +
+  icon:file-pdf-o[] {uri-t2thprc2020-poster-a}[Presentation]
+
+| `21 September 2020 to 23 September 2020` +
+| {uri-t2thprc2020}[T2T-HPRC-Virtual Conference 2020]
+| Graph Layout by Path-Guided Stochastic Gradient
+| icon:file-pdf-o[] {uri-t2thprc2020-abstract-b}[Abstract] +
+  icon:file-pdf-o[] {uri-t2thprc2020-poster-b}[Presentation] +
+  icon:link[] {uri-t2thprc2020-blog}[Blog]
+
+| `17 July 2020 to 25 July 2020` +
+| {uri-bcc2020}[BCC 2020]
+| COVID-19 PubSeq: Public SARS-CoV-2 Sequence Resource
+| icon:file-pdf-o[] {uri-bcc2020-abstract}[Abstract] +
+  icon:file-pdf-o[] {uri-bcc2020-poster}[Poster] +
+  icon:file-pdf-o[] {uri-bcc2020-presentation}[Presentation]
+
+| `13 July 2020 to 16 July 2020` +
+| {uri-ismb2020}[ISMB 2020]
+| Pantograph: Scalable Interactive Graph Genome Visualization
+| icon:file-pdf-o[] {uri-ismb2020-abstract-a}[Abstract] +
+  icon:file-pdf-o[] {uri-ismb2020-poster-a}[Poster]
+
+| `13 July 2020 to 16 July 2020` +
+| {uri-ismb2020}[ISMB 2020]
+| Semantic Variation Graphs - A Pangenome Ontology
+| icon:file-pdf-o[] {uri-ismb2020-abstract-b}[Abstract] +
+  icon:file-pdf-o[] {uri-ismb2020-poster-b}[Poster] +
+  icon:link[] {uri-ismb2020-best-poster-prize}[Best Poster Prize] +
+  icon:book[] {uri-ismb2020-citation}[Citation]
+
+| `13 July 2020 to 16 July 2020` +
+| {uri-ismb2020}[ISMB 2020]
+| Comprehensive analysis of human SARS-CoV-2 infection and host-virus interaction
+| icon:file-pdf-o[] {uri-ismb2020-abstract-c}[Abstract] +
+  icon:file-pdf-o[] {uri-ismb2020-poster-c}[Poster]
+
+|===
+
+
+
+== icon:book[] Publications
+
+See them on https://scholar.google.com/citations?user=zABbjIoAAAAJ[Google Scholar]. *first authorship.
+
+[cols="1,1,2,2,1",options="header"]
+|===
+
+| icon:calendar[] Time
+| icon:book[] Journal
+| icon:book[] Title
+| icon:pencil[] Contribution
+| icon:link[] Links
+
+| `Submitted` +
+| Nature
+| Recombination between heterologous human acrocentric chromosomes
+| Pangenomic analyses, figures from 1 to 5, paper writing
+| icon:spinner[] {uri-guarracino2022-acro-preprint}[Preprint]
+
+| `Submitted` +
+| Bioinformatics
+| Optimal gap-affine alignment in O(s) space
+| Testing, evaluation, Figure 2.
+| icon:spinner[] {uri-marcosola2022-preprint}[Preprint]
+
+| `In revision` +
+| Nature
+| A draft human pangenome reference
+| Paper editing, pangenome graph creation, pangenome visualization, population genetic analysis
+| icon:spinner[] {uri-liao2022-preprint}[Preprint]
+
+| `In revision` +
+| Nature
+| Automated assembly of high-quality diploid human reference genomes
+| Pangenome alignments, Jaccard, PCA and MHC analyses, figure 2
+| icon:spinner[] {uri-jarvis2022-preprint}[Preprint]
+
+| `In revision` +
+| Bioinformatics
+| Unbiased pangenome graphs
+| Parallelization of a bottleneck in the graph induction, bug fixings, experiments in multiple species
+| icon:spinner[] {uri-garrison2022-preprint}[Preprint]
+
+| `24 August 2022` +
+| Nature Immunology
+| Type I IFNs promote cancer cell stemness by triggering the epigenetic regulator KDM1B
+| Made Figure 6.a, 7.a, and 7.b, contributed for Figure 6.c,
+6.e, performed RNA-seq, ATAC-seq, and microarray data analysis, correlation analyses,
+TF-binding motif enrichment, survival analyses
+| icon:book[] {uri-musella2022}[Publication]
+
+| `13 May 2022` +
+| Bioinformatics
+| **ODGI: understanding pangenome graphs*
+| Wrote the draft paper and the documentation, made the figures and the table, implemented several tools
+| icon:book[] {uri-guarracino2022-odgi}[Publication]
+
+| `15 February 2022` +
+| Non-coding RNA Research
+| Evaluation of potential miRNA sponge effects of SARS genomes in human
+| Genome sequences collection, filtering, deduplication, alignment, variant calling
+| icon:book[] {uri-pepe2022}[Publication]
+
+| `26 May 2021` +
+| Nucleic Acids Research
+| **BRIO: a web server for RNA sequence and structure motif scan*
+| Wrote the paper, made the figures and the table, refactored and completed the web
+server, refined the datasets
+| icon:book[] {uri-guarracino2021-brio}[Publication] +
+  icon:globe[] {uri-guarracino2021-brio-webserver}[Webserver] +
+  icon:github[] {uri-github-brio}[Repository] +
+  icon:file-pdf-o[] {uri-guarracino2021-brio-graphical-abstract}[Graphical abstract] +
+
+| `17 May 2021` +
+| Communications Biology
+| Genome-wide bioinformatic analyses predict key host and viral factors in SARS-CoV-2 pathogenesis
+| Differential expression analyses, including batch effects exploration, GO/pathway enrichment analyses
+| icon:book[] {uri-ferrarini2021}[Publication] +
+  icon:github[] {uri-github-covid19-research}[Repository]
+
+| `19 April 2021` +
+| Cancers
+| The Targeting of MRE11 or RAD51 Sensitizes Colorectal Cancer Stem Cells to CHK1 Inhibition
+| Made Figure 1.A, helped in analyzing survival data
+| icon:book[] {uri-mattiello2021}[Publication]
+
+| `24 March 2021` +
+| Cell Death & Disease
+| Inhibition of HECT E3 ligases as potential therapy for COVID-19
+| Made Figure 4, provided _in silico_ 3D structures analysis
+| icon:book[] {uri-novelli2021}[Publication]
+
+| `1 March 2021` +
+| NAR Genomics and Bioinformatics
+| **Relative Information Gain: Shannon entropy-based measure of the relative structural conservation in RNA alignments*
+| Wrote the paper, contributed to Figure 2, made Figure 3, 4, and 5, and fixed, refactored and completed the framework
+| icon:book[] {uri-pietrosanto-adinolfi-guarracino2021-rig}[Publication] +
+  icon:github[] {uri-github-rig}[Repository]
+
+| `2 February 2021` +
+| Cell Death & Disease
+| Control of replication stress and mitosis in colorectal cancer stem cells through the interplay of PARP1, MRE11 and RAD51
+| Bioinformatics support
+| icon:book[] {uri-manic2021}[Publication]
+
+|===
