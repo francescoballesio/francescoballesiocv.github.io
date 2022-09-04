@@ -106,6 +106,7 @@
 :uri-github-rig: https://github.com/helmercitterich-lab/RIG
 
 = *Andrea Guarracino's CV*
+:favicon: favicon.ico
 Andrea Guarracino Ph.D. <andrea.guarracino@fht.org>
 //:figure-caption!: // To turn off figure caption labels and numbers
 ifdef::backend-html5[]
