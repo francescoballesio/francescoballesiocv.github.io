@@ -272,13 +272,13 @@ icon:university[] *Computer engineer for multiplatform firmware/software develop
 
 == icon:handshake-o[] Mentoring Experience
 
-[cols="1,1,1,1",options="header"]
+[cols="2,4,4,1",options="header"]
 |===
 
 | icon:calendar[] Time
 | icon:globe[] Place
 | icon:book[] Thesis title
-| icon:link[] Statistics
+| icon:link[] Links
 
 | `2 September 2021 to 20 April 2022` +
 | Master’s degree in Bioinformatics, {university-tor-vergata} (Rome, Italy)
@@ -288,12 +288,12 @@ icon:university[] *Computer engineer for multiplatform firmware/software develop
 | `9 March 2020 to 12 March 2021` +
 | Master’s degree in Bioinformatics, {university-tor-vergata} (Rome, Italy)
 | Machine Learning methods applied to kinase-substrate interaction prediction
-| icon:file-pdf-o[] {uri-github-esami-svolti}[Statistics] (page 2)
+| icon:file-pdf-o[] {uri-github-esami-svolti}[Page 2]
 
 | `2 March 2020 to 17 December 2020` +
 | Master’s degree in Bioinformatics, {university-tor-vergata} (Rome, Italy)
 | Natural Language Processing techniques for protein encoding applied to phosphorylation prediction
-| icon:file-pdf-o[] {uri-github-esami-svolti}[Statistics] (page 2)
+| icon:file-pdf-o[] {uri-github-esami-svolti}[Page 2]
 
 |===
 
@@ -302,7 +302,7 @@ icon:university[] *Computer engineer for multiplatform firmware/software develop
 
 See them on https://scholar.google.com/citations?user=zABbjIoAAAAJ[Google Scholar]. *first authorship
 
-[cols="1,1,8,8,3",options="header"]
+[cols="2,1,8,8,3",options="header"]
 |===
 
 | icon:calendar[] Time
