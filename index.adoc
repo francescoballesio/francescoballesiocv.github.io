@@ -221,52 +221,45 @@ icon:university[] *Computer engineer for multiplatform firmware/software develop
 
 == icon:users[] Teachings
 
-[cols="1,1,2,2,1",options="header"]
+[cols="1,3,2,1",options="header"]
 |===
 
 | icon:calendar[] Time
 | icon:book[] Course
-| icon:globe[] Place
-| icon:pencil[] Contribution
+| icon:pencil[] Role
 | icon:link[] Links
 
 | `23 May 2022 to 27 May 2022` +
-| CPANG22 Computational PANGenomics
-| {uri-gulbenkian-de-Ciencia}[Instituto Gulbenkian de Ciência] (Oeiras, Portugal)
-| Instructor, created new material and tutorials, held some lessons, assisted the participants
+| CPANG22 Computational PANGenomics, {uri-gulbenkian-de-Ciencia}[Instituto Gulbenkian de Ciência] (Oeiras, Portugal)
+| *Instructor*, created new material and tutorials, held some lessons, assisted the participants
 | icon:github[] {uri-github-cpang22-website}[Website] +
   icon:github[] {uri-github-cpang22-material}[Material] +
   icon:file-pdf-o[] {uri-github-cpang22-poster}[Poster]
 
 | `26 October 2020 to Present` +
-| Data Structures for Bioinformatics (2 CFU/ECTS)
-| Master’s degree in Bioinformatics, {university-tor-vergata} (Rome, Italy)
-| Teacher, created new material, held all the lessons, assisted the students, did final exams
+| Data Structures for Bioinformatics (2 CFU/ECTS), Master’s degree in Bioinformatics, {university-tor-vergata} (Rome, Italy)
+| *Teacher*, created new material, held all the lessons, assisted the students, did final exams
 | icon:github[] {uri-github-datastructuresforbioinformatics}[Material]
 
 | `7 October 2019 to 7 December 2020` +
-| Bioinformatics (6 CFU/ECTS)
-| Bachelor’s degree in Biological Science, {university-tor-vergata} (Rome, Italy)
-| Tutor, reviewed the practical lessons, assisted the students
+| Bioinformatics (6 CFU/ECTS), Bachelor’s degree in Biological Science, {university-tor-vergata} (Rome, Italy)
+| *Tutor*, reviewed the practical lessons, assisted the students
 | -
 
 | `16 December 2019 to 29 March 2021` +
-| Computational Proteogenomics (2 CFU/ECTS)
-| Master’s degree in Bioinformatics, {university-tor-vergata} (Rome, Italy)
+| Computational Proteogenomics (2 CFU/ECTS), Master’s degree in Bioinformatics, {university-tor-vergata} (Rome, Italy)
 | Exam assistant
-| icon:github[] {uri-github-esami-svolti}[Page 1]
+| icon:file-pdf-o[] {uri-github-esami-svolti}[Page 1]
 
 | `7 June 2019 to 21 July 2021` +
-| Molecular Biology (8 CFU/ECTS)
-| Bachelor’s degree in Biological Science, {university-tor-vergata} (Rome, Italy)
+| Molecular Biology (8 CFU/ECTS), Bachelor’s degree in Biological Science, {university-tor-vergata} (Rome, Italy)
 | Exam assistant
-| icon:github[] {uri-github-esami-svolti}[Page 1]
+| icon:file-pdf-o[] {uri-github-esami-svolti}[Page 1]
 
 | `7 June 2019 to 21 July 2021` +
-| Bioinformatics (6 CFU/ECTS)
-| Bachelor’s degree in Biological Science, {university-tor-vergata} (Rome, Italy)
+| Bioinformatics (6 CFU/ECTS), Bachelor’s degree in Biological Science, {university-tor-vergata} (Rome, Italy)
 | Exam assistant
-| icon:github[] {uri-github-esami-svolti}[Page 1]
+| icon:file-pdf-o[] {uri-github-esami-svolti}[Page 1]
 
 |===
 
@@ -278,7 +271,7 @@ icon:university[] *Computer engineer for multiplatform firmware/software develop
 
 | icon:calendar[] Time
 | icon:globe[] Place
-| icon:book[] Thesis title
+| icon:book[] Thesis
 | icon:link[] Links
 
 | `2 September 2021 to 20 April 2022` +
@@ -303,102 +296,88 @@ icon:university[] *Computer engineer for multiplatform firmware/software develop
 
 See them on https://scholar.google.com/citations?user=zABbjIoAAAAJ[Google Scholar]. *first authorship
 
-[cols="2,1,8,8,3",options="header"]
+//Jan, Feb, Mar, Apr, Jul, Aug, Sept/Sep, Oct, Nov, Dec.
+
+[cols="1,3,3,1",options="header"]
 |===
 
-| icon:calendar[] Time
 | icon:book[] Journal
 | icon:book[] Title
 | icon:pencil[] Contribution
 | icon:link[] Links
 
-| `Submitted` +
-| Nature
+| Nature, `Submitted`
 | Recombination between heterologous human acrocentric chromosomes
 | Pangenomic analyses, Figures from 1 to 5, paper writing
 | icon:spinner[] {uri-guarracino2022-acro-preprint}[Preprint]
 
-| `Submitted` +
-| Bioinformatics
+| Bioinformatics, `Submitted`
 | Optimal gap-affine alignment in O(s) space
 | Testing, evaluation, Figure 2
 | icon:spinner[] {uri-marcosola2022-preprint}[Preprint]
 
-| `In revision` +
-| Nature
+| Nature, `In revision`
 | A draft human pangenome reference
 | Paper editing, pangenome graph creation, pangenome visualization, population genetic analysis
 | icon:spinner[] {uri-liao2022-preprint}[Preprint]
 
-| `In revision` +
-| Nature
+| Nature, `In revision`
 | Automated assembly of high-quality diploid human reference genomes
 | Pangenome alignments, Jaccard, PCA and MHC analyses, Figure 2
 | icon:spinner[] {uri-jarvis2022-preprint}[Preprint]
 
-| `In revision` +
-| Bioinformatics
+| Bioinformatics, `In revision`
 | Unbiased pangenome graphs
-
 | Parallelization of a bottleneck, bug fixings, experiments in multiple species
 | icon:spinner[] {uri-garrison2022-preprint}[Preprint]
 
-| `24 August 2022` +
-| Nature Immunology
+| Nature Immunology, `Aug 2022`
 | Type I IFNs promote cancer cell stemness by triggering the epigenetic regulator KDM1B
 | Figure 6.a, 7.a, and 7.b, contributed for Figure 6.c,
 6.e, performed RNA-seq, ATAC-seq, microarray data analysis, correlation analyses,
 TF-binding motif enrichment, survival analyses
 | icon:book[] {uri-musella2022}[Paper]
 
-| `13 May 2022` +
-| Bioinformatics
+| Bioinformatics, `May 2022`
 | **ODGI: understanding pangenome graphs*
 | Paper and documentation writing, figures and table, implemented several tools
 | icon:book[] {uri-guarracino2022-odgi}[Paper]
 
-| `15 February 2022` +
-| Non-coding RNA Research
+| Non-coding RNA Research, `Feb 2022`
 | Evaluation of potential miRNA sponge effects of SARS genomes in human
 | Genome sequences collection, filtering, deduplication, alignment, variant calling
 | icon:book[] {uri-pepe2022}[Paper]
 
-| `26 May 2021` +
-| Nucleic Acids Research
+| Nucleic Acids Research, `May 2021`
 | **BRIO: a web server for RNA sequence and structure motif scan*
 | Paper writing, figures and table, refactored and completed the webserver, datasets refinement
 | icon:book[] {uri-guarracino2021-brio}[Paper] +
 icon:globe[] {uri-guarracino2021-brio-webserver}[Webserver] +
 icon:github[] {uri-github-brio}[Repository]
 
-| `17 May 2021` +
-| Communications Biology
+| Communications Biology, `May 2021`
 | Genome-wide bioinformatic analyses predict key host and viral factors in SARS-CoV-2 pathogenesis
 | Differential expression analyses, including batch effects exploration, GO/pathway enrichment analyses
 | icon:book[] {uri-ferrarini2021}[Paper] +
 icon:github[] {uri-github-covid19-research}[Repository]
 
-| `19 April 2021` +
-| Cancers
+| Cancers, `Apr 2021`
 | The Targeting of MRE11 or RAD51 Sensitizes Colorectal Cancer Stem Cells to CHK1 Inhibition
 | Figure 1.A, helped in analyzing survival data
 | icon:book[] {uri-mattiello2021}[Paper]
 
-| `24 March 2021` +
-| Cell Death & Disease
+| Cell Death & Disease, `Mar 2021`
 | Inhibition of HECT E3 ligases as potential therapy for COVID-19
 | Figure 4, _in silico_ 3D structures analysis
 | icon:book[] {uri-novelli2021}[Paper]
 
-| `1 March 2021` +
-| NAR Genomics and Bioinformatics
+| NAR Genomics and Bioinformatics, `Mar 2021`
 | **Relative Information Gain: Shannon entropy-based measure of the relative structural conservation in RNA alignments*
 | Paper writing, contributed to Figure 2, made Figure 3, 4, and 5, and fixed, refactored and completed the framework
 | icon:book[] {uri-pietrosanto-adinolfi-guarracino2021-rig}[Paper] +
 icon:github[] {uri-github-rig}[Repository]
 
-| `2 February 2021` +
-| Cell Death & Disease
+| Cell Death & Disease, `Feb 2021`
 | Control of replication stress and mitosis in colorectal cancer stem cells through the interplay of PARP1, MRE11 and RAD51
 | Bioinformatics support
 | icon:book[] {uri-manic2021}[Paper]
