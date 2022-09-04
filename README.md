@@ -9,6 +9,7 @@ A computer engineer in love with the unknown side of biology.
 
 [//]: # (To generate the index.html file: asciidoctor -a docinfo=shared index.adoc)
 [//]: # (Docinfo is a feature of AsciiDoc that allows you to insert custom content into the head, header, or footer of the output document.)
+[//]: # (For the icons: https://fontawesome.com/v4/icons/)
 [//]: # (NOT USED. To generate the index.html file: pandoc -f markdown --standalone --metadata title="Andrea Guarracino CV" --variable=title="" --css=style.css --output=index.html README.md)
 
 ### Teachings

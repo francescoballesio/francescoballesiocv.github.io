@@ -121,8 +121,8 @@ A computer engineer in love with the unknown side of biology.
 icon:twitter[] {uri-twitter}[Twitter] |
 icon:comment[] https://matrix.to/#/@andreaguarracino:matrix.org[Matrix] |
 icon:github[] {uri-github}[Code] |
-icon:skype[] https://join.skype.com/invite/f1KWmWUcDD9f[Skype] |
 icon:google[] {uri-google-scholar}[Papers] |
+icon:skype[] https://join.skype.com/invite/f1KWmWUcDD9f[Skype] |
 icon:linkedin[] {uri-linkedin}[Linkedin]
 
 == icon:black-tie[] Current Position
@@ -157,17 +157,20 @@ icon:group[] Reporting to Prof. Manuela Helmer-Citterich and Dr. Ilio Vitale.
 
 icon:calendar[] `November 2018 to February 2022` +
 icon:university[] *Ph.D. in Cellular and Molecular Biology (Bioinformatics), {university-tor-vergata}* (Rome, Italy). +
-icon:book[] Thesis title: "Investigating chromosomal instability in cancer stem cells". Evaluation: excellent quality.
+icon:book[] Thesis title: "Investigating chromosomal instability in cancer stem cells". +
+icon:battery-full[] Evaluation: excellent quality.
 
 icon:calendar[] `October 2016 to October 2018` +
 icon:university[] *Master’s degree in Bioinformatics (LM-6), {university-tor-vergata}* (Rome, Italy). +
 icon:book[] Thesis title: "Energetic and functional characterization of phosphorylations involved in the
-co-regulation of protein interaction". Evaluation: 110/110 cum laude; GPA: 4.00, A+.
+co-regulation of protein interaction". +
+icon:battery-full[] Evaluation: 110/110 cum laude; GPA: 4.00, A+.
 
 icon:calendar[] `October 2007 to October 2010` +
 icon:university[] *Bachelor’s degree in Computer Engineering (L-8), {university-salerno}* (Salerno, Italy). +
 icon:book[] Thesis title: "Energetic and functional characterization of phosphorylations involved in the
-co-regulation of protein interaction". Evaluation: 110/110 cum laude; GPA: 4.00, A+.
+co-regulation of protein interaction". +
+icon:battery-full[] Evaluation: 110/110 cum laude; GPA: 4.00, A+.
 
 
 == icon:flask[] Research Experience
