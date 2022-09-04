@@ -12,7 +12,7 @@
 :uri-human-genomics: https://humgenomics.biomedcentral.com/
 :uri-plos-one: https://journals.plos.org/plosone/
 
-// Abstracts/ Talks / Posters
+// Talks / Posters
 :uri-github-iggsy2022-presentation: https://andreaguarracino.github.io/presentations/IGGSy2022_ChromosomeCommunitiesHumanPangenome_Presentation_AndreaGuarracino.pdf
 :uri-iggsy2022: https://iggsy.org/
 :uri-3dbioinfo2021: https://elixir-europe.org/events/3d-bioinfo-2021-annual-meeting
@@ -270,24 +270,7 @@ icon:university[] *Computer engineer for multiplatform firmware/software develop
 |===
 
 
-== icon:search[] Reviewer for international journals
-
-[cols="1,1",options="header"]
-|===
-
-| icon:calendar[] Time
-| icon:book[] Journal
-
-| `26 February 2021 to Present` +
-| {uri-human-genomics}[Human Genomics]
-
-| `23 February 2021 to Present` +
-| {uri-plos-one}[PLOS ONE]
-
-|===
-
-
-== icon:handshake-o[] Mentoring experience
+== icon:handshake-o[] Mentoring Experience
 
 [cols="1,1,1,1",options="header"]
 |===
@@ -315,9 +298,131 @@ icon:university[] *Computer engineer for multiplatform firmware/software develop
 |===
 
 
-== icon:bullhorn[] Abstracts / Talks / Posters
+== icon:book[] Publications
+
+See them on https://scholar.google.com/citations?user=zABbjIoAAAAJ[Google Scholar]. *first authorship
+
+[cols="1,1,8,8,3",options="header"]
+|===
+
+| icon:calendar[] Time
+| icon:book[] Journal
+| icon:book[] Title
+| icon:pencil[] Contribution
+| icon:link[] Links
+
+| `Submitted` +
+| Nature
+| Recombination between heterologous human acrocentric chromosomes
+| Pangenomic analyses, Figures from 1 to 5, paper writing
+| icon:spinner[] {uri-guarracino2022-acro-preprint}[Preprint]
+
+| `Submitted` +
+| Bioinformatics
+| Optimal gap-affine alignment in O(s) space
+| Testing, evaluation, Figure 2
+| icon:spinner[] {uri-marcosola2022-preprint}[Preprint]
+
+| `In revision` +
+| Nature
+| A draft human pangenome reference
+| Paper editing, pangenome graph creation, pangenome visualization, population genetic analysis
+| icon:spinner[] {uri-liao2022-preprint}[Preprint]
+
+| `In revision` +
+| Nature
+| Automated assembly of high-quality diploid human reference genomes
+| Pangenome alignments, Jaccard, PCA and MHC analyses, Figure 2
+| icon:spinner[] {uri-jarvis2022-preprint}[Preprint]
+
+| `In revision` +
+| Bioinformatics
+| Unbiased pangenome graphs
+
+| Parallelization of a bottleneck, bug fixings, experiments in multiple species
+| icon:spinner[] {uri-garrison2022-preprint}[Preprint]
+
+| `24 August 2022` +
+| Nature Immunology
+| Type I IFNs promote cancer cell stemness by triggering the epigenetic regulator KDM1B
+| Figure 6.a, 7.a, and 7.b, contributed for Figure 6.c,
+6.e, performed RNA-seq, ATAC-seq, microarray data analysis, correlation analyses,
+TF-binding motif enrichment, survival analyses
+| icon:book[] {uri-musella2022}[Paper]
+
+| `13 May 2022` +
+| Bioinformatics
+| **ODGI: understanding pangenome graphs*
+| Paper and documentation writing, figures and table, implemented several tools
+| icon:book[] {uri-guarracino2022-odgi}[Paper]
+
+| `15 February 2022` +
+| Non-coding RNA Research
+| Evaluation of potential miRNA sponge effects of SARS genomes in human
+| Genome sequences collection, filtering, deduplication, alignment, variant calling
+| icon:book[] {uri-pepe2022}[Paper]
+
+| `26 May 2021` +
+| Nucleic Acids Research
+| **BRIO: a web server for RNA sequence and structure motif scan*
+| Paper writing, figures and table, refactored and completed the webserver, datasets refinement
+| icon:book[] {uri-guarracino2021-brio}[Paper] +
+icon:globe[] {uri-guarracino2021-brio-webserver}[Webserver] +
+icon:github[] {uri-github-brio}[Repository]
+
+| `17 May 2021` +
+| Communications Biology
+| Genome-wide bioinformatic analyses predict key host and viral factors in SARS-CoV-2 pathogenesis
+| Differential expression analyses, including batch effects exploration, GO/pathway enrichment analyses
+| icon:book[] {uri-ferrarini2021}[Paper] +
+icon:github[] {uri-github-covid19-research}[Repository]
+
+| `19 April 2021` +
+| Cancers
+| The Targeting of MRE11 or RAD51 Sensitizes Colorectal Cancer Stem Cells to CHK1 Inhibition
+| Figure 1.A, helped in analyzing survival data
+| icon:book[] {uri-mattiello2021}[Paper]
+
+| `24 March 2021` +
+| Cell Death & Disease
+| Inhibition of HECT E3 ligases as potential therapy for COVID-19
+| Figure 4, _in silico_ 3D structures analysis
+| icon:book[] {uri-novelli2021}[Paper]
+
+| `1 March 2021` +
+| NAR Genomics and Bioinformatics
+| **Relative Information Gain: Shannon entropy-based measure of the relative structural conservation in RNA alignments*
+| Paper writing, contributed to Figure 2, made Figure 3, 4, and 5, and fixed, refactored and completed the framework
+| icon:book[] {uri-pietrosanto-adinolfi-guarracino2021-rig}[Paper] +
+icon:github[] {uri-github-rig}[Repository]
+
+| `2 February 2021` +
+| Cell Death & Disease
+| Control of replication stress and mitosis in colorectal cancer stem cells through the interplay of PARP1, MRE11 and RAD51
+| Bioinformatics support
+| icon:book[] {uri-manic2021}[Paper]
+
+|===
 
 
+== icon:search[] Reviewer for Journals
+
+[cols="1,1",options="header"]
+|===
+
+| icon:calendar[] Time
+| icon:book[] Journal
+
+| `26 February 2021 to Present` +
+| {uri-human-genomics}[Human Genomics]
+
+| `23 February 2021 to Present` +
+| {uri-plos-one}[PLOS ONE]
+
+|===
+
+
+== icon:bullhorn[] Talks / Posters
 
 [cols="1,1,2,1",options="header"]
 |===
@@ -423,114 +528,5 @@ icon:university[] *Computer engineer for multiplatform firmware/software develop
 | Comprehensive analysis of human SARS-CoV-2 infection and host-virus interaction
 | icon:file-pdf-o[] {uri-ismb2020-abstract-c}[Abstract] +
   icon:file-pdf-o[] {uri-ismb2020-poster-c}[Poster]
-
-|===
-
-
-
-== icon:book[] Publications
-
-See them on https://scholar.google.com/citations?user=zABbjIoAAAAJ[Google Scholar]. *first authorship.
-
-[cols="1,1,2,2,1",options="header"]
-|===
-
-| icon:calendar[] Time
-| icon:book[] Journal
-| icon:book[] Title
-| icon:pencil[] Contribution
-| icon:link[] Links
-
-| `Submitted` +
-| Nature
-| Recombination between heterologous human acrocentric chromosomes
-| Pangenomic analyses, figures from 1 to 5, paper writing
-| icon:spinner[] {uri-guarracino2022-acro-preprint}[Preprint]
-
-| `Submitted` +
-| Bioinformatics
-| Optimal gap-affine alignment in O(s) space
-| Testing, evaluation, Figure 2.
-| icon:spinner[] {uri-marcosola2022-preprint}[Preprint]
-
-| `In revision` +
-| Nature
-| A draft human pangenome reference
-| Paper editing, pangenome graph creation, pangenome visualization, population genetic analysis
-| icon:spinner[] {uri-liao2022-preprint}[Preprint]
-
-| `In revision` +
-| Nature
-| Automated assembly of high-quality diploid human reference genomes
-| Pangenome alignments, Jaccard, PCA and MHC analyses, figure 2
-| icon:spinner[] {uri-jarvis2022-preprint}[Preprint]
-
-| `In revision` +
-| Bioinformatics
-| Unbiased pangenome graphs
-| Parallelization of a bottleneck in the graph induction, bug fixings, experiments in multiple species
-| icon:spinner[] {uri-garrison2022-preprint}[Preprint]
-
-| `24 August 2022` +
-| Nature Immunology
-| Type I IFNs promote cancer cell stemness by triggering the epigenetic regulator KDM1B
-| Made Figure 6.a, 7.a, and 7.b, contributed for Figure 6.c,
-6.e, performed RNA-seq, ATAC-seq, and microarray data analysis, correlation analyses,
-TF-binding motif enrichment, survival analyses
-| icon:book[] {uri-musella2022}[Publication]
-
-| `13 May 2022` +
-| Bioinformatics
-| **ODGI: understanding pangenome graphs*
-| Wrote the draft paper and the documentation, made the figures and the table, implemented several tools
-| icon:book[] {uri-guarracino2022-odgi}[Publication]
-
-| `15 February 2022` +
-| Non-coding RNA Research
-| Evaluation of potential miRNA sponge effects of SARS genomes in human
-| Genome sequences collection, filtering, deduplication, alignment, variant calling
-| icon:book[] {uri-pepe2022}[Publication]
-
-| `26 May 2021` +
-| Nucleic Acids Research
-| **BRIO: a web server for RNA sequence and structure motif scan*
-| Wrote the paper, made the figures and the table, refactored and completed the web
-server, refined the datasets
-| icon:book[] {uri-guarracino2021-brio}[Publication] +
-  icon:globe[] {uri-guarracino2021-brio-webserver}[Webserver] +
-  icon:github[] {uri-github-brio}[Repository] +
-  icon:file-pdf-o[] {uri-guarracino2021-brio-graphical-abstract}[Graphical abstract] +
-
-| `17 May 2021` +
-| Communications Biology
-| Genome-wide bioinformatic analyses predict key host and viral factors in SARS-CoV-2 pathogenesis
-| Differential expression analyses, including batch effects exploration, GO/pathway enrichment analyses
-| icon:book[] {uri-ferrarini2021}[Publication] +
-  icon:github[] {uri-github-covid19-research}[Repository]
-
-| `19 April 2021` +
-| Cancers
-| The Targeting of MRE11 or RAD51 Sensitizes Colorectal Cancer Stem Cells to CHK1 Inhibition
-| Made Figure 1.A, helped in analyzing survival data
-| icon:book[] {uri-mattiello2021}[Publication]
-
-| `24 March 2021` +
-| Cell Death & Disease
-| Inhibition of HECT E3 ligases as potential therapy for COVID-19
-| Made Figure 4, provided _in silico_ 3D structures analysis
-| icon:book[] {uri-novelli2021}[Publication]
-
-| `1 March 2021` +
-| NAR Genomics and Bioinformatics
-| **Relative Information Gain: Shannon entropy-based measure of the relative structural conservation in RNA alignments*
-| Wrote the paper, contributed to Figure 2, made Figure 3, 4, and 5, and fixed, refactored and completed the framework
-| icon:book[] {uri-pietrosanto-adinolfi-guarracino2021-rig}[Publication] +
-  icon:github[] {uri-github-rig}[Repository]
-
-| `2 February 2021` +
-| Cell Death & Disease
-| Control of replication stress and mitosis in colorectal cancer stem cells through the interplay of PARP1, MRE11 and RAD51
-| Bioinformatics support
-| icon:book[] {uri-manic2021}[Publication]
 
 |===
