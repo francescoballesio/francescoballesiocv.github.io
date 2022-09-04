@@ -11,6 +11,7 @@
 :uri-gisa-patent: https://it.espacenet.com/publicationDetails/biblio?II=0&ND=3&adjacent=true&locale=it_IT&FT=D&date=20171228&CC=IT&NR=UA20165252A1&KC=A1
 :uri-human-genomics: https://humgenomics.biomedcentral.com/
 :uri-plos-one: https://journals.plos.org/plosone/
+:uri-gulbenkian-de-Ciencia: https://gulbenkian.pt/ciencia/
 
 // Talks / Posters
 :uri-github-iggsy2022-presentation: https://andreaguarracino.github.io/presentations/IGGSy2022_ChromosomeCommunitiesHumanPangenome_Presentation_AndreaGuarracino.pdf
@@ -227,11 +228,11 @@ icon:university[] *Computer engineer for multiplatform firmware/software develop
 | icon:book[] Course
 | icon:globe[] Place
 | icon:pencil[] Contribution
-| icon:link[] Material
+| icon:link[] Links
 
 | `23 May 2022 to 27 May 2022` +
 | CPANG22 Computational PANGenomics
-| Instituto Gulbenkian de Ciência (Oeiras, Portugal)
+| {uri-gulbenkian-de-Ciencia}[Instituto Gulbenkian de Ciência] (Oeiras, Portugal)
 | Instructor, created new material and tutorials, held some lessons, assisted the participants
 | icon:github[] {uri-github-cpang22-website}[Website] +
   icon:github[] {uri-github-cpang22-material}[Material] +
@@ -253,19 +254,19 @@ icon:university[] *Computer engineer for multiplatform firmware/software develop
 | Computational Proteogenomics (2 CFU/ECTS)
 | Master’s degree in Bioinformatics, {university-tor-vergata} (Rome, Italy)
 | Exam assistant
-| icon:github[] {uri-github-esami-svolti}[Statistics] (page 1)
+| icon:github[] {uri-github-esami-svolti}[Page 1]
 
 | `7 June 2019 to 21 July 2021` +
 | Molecular Biology (8 CFU/ECTS)
 | Bachelor’s degree in Biological Science, {university-tor-vergata} (Rome, Italy)
 | Exam assistant
-| icon:github[] {uri-github-esami-svolti}[Statistics] (page 1)
+| icon:github[] {uri-github-esami-svolti}[Page 1]
 
 | `7 June 2019 to 21 July 2021` +
 | Bioinformatics (6 CFU/ECTS)
 | Bachelor’s degree in Biological Science, {university-tor-vergata} (Rome, Italy)
 | Exam assistant
-| icon:github[] {uri-github-esami-svolti}[Statistics] (page 1)
+| icon:github[] {uri-github-esami-svolti}[Page 1]
 
 |===
 
