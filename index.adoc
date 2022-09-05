@@ -221,6 +221,16 @@ icon:university[] *Computer engineer for multiplatform firmware/software develop
 * Patent application on a universal system for services fruition, with validation, reconstruction, and credit self-reloading management, on read-only and read/write supports (ITUA20165252, A1) ({uri-gisa-patent}[Patent])
 * Basic design of simple electrical circuits for controlling actuators and reading analog/digital signals
 
+icon:calendar[] `Oct. 2012 to Jan. 2013` +
+icon:university[] *Salesman, L’Erborista S.A.S. di Sarno Adele & C* (Salerno, Italy).
+
+* Selling products, warehouse management and cleaning
+
+icon:calendar[] `Nov. 2010 to Mar. 2013` +
+icon:university[] *Web Developer, Virtual* (Salerno, Italy).
+
+* Development of dynamic websites using Java Server Page, JavaScript, ASP.NET, PHP, MySQL
+
 
 == icon:users[] Teachings
 
