@@ -396,7 +396,7 @@ icon:github[] {uri-github-rig}[Repository]
 |===
 
 
-== icon:search[] Peer-review
+== icon:user-secret[] Peer-review
 
 [cols="1,1,1",options="header"]
 |===
@@ -424,7 +424,7 @@ icon:github[] {uri-github-rig}[Repository]
 ^| icon:calendar[] Time
 ^| icon:globe[] Conference
 ^| icon:book[] Title
-^| icon:link[] Material
+^| icon:link[] Links
 
 | `4 July 2022 to 7 July 2022` +
 | {uri-iggsy2022}[International Genome Graph Symposium 2022]
