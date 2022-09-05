@@ -107,6 +107,7 @@
 
 = *Andrea Guarracino's CV*
 :favicon: favicon.ico
+:table-stripes: even
 Andrea Guarracino Ph.D. <andrea.guarracino@fht.org>
 //:figure-caption!: // To turn off figure caption labels and numbers
 ifdef::backend-html5[]
@@ -226,10 +227,10 @@ icon:university[] *Computer engineer for multiplatform firmware/software develop
 [cols="5,12,8,3",options="header"]
 |===
 
-| icon:calendar[] Time
-| icon:book[] Course
-| icon:pencil[] Role
-| icon:link[] Links
+^| icon:calendar[] Time
+^| icon:book[] Course
+^| icon:pencil[] Role
+^| icon:link[] Links
 
 | `23 May 2022 to 27 May 2022` +
 | CPANG22 Computational PANGenomics, {uri-gulbenkian-de-Ciencia}[Instituto Gulbenkian de Ciência] (Oeiras, Portugal)
@@ -271,10 +272,10 @@ icon:university[] *Computer engineer for multiplatform firmware/software develop
 [cols="2,4,4,1",options="header"]
 |===
 
-| icon:calendar[] Time
-| icon:university[] University
-| icon:book[] Thesis
-| icon:link[] Links
+^| icon:calendar[] Time
+^| icon:university[] University
+^| icon:book[] Thesis
+^| icon:link[] Links
 
 | `2 Sept. 2021 to 20 Apr. 2022` +
 | Master’s degree in Bioinformatics, {university-tor-vergata} (Rome, Italy)
@@ -301,10 +302,10 @@ See them on https://scholar.google.com/citations?user=zABbjIoAAAAJ[Google Schola
 [cols="1,3,3,1",options="header"]
 |===
 
-| icon:newspaper-o[] Journal
-| icon:book[] Title (*first authorship)
-| icon:pencil[] Contribution
-| icon:link[] Links
+^| icon:newspaper-o[] Journal
+^| icon:book[] Title (*first authorship)
+^| icon:pencil[] Contribution
+^| icon:link[] Links
 
 | Nature, _Submitted_
 | **Recombination between heterologous human acrocentric chromosomes*
@@ -390,9 +391,9 @@ icon:github[] {uri-github-rig}[Repository]
 [cols="1,1,1",options="header"]
 |===
 
-| icon:calendar[] Time
-| icon:book[] Journal
-| icon:book[] Review identifiers
+^| icon:calendar[] Time
+^| icon:book[] Journal
+^| icon:book[] Review identifiers
 
 | `26 Feb. 2021 to Present` +
 | {uri-human-genomics}[Human Genomics]
@@ -410,10 +411,10 @@ icon:github[] {uri-github-rig}[Repository]
 [cols="1,1,2,1",options="header"]
 |===
 
-| icon:calendar[] Time
-| icon:globe[] Conference
-| icon:book[] Title
-| icon:link[] Material
+^| icon:calendar[] Time
+^| icon:globe[] Conference
+^| icon:book[] Title
+^| icon:link[] Material
 
 | `4 July 2022 to 7 July 2022` +
 | {uri-iggsy2022}[International Genome Graph Symposium 2022]
