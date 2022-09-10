@@ -208,7 +208,7 @@ icon:university[] *Development of new software for pangenome graphs building and
 
 == icon:suitcase[] Working Experience
 
-icon:calendar[] `Mar. 2013 to Oct. 2018` +
+icon:calendar[] `Mar. 2013 to Oct. 2018` (5 years, 7 months, 28 days) +
 icon:university[] *Computer engineer for multiplatform firmware/software development, {uri-gisa}[GISA]* (Salerno, Italy).
 
 * Firmware development in STMicroelectronics microcontrollers for high efficiency embedded systems
@@ -221,12 +221,12 @@ icon:university[] *Computer engineer for multiplatform firmware/software develop
 * Patent application on a universal system for services fruition, with validation, reconstruction, and credit self-reloading management, on read-only and read/write supports (ITUA20165252, A1) ({uri-gisa-patent}[Patent])
 * Basic design of simple electrical circuits for controlling actuators and reading analog/digital signals
 
-icon:calendar[] `Oct. 2012 to Jan. 2013` +
+icon:calendar[] `Oct. 2012 to Jan. 2013` (3 months, 17 days) +
 icon:university[] *Salesman, L’Erborista S.A.S. di Sarno Adele & C* (Salerno, Italy).
 
 * Selling products, warehouse management and cleaning
 
-icon:calendar[] `Nov. 2010 to Mar. 2013` +
+icon:calendar[] `Nov. 2010 to Mar. 2013` (2 years, 4 months, 3 days) +
 icon:university[] *Web Developer, Virtual* (Salerno, Italy).
 
 * Development of dynamic websites using Java Server Page, JavaScript, ASP.NET, PHP, MySQL
