@@ -7,6 +7,7 @@
 :uri-uthsc: https://www.uthsc.edu/
 :uri-university-tor-vergata: http://web.uniroma2.it/
 :uri-university-salerno: https://web.unisa.it/en/home
+:uri-italian-iigm: https://www.iigm.it/
 :uri-gisa: https://www.gisaitalia.net/
 :uri-gisa-patent: https://it.espacenet.com/publicationDetails/biblio?II=0&ND=3&adjacent=true&locale=it_IT&FT=D&date=20171228&CC=IT&NR=UA20165252A1&KC=A1
 :uri-human-genomics: https://humgenomics.biomedcentral.com/
@@ -68,6 +69,7 @@
 :uthsc: {uri-uthsc}[University of Tennessee Health and Science Center]
 :university-tor-vergata: {uri-university-tor-vergata}[University of Rome Tor Vergata]
 :university-salerno: {uri-university-salerno}[University of Salerno]
+:iigm: {uri-italian-iigm}[Italian Institute for Genomic Medicine]
 
 // Publications
 :uri-pietrosanto-adinolfi-guarracino2021-rig: https://doi.org/10.1093/nargab/lqab007
@@ -118,7 +120,7 @@ endif::[]
 :icons: font
 
 
-== icon:user[] Personal Details
+== icon:user[] Personal details
 
 A computer engineer in love with the unknown side of biology.
 
@@ -131,16 +133,15 @@ icon:linkedin[] {uri-linkedin}[Linkedin]
 
 // Jan., Feb., Mar., Apr., May, June, July, Aug., Sept., Oct., Nov., Dec.
 
-== icon:black-tie[] Current Position
+== icon:black-tie[] Current position
 
 icon:calendar[] `Nov. 2021 to Present` +
 icon:university[] *Postdoctoral Associate at the {human-technopole}* (Milan, Italy). +
 icon:group[] Reporting to Prof. Nicole Soranzo and Prof. Erik Garrison.
 
-* Development of new software for pangenome graphs building and analysis
+* Development of tools for pangenome graph building, manipulation, and analyses
 
-
-== icon:search[] Research Projects
+== icon:search[] Research projects
 
 icon:calendar[] `Apr. 2020 to Present` +
 icon:university[] *Collaboration with the {uthsc}* (Memphis, USA). +
@@ -151,9 +152,9 @@ icon:group[] Reporting to Prof. Erik Garrison and Prof. Pjotr Prins.
 * New generation of sequence aligners for aligning whole eukaryotic chromosomes
 * Development of a free and open online public sequence resource for SARS-CoV-2 data storage and analysis
 
-icon:calendar[] `Nov. 2018 to Present` +
-icon:university[] *Ongoing projects with the {university-tor-vergata}* (Rome, Italy). +
-icon:group[] Reporting to Prof. Manuela Helmer-Citterich and Dr. Ilio Vitale.
+icon:calendar[] `Nov. 2019 to Present` +
+icon:university[] *Collaboration with the {iigm}* (Candiolo, Italy). +
+icon:group[] Reporting to Dr. Ilio Vitale.
 
 * Spindle Assembly Checkpoint functionality in colon-rectal cancer stem cell
 * Exploiting karyotypic aberrations and chromosomal instability in cancer stem cells for precision immunotherapy
@@ -163,6 +164,7 @@ icon:group[] Reporting to Prof. Manuela Helmer-Citterich and Dr. Ilio Vitale.
 
 icon:calendar[] `Nov. 2018 to Feb. 2022` +
 icon:university[] *Ph.D. in Cellular and Molecular Biology (Bioinformatics), {university-tor-vergata}* (Rome, Italy). +
+icon:group[] Supervisors: Prof. Manuela Helmer-Citterich and Dr. Ilio Vitale. +
 icon:book[] Thesis: "Investigating chromosomal instability in cancer stem cells". +
 icon:battery-full[] Evaluation: excellent quality.
 
@@ -177,7 +179,7 @@ icon:book[] Thesis: "Energetic and functional characterization of phosphorylatio
 icon:battery-full[] Evaluation: 110/110 cum laude; GPA: 4.00, A+.
 
 
-== icon:flask[] Research Experience
+== icon:flask[] Research experience
 
 icon:calendar[] `Nov. 2018 to Present` +
 icon:university[] *Bioinformatic analyses of multiomics data, {university-tor-vergata}* (Rome, Italy).
@@ -206,7 +208,7 @@ icon:university[] *Development of new software for pangenome graphs building and
 * Pangenome graph browser development (icon:github[] {uri-github-pantograph}[Pantograph])
 
 
-== icon:suitcase[] Working Experience
+== icon:suitcase[] Work experience
 
 icon:calendar[] `Mar. 2013 to Oct. 2018` (5 years, 7 months, 28 days) +
 icon:university[] *Computer engineer for multiplatform firmware/software development, {uri-gisa}[GISA]* (Salerno, Italy).
@@ -277,7 +279,7 @@ icon:university[] *Web Developer, Virtual* (Salerno, Italy).
 |===
 
 
-== icon:handshake-o[] Mentoring Experience
+== icon:handshake-o[] Mentoring
 
 [cols="2,4,4,1",options="header"]
 |===
@@ -292,6 +294,16 @@ icon:university[] *Web Developer, Virtual* (Salerno, Italy).
 | Machine learning to automatically detect the _C. elegans_ bodies from microscope images and measure their growth over time
 | icon:file-pdf-o[] {uri-github-esami-svolti}[Page 3]
 
+| `20 Apr. 2021 to 02 Nov. 2021` +
+| Bachelor’s degree in Biological Science, {university-tor-vergata} (Rome, Italy)
+| Analysis of the effect of SARS-CoV-2 mutations on the pairing between the viral genome and human miRNAs
+| icon:file-pdf-o[] {uri-github-esami-svolti}[Page 3]
+
+| `28 Apr. 2020 to 5 Nov. 2020` +
+| Bachelor’s degree in Biological Science, {university-tor-vergata} (Rome, Italy)
+| Analysis of repeated sequences in lincRNA candidates for exon shuffling
+| icon:file-pdf-o[] {uri-github-esami-svolti}[Page 3]
+
 | `9 Mar. 2020 to 12 Mar. 2021` +
 | Master’s degree in Bioinformatics, {university-tor-vergata} (Rome, Italy)
 | Machine Learning methods applied to kinase-substrate interaction prediction
@@ -300,6 +312,11 @@ icon:university[] *Web Developer, Virtual* (Salerno, Italy).
 | `2 Mar. 2020 to 17 Dec. 2020` +
 | Master’s degree in Bioinformatics, {university-tor-vergata} (Rome, Italy)
 | Natural Language Processing techniques for protein encoding applied to phosphorylation prediction
+| icon:file-pdf-o[] {uri-github-esami-svolti}[Page 3]
+
+| `13 Dec. 2019 to 11 June 2020` +
+| Bachelor’s degree in Biological Science, {university-tor-vergata} (Rome, Italy)
+| Study of normalization techniques' effects in gene expression correlation analyses
 | icon:file-pdf-o[] {uri-github-esami-svolti}[Page 3]
 
 |===
