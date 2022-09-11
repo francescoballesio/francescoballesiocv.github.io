@@ -101,7 +101,7 @@
 :uri-github-cpang22-material: https://github.com/GTPB/CPANG22
 :uri-github-cpang22-poster: https://github.com/AndreaGuarracino/cv/blob/main/other/CPANG22_Poster.AndreaGuarracino.pdf
 :uri-github-datastructuresforbioinformatics: https://github.com/AndreaGuarracino/DataStructuresForBioinformatics
-:uri-github-esami-svolti: https://andreaguarracino.github.io/other/EsamiSvoltiLaureeDocentePerAnnoAccademico.2021.11.05.pdf
+:uri-github-esami-svolti: https://andreaguarracino.github.io/other/EsamiSvoltiLaureeDocentePerAnnoAccademico.pdf
 :uri-github-covid19-research: https://github.com/vaguiarpulido/covid19-research.git
 :uri-github-rig: https://github.com/helmercitterich-lab/RIG
 
@@ -290,17 +290,17 @@ icon:university[] *Web Developer, Virtual* (Salerno, Italy).
 | `2 Sept. 2021 to 20 Apr. 2022` +
 | Master’s degree in Bioinformatics, {university-tor-vergata} (Rome, Italy)
 | Machine learning to automatically detect the _C. elegans_ bodies from microscope images and measure their growth over time
-| -
+| icon:file-pdf-o[] {uri-github-esami-svolti}[Page 3]
 
 | `9 Mar. 2020 to 12 Mar. 2021` +
 | Master’s degree in Bioinformatics, {university-tor-vergata} (Rome, Italy)
 | Machine Learning methods applied to kinase-substrate interaction prediction
-| icon:file-pdf-o[] {uri-github-esami-svolti}[Page 2]
+| icon:file-pdf-o[] {uri-github-esami-svolti}[Page 3]
 
 | `2 Mar. 2020 to 17 Dec. 2020` +
 | Master’s degree in Bioinformatics, {university-tor-vergata} (Rome, Italy)
 | Natural Language Processing techniques for protein encoding applied to phosphorylation prediction
-| icon:file-pdf-o[] {uri-github-esami-svolti}[Page 2]
+| icon:file-pdf-o[] {uri-github-esami-svolti}[Page 3]
 
 |===
 
