@@ -135,7 +135,7 @@ icon:linkedin[] {uri-linkedin}[Linkedin]
 
 == icon:black-tie[] Current position
 
-icon:calendar[] `Nov. 2021 to Present` +
+icon:calendar[] `01 Nov. 2021 to Present` +
 icon:university[] *Postdoctoral Associate at the {human-technopole}* (Milan, Italy). +
 icon:group[] Reporting to Prof. Nicole Soranzo and Prof. Erik Garrison.
 
@@ -143,7 +143,7 @@ icon:group[] Reporting to Prof. Nicole Soranzo and Prof. Erik Garrison.
 
 == icon:search[] Research projects
 
-icon:calendar[] `Apr. 2020 to Present` +
+icon:calendar[] `5 Apr. 2020 to Present` +
 icon:university[] *Collaboration with the {uthsc}* (Memphis, USA). +
 icon:group[] Reporting to Prof. Erik Garrison and Prof. Pjotr Prins.
 
@@ -152,7 +152,7 @@ icon:group[] Reporting to Prof. Erik Garrison and Prof. Pjotr Prins.
 * New generation of sequence aligners for aligning whole eukaryotic chromosomes
 * Development of a free and open online public sequence resource for SARS-CoV-2 data storage and analysis
 
-icon:calendar[] `Nov. 2019 to Present` +
+icon:calendar[] `1 Nov. 2019 to Present` +
 icon:university[] *Collaboration with the {iigm}* (Candiolo, Italy). +
 icon:group[] Reporting to Dr. Ilio Vitale.
 
@@ -162,18 +162,18 @@ icon:group[] Reporting to Dr. Ilio Vitale.
 
 == icon:graduation-cap[] Education
 
-icon:calendar[] `Nov. 2018 to Feb. 2022` +
+icon:calendar[] `1 Nov. 2018 to 8 Feb. 2022` +
 icon:university[] *Ph.D. in Cellular and Molecular Biology (Bioinformatics), {university-tor-vergata}* (Rome, Italy). +
 icon:group[] Supervisors: Prof. Manuela Helmer-Citterich and Dr. Ilio Vitale. +
 icon:book[] Thesis: "Investigating chromosomal instability in cancer stem cells". +
 icon:battery-full[] Evaluation: excellent quality.
 
-icon:calendar[] `Oct. 2016 to Oct. 2018` +
+icon:calendar[] `3 Oct. 2016 to 25 Oct. 2018` +
 icon:university[] *Master’s degree in Bioinformatics (LM-6), {university-tor-vergata}* (Rome, Italy). +
 icon:book[] Thesis: "Energetic and functional characterization of phosphorylations involved in the co-regulation of protein interaction". +
 icon:battery-full[] Evaluation: 110/110 cum laude; GPA: 4.00, A+.
 
-icon:calendar[] `Oct. 2007 to Oct. 2010` +
+icon:calendar[] `1 Oct. 2007 to 29 Oct. 2010` +
 icon:university[] *Bachelor’s degree in Computer Engineering (L-8), {university-salerno}* (Salerno, Italy). +
 icon:book[] Thesis: "Energetic and functional characterization of phosphorylations involved in the co-regulation of protein interaction". +
 icon:battery-full[] Evaluation: 110/110 cum laude; GPA: 4.00, A+.
@@ -181,7 +181,7 @@ icon:battery-full[] Evaluation: 110/110 cum laude; GPA: 4.00, A+.
 
 == icon:flask[] Research experience
 
-icon:calendar[] `Nov. 2018 to Present` +
+icon:calendar[] `1 Nov. 2018 to Present` +
 icon:university[] *Bioinformatic analyses of multiomics data, {university-tor-vergata}* (Rome, Italy).
 
 * Germline and somatic variants analyses on Whole-Exome sequencing (WES) data: quality control, sample matching, rRNA contamination, read trimming and mapping, variant calling, and functional prediction
@@ -197,7 +197,7 @@ icon:university[] *Bioinformatic analyses of multiomics data, {university-tor-ve
 * Cox modeling and survival analysis on patient cohorts (from TCGA and cBioPortal platforms)
 * Basic procedures on High Performance Computing (HPC) machines
 
-icon:calendar[] `Apr. 2020 to Present` +
+icon:calendar[] `5 Apr. 2020 to Present` +
 icon:university[] *Development of new software for pangenome graphs building and analysis*.
 
 * Developing of tools to construct pangenome graphs of any complexity and scale (icon:github[] {uri-github-pggb}[PGGB], icon:github[] {uri-github-smoothxg}[smoothxg])
@@ -210,7 +210,7 @@ icon:university[] *Development of new software for pangenome graphs building and
 
 == icon:suitcase[] Work experience
 
-icon:calendar[] `Mar. 2013 to Oct. 2018` (5 years, 7 months, 28 days) +
+icon:calendar[] `4 Mar. 2013 to 31 Oct. 2018` (5 years, 7 months, 28 days) +
 icon:university[] *Computer engineer for multiplatform firmware/software development, {uri-gisa}[GISA]* (Salerno, Italy).
 
 * Firmware development in STMicroelectronics microcontrollers for high efficiency embedded systems
@@ -223,12 +223,12 @@ icon:university[] *Computer engineer for multiplatform firmware/software develop
 * Patent application on a universal system for services fruition, with validation, reconstruction, and credit self-reloading management, on read-only and read/write supports (ITUA20165252, A1) ({uri-gisa-patent}[Patent])
 * Basic design of simple electrical circuits for controlling actuators and reading analog/digital signals
 
-icon:calendar[] `Oct. 2012 to Jan. 2013` (3 months, 17 days) +
+icon:calendar[] `4 Oct. 2012 to 20 Jan. 2013` (3 months, 17 days) +
 icon:university[] *Salesman, L’Erborista S.A.S. di Sarno Adele & C* (Salerno, Italy).
 
 * Selling products, warehouse management and cleaning
 
-icon:calendar[] `Nov. 2010 to Mar. 2013` (2 years, 4 months, 3 days) +
+icon:calendar[] `1 Nov. 2010 to 3 Mar. 2013` (2 years, 4 months, 3 days) +
 icon:university[] *Web Developer, Virtual* (Salerno, Italy).
 
 * Development of dynamic websites using Java Server Page, JavaScript, ASP.NET, PHP, MySQL
