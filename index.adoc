@@ -137,7 +137,7 @@ icon:linkedin[] {uri-linkedin}[Linkedin]
 
 == icon:black-tie[] Current position
 
-icon:calendar[] `01 Nov. 2021 to Present` +
+icon:calendar[] `1 Nov. 2021 to Present` +
 icon:university[] *Postdoctoral Associate at the {human-technopole}* (Milan, Italy). +
 icon:group[] Reporting to Prof. Nicole Soranzo and Prof. Erik Garrison.
 
