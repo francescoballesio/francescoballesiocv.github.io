@@ -7,7 +7,8 @@
 :uri-uthsc: https://www.uthsc.edu/
 :uri-university-tor-vergata: http://web.uniroma2.it/
 :uri-university-salerno: https://web.unisa.it/en/home
-:uri-italian-iigm: https://www.iigm.it/
+:uri-iigm: https://www.iigm.it/
+:uri-irccs: https://www.irccs.com/en
 :uri-gisa: https://www.gisaitalia.net/
 :uri-gisa-patent: https://it.espacenet.com/publicationDetails/biblio?II=0&ND=3&adjacent=true&locale=it_IT&FT=D&date=20171228&CC=IT&NR=UA20165252A1&KC=A1
 :uri-human-genomics: https://humgenomics.biomedcentral.com/
@@ -69,7 +70,8 @@
 :uthsc: {uri-uthsc}[University of Tennessee Health and Science Center]
 :university-tor-vergata: {uri-university-tor-vergata}[University of Rome Tor Vergata]
 :university-salerno: {uri-university-salerno}[University of Salerno]
-:iigm: {uri-italian-iigm}[Italian Institute for Genomic Medicine]
+:iigm: {uri-iigm}[Italian Institute for Genomic Medicine]
+:irccs: {uri-irccs}[Candiolo Cancer Institute]
 
 // Publications
 :uri-pietrosanto-adinolfi-guarracino2021-rig: https://doi.org/10.1093/nargab/lqab007
@@ -153,7 +155,7 @@ icon:group[] Reporting to Prof. Erik Garrison and Prof. Pjotr Prins.
 * Development of a free and open online public sequence resource for SARS-CoV-2 data storage and analysis
 
 icon:calendar[] `1 Nov. 2019 to Present` +
-icon:university[] *Collaboration with the {iigm}* (Candiolo, Italy). +
+icon:university[] *Collaboration with the {iigm}* (Candiolo, Italy) and the *{irccs}* (Candiolo, Italy). +
 icon:group[] Reporting to Dr. Ilio Vitale.
 
 * Spindle Assembly Checkpoint functionality in colon-rectal cancer stem cell
@@ -349,7 +351,7 @@ See them on https://scholar.google.com/citations?user=zABbjIoAAAAJ[Google Schola
 | Paper editing, pangenome graph creation and visualization, population genetic analysis
 | icon:spinner[] {uri-liao2022-preprint}[Preprint]
 
-| Nature, _In revision_
+| Nature, _Accepted_
 | Automated assembly of high-quality diploid human reference genomes
 | Pangenome alignments, Jaccard, PCA and MHC analyses, Figure 2
 | icon:spinner[] {uri-jarvis2022-preprint}[Preprint]
