@@ -146,7 +146,7 @@ icon:group[] Reporting to Prof. Nicole Soranzo and Prof. Erik Garrison.
 == icon:search[] Research projects
 
 icon:calendar[] `5 Apr. 2020 to Present` +
-icon:university[] *Collaboration with the {uthsc}* (Memphis, USA). +
+icon:university[] *{uthsc}* (Memphis, USA). +
 icon:group[] Reporting to Prof. Erik Garrison and Prof. Pjotr Prins.
 
 * Development of tools for pangenome graph building, manipulation, and analyses
@@ -155,7 +155,7 @@ icon:group[] Reporting to Prof. Erik Garrison and Prof. Pjotr Prins.
 * Development of a free and open online public sequence resource for SARS-CoV-2 data storage and analysis
 
 icon:calendar[] `1 Nov. 2019 to Present` +
-icon:university[] *Collaboration with the {iigm}* (Candiolo, Italy) and the *{irccs}* (Candiolo, Italy). +
+icon:university[] *{iigm}* (Candiolo, Italy) and the *{irccs}* (Candiolo, Italy). +
 icon:group[] Reporting to Dr. Ilio Vitale.
 
 * Spindle Assembly Checkpoint functionality in colon-rectal cancer stem cell
