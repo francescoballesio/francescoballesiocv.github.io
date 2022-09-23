@@ -204,7 +204,7 @@ icon:university[] *Development of new software for pangenome graphs building and
 
 * Developing of tools to construct pangenome graphs of any complexity and scale (icon:github[] {uri-github-pggb}[PGGB], icon:github[] {uri-github-smoothxg}[smoothxg])
 * Optimized Dynamic Genome/Graph Implementation (icon:github[] {uri-github-odgi}[ODGI]) development to analyze and manipulate pangenome graphs, scaling up to large collections of eukaryotic genomes ({uri-guarracino2022-odgi}[Guarracino _et al._, 2022])
-* Development of a new algorithm for sorting pangenome graphs to simplify downstream analyses on them (icon:github[] {uri-github-pg-sgd-1D}[Path-guided Sorting], icon:github[] {uri-github-pg-sgd-1D}[Path-guided Layout])
+* Development of a new algorithm for sorting pangenome graphs to simplify downstream analyses on them (icon:github[] {uri-github-pg-sgd-1D}[Path-guided Sorting], icon:github[] {uri-github-pg-sgd-2D}[Path-guided Layout])
 * Development of a new gap-affine pairwise aligner to align whole eukaryotic chromosomes (icon:github[] {uri-github-wfmash}[wfmash])
 * Software and workflows development for PubSeq, a free and open online public sequence resource with on-the-fly analysis (icon:github[] {uri-github-pubseq}[bh20-seq-resource])
 * Pangenome graph browser development (icon:github[] {uri-github-pantograph}[Pantograph])
