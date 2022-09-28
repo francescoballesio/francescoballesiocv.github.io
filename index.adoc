@@ -237,9 +237,9 @@ icon:university[] *Web Developer, Virtual* (Salerno, Italy).
 * Development of dynamic websites using Java Server Page, JavaScript, ASP.NET, PHP, MySQL
 
 
-== icon:users[] Teachings
+== icon:users[] Teaching
 
-[cols="5,12,8,3",options="header"]
+[cols="5,12,8,4",options="header"]
 |===
 
 ^| icon:calendar[] Time
