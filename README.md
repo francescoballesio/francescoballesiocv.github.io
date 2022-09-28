@@ -12,7 +12,7 @@ A computer engineer in love with the unknown side of biology.
 [//]: # (For the icons: https://fontawesome.com/v4/icons/)
 [//]: # (NOT USED. To generate the index.html file: pandoc -f markdown --standalone --metadata title="Andrea Guarracino CV" --variable=title="" --css=style.css --output=index.html README.md)
 
-### Teachings
+### Teaching
 | Start date |  End date  |                                                        Course                                                        |                                                                                                     Links                                                                                                     |
 |:----------:|:----------:|:--------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | 2022/05/23 | 2022/05/27 |          Instructor in CPANG22 Computational PANGenomics, Instituto Gulbenkian de Ciência, Oeiras, Portugal          | [Website](https://gtpb.github.io/CPANG22/), [Repository](https://github.com/GTPB/CPANG22), [Poster](other/CPANG22_Poster.AndreaGuarracino.pdf), [Certificate](other/CPANG22_Certificate.AndreaGuarracino.pdf) |
