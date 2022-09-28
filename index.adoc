@@ -104,6 +104,7 @@
 :uri-github-cpang22-website: https://gtpb.github.io/CPANG22/
 :uri-github-cpang22-material: https://github.com/GTPB/CPANG22
 :uri-github-cpang22-poster: https://github.com/AndreaGuarracino/cv/blob/main/other/CPANG22_Poster.AndreaGuarracino.pdf
+:uri-github-cpang22-certificate: https://github.com/AndreaGuarracino/cv/blob/main/other/CPANG22_Certificate.AndreaGuarracino.pdf
 :uri-github-datastructuresforbioinformatics: https://github.com/AndreaGuarracino/DataStructuresForBioinformatics
 :uri-github-esami-svolti: https://andreaguarracino.github.io/other/EsamiSvoltiLaureeDocentePerAnnoAccademico.pdf
 :uri-github-covid19-research: https://github.com/vaguiarpulido/covid19-research.git
@@ -251,7 +252,8 @@ icon:university[] *Web Developer, Virtual* (Salerno, Italy).
 | *Instructor*, created new material and tutorials, held some lessons, assisted the participants
 | icon:github[] {uri-github-cpang22-website}[Website] +
   icon:github[] {uri-github-cpang22-material}[Material] +
-  icon:file-pdf-o[] {uri-github-cpang22-poster}[Poster]
+  icon:file-pdf-o[] {uri-github-cpang22-poster}[Poster] +
+  icon:file-pdf-o[] {uri-github-cpang22-certificate}[Certificate]
 
 | `26 Oct. 2020 to Present` +
 | Data Structures for Bioinformatics (2 CFU/ECTS), Master’s degree in Bioinformatics, {university-tor-vergata} (Rome, Italy)
