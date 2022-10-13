@@ -88,6 +88,7 @@
 :uri-guarracino2022-acro-preprint: https://doi.org/10.1101/2022.08.15.504037
 :uri-liao2022-preprint: https://doi.org/10.1101/2022.07.09.499321
 :uri-jarvis2022-preprint: https://doi.org/10.1101/2022.03.06.483034
+:uri-jarvis2022: https://doi.org/10.1038/s41586-022-05325-5
 :uri-garrison2022-preprint: https://doi.org/10.1101/2022.02.14.480413
 :uri-marcosola2022-preprint: https://doi.org/10.1101/2022.04.14.488380
 
@@ -338,12 +339,12 @@ See them on https://scholar.google.com/citations?user=zABbjIoAAAAJ[Google Schola
 ^| icon:pencil[] Contribution
 ^| icon:link[] Links
 
-| Nature, _Submitted_
+| Nature, _In revision_
 | **Recombination between heterologous human acrocentric chromosomes*
 | Pangenomic analyses, Figures from 1 to 5, paper writing
 | icon:spinner[] {uri-guarracino2022-acro-preprint}[Preprint]
 
-| Bioinformatics, _Submitted_
+| Bioinformatics, _In revision_
 | Optimal gap-affine alignment in O(s) space
 | Testing, evaluation, Figure 2
 | icon:spinner[] {uri-marcosola2022-preprint}[Preprint]
@@ -353,15 +354,15 @@ See them on https://scholar.google.com/citations?user=zABbjIoAAAAJ[Google Schola
 | Paper editing, pangenome graph creation and visualization, population genetic analysis
 | icon:spinner[] {uri-liao2022-preprint}[Preprint]
 
-| Nature, _Accepted_
-| Automated assembly of high-quality diploid human reference genomes
-| Pangenome alignments, Jaccard, PCA and MHC analyses, Figure 2
-| icon:spinner[] {uri-jarvis2022-preprint}[Preprint]
-
-| Bioinformatics, _In revision_
+| Bioinformatics, _Accepted_
 | Unbiased pangenome graphs
 | Parallelization of a bottleneck, bug fixings, experiments in multiple species
 | icon:spinner[] {uri-garrison2022-preprint}[Preprint]
+
+| Nature, 2022
+| Semi-automated assembly of high-quality diploid human reference genomes
+| Pangenome alignments, Jaccard, PCA and MHC analyses, Figure 2
+| icon:book[] {uri-jarvis2022}[Paper]
 
 | Nature Immunology, 2022
 | Type I IFNs promote cancer cell stemness by triggering the epigenetic regulator KDM1B

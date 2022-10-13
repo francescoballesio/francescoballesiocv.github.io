@@ -1,16 +1,16 @@
 Andrea Guarracino CV
 ==============
 
+[//]: # (To generate the index.html file: asciidoctor -a docinfo=shared index.adoc)
+[//]: # (Docinfo is a feature of AsciiDoc that allows you to insert custom content into the head, header, or footer of the output document.)
+[//]: # (For the icons: https://fontawesome.com/v4/icons/)
+[//]: # (NOT USED. To generate the index.html file: pandoc -f markdown --standalone --metadata title="Andrea Guarracino CV" --variable=title="" --css=style.css --output=index.html README.md)
+
 [Twitter](https://twitter.com/AndresGuarahino) [Matrix](https://matrix.to/#/@andreaguarracino:matrix.org) [Code](https://github.com/AndreaGuarracino) [Papers](https://scholar.google.com/citations?user=zABbjIoAAAAJ)
 
 A computer engineer in love with the unknown side of biology.
 
 **Full CV**: https://andreaguarracino.github.io
-
-[//]: # (To generate the index.html file: asciidoctor -a docinfo=shared index.adoc)
-[//]: # (Docinfo is a feature of AsciiDoc that allows you to insert custom content into the head, header, or footer of the output document.)
-[//]: # (For the icons: https://fontawesome.com/v4/icons/)
-[//]: # (NOT USED. To generate the index.html file: pandoc -f markdown --standalone --metadata title="Andrea Guarracino CV" --variable=title="" --css=style.css --output=index.html README.md)
 
 ### Teaching
 | Start date |  End date  |                                                        Course                                                        |                                                                                                     Links                                                                                                     |
@@ -25,6 +25,7 @@ A computer engineer in love with the unknown side of biology.
 ### Publications (***first authorship**)
 | Date       | Journal                         | Title                                                                                                                     |                                                                                                                 Links                                                                                                                  |
 |:-----------|:--------------------------------|:--------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| 2022/10/19 | Nature                          | Semi-automated assembly of high-quality diploid human reference genomes                                                   |                                                                                       [Publication](https://doi.org/10.1038/s41586-022-05325-5)                                                                                        |
 | 2022/08/24 | Nature Immunology               | Type I IFNs promote cancer cell stemness by triggering the epigenetic regulator KDM1B                                     |                                                                                       [Publication](https://doi.org/10.1038/s41590-022-01290-3)                                                                                        |
 | 2022/05/13 | Bioinformatics                  | ***ODGI: understanding pangenome graphs**                                                                                 |                                                                                     [Publication](https://doi.org/10.1093/bioinformatics/btac308)                                                                                      |
 | 2022/02/15 | Non-coding RNA Research         | Evaluation of potential miRNA sponge effects of SARS genomes in human                                                     |                                                                                       [Publication](https://doi.org/10.1016/j.ncrna.2022.01.003)                                                                                       |
