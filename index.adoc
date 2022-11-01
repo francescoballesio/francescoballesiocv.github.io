@@ -165,7 +165,7 @@ icon:group[] Reporting to Dr. Ilio Vitale.
 
 == icon:suitcase[] Employment
 
-icon:calendar[] `1 Nov. 2021 to 31 Oct. 2022` +
+icon:calendar[] `1 Nov. 2021 to 31 Oct. 2022` (1 year) +
 icon:university[] *Postdoctoral Associate at the {human-technopole}* (Milan, Italy). +
 icon:group[] Reporting to Prof. Nicole Soranzo and Prof. Erik Garrison.
 
