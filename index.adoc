@@ -137,24 +137,23 @@ icon:linkedin[] {uri-linkedin}[Linkedin]
 
 // Jan., Feb., Mar., Apr., May, June, July, Aug., Sept., Oct., Nov., Dec.
 
-== icon:black-tie[] Current position
+== icon:black-tie[] Current positions
 
-icon:calendar[] `1 Nov. 2021 to Present` +
-icon:university[] *Postdoctoral Associate at the {human-technopole}* (Milan, Italy). +
+icon:calendar[] `1 Nov. 2022 to Present` +
+icon:university[] *Postdoctoral Associate at the {uthsc}* (Memphis, USA). +
+icon:group[] Reporting to Prof. Erik Garrison.
+
+* New generation of sequence aligners for aligning whole eukaryotic chromosomes
+
+icon:calendar[] `1 Nov. 2022 to Present` +
+icon:university[] *E-Visitor at the {human-technopole}* (Milan, Italy). +
 icon:group[] Reporting to Prof. Nicole Soranzo and Prof. Erik Garrison.
 
 * Development of tools for pangenome graph building, manipulation, and analyses
+* Studying chromosome communities (acrocentric and sex chromosomes) in the human pangenome
+
 
 == icon:search[] Research projects
-
-icon:calendar[] `5 Apr. 2020 to Present` +
-icon:university[] *{uthsc}* (Memphis, USA). +
-icon:group[] Reporting to Prof. Erik Garrison and Prof. Pjotr Prins.
-
-* Development of tools for pangenome graph building, manipulation, and analyses
-* Studying chromosome communities (acrocentric and sex chromosomes) in the human pangenome
-* New generation of sequence aligners for aligning whole eukaryotic chromosomes
-* Development of a free and open online public sequence resource for SARS-CoV-2 data storage and analysis
 
 icon:calendar[] `1 Nov. 2019 to Present` +
 icon:university[] *{iigm}* (Candiolo, Italy) and the *{irccs}* (Candiolo, Italy). +
@@ -162,6 +161,40 @@ icon:group[] Reporting to Dr. Ilio Vitale.
 
 * Spindle Assembly Checkpoint functionality in colon-rectal cancer stem cell
 * Exploiting karyotypic aberrations and chromosomal instability in cancer stem cells for precision immunotherapy
+
+
+== icon:suitcase[] Employment
+
+icon:calendar[] `1 Nov. 2021 to 31 Oct. 2022` +
+icon:university[] *Postdoctoral Associate at the {human-technopole}* (Milan, Italy). +
+icon:group[] Reporting to Prof. Nicole Soranzo and Prof. Erik Garrison.
+
+* Development of tools for pangenome graph building, manipulation, and analyses
+* Studying chromosome communities (acrocentric and sex chromosomes) in the human pangenome
+
+icon:calendar[] `4 Mar. 2013 to 31 Oct. 2018` (5 years, 7 months, 28 days) +
+icon:university[] *Computer engineer for multiplatform firmware/software development, {uri-gisa}[GISA]* (Salerno, Italy).
+icon:group[] Reporting to Eng. Gaetano Giordano.
+
+* Firmware development in STMicroelectronics microcontrollers for high efficiency embedded systems
+* Firmware and library development in open-source hardware and software platforms (Arduino/Genuino)
+* Development of multi-management software and desktop applications for embedded systems programming
+* Mobile applications development for programming and the control of multi-service machines via Bluetooth
+* Implementation of proprietary communication protocols and contact/contactless (RFID) interfaces
+* Development and maintenance of websites and e-commerce
+* Remote assistance to customers for the usage and programming of multi-service machines, taking feedback to further improve the solutions offered
+* Patent application on a universal system for services fruition, with validation, reconstruction, and credit self-reloading management, on read-only and read/write supports (ITUA20165252, A1) ({uri-gisa-patent}[Patent])
+* Basic design of simple electrical circuits for controlling actuators and reading analog/digital signals
+
+icon:calendar[] `4 Oct. 2012 to 20 Jan. 2013` (3 months, 17 days) +
+icon:university[] *Salesman, L’Erborista S.A.S. di Sarno Adele & C* (Salerno, Italy).
+
+* Selling products, warehouse management and cleaning
+
+icon:calendar[] `1 Nov. 2010 to 3 Mar. 2013` (2 years, 4 months, 3 days) +
+icon:university[] *Web Developer, Virtual* (Salerno, Italy).
+
+* Development of dynamic websites using Java Server Page, JavaScript, ASP.NET, PHP, MySQL
 
 
 == icon:graduation-cap[] Education
@@ -210,32 +243,6 @@ icon:university[] *Development of new software for pangenome graphs building and
 * Development of a new gap-affine pairwise aligner to align whole eukaryotic chromosomes (icon:github[] {uri-github-wfmash}[wfmash])
 * Software and workflows development for PubSeq, a free and open online public sequence resource with on-the-fly analysis (icon:github[] {uri-github-pubseq}[bh20-seq-resource])
 * Pangenome graph browser development (icon:github[] {uri-github-pantograph}[Pantograph])
-
-
-== icon:suitcase[] Work experience
-
-icon:calendar[] `4 Mar. 2013 to 31 Oct. 2018` (5 years, 7 months, 28 days) +
-icon:university[] *Computer engineer for multiplatform firmware/software development, {uri-gisa}[GISA]* (Salerno, Italy).
-
-* Firmware development in STMicroelectronics microcontrollers for high efficiency embedded systems
-* Firmware and library development in open-source hardware and software platforms (Arduino/Genuino)
-* Development of multi-management software and desktop applications for embedded systems programming
-* Mobile applications development for programming and the control of multi-service machines via Bluetooth
-* Implementation of proprietary communication protocols and contact/contactless (RFID) interfaces
-* Development and maintenance of websites and e-commerce
-* Remote assistance to customers for the usage and programming of multi-service machines, taking feedback to further improve the solutions offered
-* Patent application on a universal system for services fruition, with validation, reconstruction, and credit self-reloading management, on read-only and read/write supports (ITUA20165252, A1) ({uri-gisa-patent}[Patent])
-* Basic design of simple electrical circuits for controlling actuators and reading analog/digital signals
-
-icon:calendar[] `4 Oct. 2012 to 20 Jan. 2013` (3 months, 17 days) +
-icon:university[] *Salesman, L’Erborista S.A.S. di Sarno Adele & C* (Salerno, Italy).
-
-* Selling products, warehouse management and cleaning
-
-icon:calendar[] `1 Nov. 2010 to 3 Mar. 2013` (2 years, 4 months, 3 days) +
-icon:university[] *Web Developer, Virtual* (Salerno, Italy).
-
-* Development of dynamic websites using Java Server Page, JavaScript, ASP.NET, PHP, MySQL
 
 
 == icon:users[] Teaching
@@ -327,6 +334,26 @@ icon:university[] *Web Developer, Virtual* (Salerno, Italy).
 |===
 
 
+== icon:user-secret[] Peer-review
+
+[cols="1,1,1",options="header"]
+|===
+
+^| icon:calendar[] Time
+^| icon:book[] Journal
+^| icon:book[] Review identifiers
+
+| `26 Feb. 2021 to Present` +
+| {uri-human-genomics}[Human Genomics]
+| {uri-orcid}[ORCID]
+
+| `23 Feb. 2021 to Present` +
+| {uri-plos-one}[PLOS ONE]
+| {uri-orcid}[ORCID]
+
+|===
+
+
 == icon:book[] Publications
 
 See them on https://scholar.google.com/citations?user=zABbjIoAAAAJ[Google Scholar].
@@ -414,26 +441,6 @@ icon:github[] {uri-github-rig}[Repository]
 | Control of replication stress and mitosis in colorectal cancer stem cells through the interplay of PARP1, MRE11 and RAD51
 | Bioinformatics support
 | icon:book[] {uri-manic2021}[Paper]
-
-|===
-
-
-== icon:user-secret[] Peer-review
-
-[cols="1,1,1",options="header"]
-|===
-
-^| icon:calendar[] Time
-^| icon:book[] Journal
-^| icon:book[] Review identifiers
-
-| `26 Feb. 2021 to Present` +
-| {uri-human-genomics}[Human Genomics]
-| {uri-orcid}[ORCID]
-
-| `23 Feb. 2021 to Present` +
-| {uri-plos-one}[PLOS ONE]
-| {uri-orcid}[ORCID]
 
 |===
 
