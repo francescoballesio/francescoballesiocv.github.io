@@ -114,7 +114,7 @@
 = *Andrea Guarracino's CV*
 :favicon: favicon.ico
 :table-stripes: even
-Andrea Guarracino Ph.D. <andrea.guarracino@fht.org>
+Andrea Guarracino Ph.D. <aguarra1@uthsc.edu>
 //:figure-caption!: // To turn off figure caption labels and numbers
 ifdef::backend-html5[]
 :toc-title: CV content
