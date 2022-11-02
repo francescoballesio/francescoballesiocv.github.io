@@ -153,7 +153,7 @@ icon:group[] Reporting to Prof. Nicole Soranzo and Prof. Erik Garrison.
 * Studying chromosome communities (acrocentric and sex chromosomes) in the human pangenome
 
 
-== icon:search[] Research projects
+== icon:search[] Collaborations
 
 icon:calendar[] `1 Nov. 2019 to Present` +
 icon:university[] *{iigm}* (Candiolo, Italy) and the *{irccs}* (Candiolo, Italy). +
@@ -173,7 +173,7 @@ icon:group[] Reporting to Prof. Nicole Soranzo and Prof. Erik Garrison.
 * Studying chromosome communities (acrocentric and sex chromosomes) in the human pangenome
 
 icon:calendar[] `4 Mar. 2013 to 31 Oct. 2018` (5 years, 7 months, 28 days) +
-icon:university[] *Computer engineer for multiplatform firmware/software development, {uri-gisa}[GISA]* (Salerno, Italy).
+icon:university[] *Computer engineer for multiplatform firmware/software development, {uri-gisa}[GISA]* (Salerno, Italy). +
 icon:group[] Reporting to Eng. Gaetano Giordano.
 
 * Firmware development in STMicroelectronics microcontrollers for high efficiency embedded systems
