@@ -137,7 +137,7 @@ icon:linkedin[] {uri-linkedin}[Linkedin]
 
 // Jan., Feb., Mar., Apr., May, June, July, Aug., Sept., Oct., Nov., Dec.
 
-== icon:black-tie[] Current positions
+== icon:black-tie[] Current position
 
 icon:calendar[] `1 Nov. 2022 to Present` +
 icon:university[] *Postdoctoral Associate at the {uthsc}* (Memphis, USA). +
@@ -145,15 +145,15 @@ icon:group[] Reporting to Prof. Erik Garrison.
 
 * New generation of sequence aligners for aligning whole eukaryotic chromosomes
 
+
+== icon:search[] Collaborations
+
 icon:calendar[] `1 Nov. 2022 to Present` +
 icon:university[] *E-Visitor at the {human-technopole}* (Milan, Italy). +
 icon:group[] Reporting to Prof. Nicole Soranzo and Prof. Erik Garrison.
 
 * Development of tools for pangenome graph building, manipulation, and analyses
 * Studying chromosome communities (acrocentric and sex chromosomes) in the human pangenome
-
-
-== icon:search[] Collaborations
 
 icon:calendar[] `1 Nov. 2019 to Present` +
 icon:university[] *{iigm}* (Candiolo, Italy) and the *{irccs}* (Candiolo, Italy). +
