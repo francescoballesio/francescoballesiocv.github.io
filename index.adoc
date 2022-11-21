@@ -133,7 +133,8 @@ icon:comment[] https://matrix.to/#/@andreaguarracino:matrix.org[Matrix] |
 icon:github[] {uri-github}[Code] |
 icon:google[] {uri-google-scholar}[Papers] |
 icon:skype[] https://join.skype.com/invite/f1KWmWUcDD9f[Skype] |
-icon:linkedin[] {uri-linkedin}[Linkedin]
+icon:linkedin[] {uri-linkedin}[Linkedin] |
+icon:address-card[] {uri-orcid}[ORCID]
 
 // Jan., Feb., Mar., Apr., May, June, July, Aug., Sept., Oct., Nov., Dec.
 

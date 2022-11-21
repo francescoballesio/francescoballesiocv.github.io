@@ -6,11 +6,11 @@ Andrea Guarracino CV
 [//]: # (For the icons: https://fontawesome.com/v4/icons/)
 [//]: # (NOT USED. To generate the index.html file: pandoc -f markdown --standalone --metadata title="Andrea Guarracino CV" --variable=title="" --css=style.css --output=index.html README.md)
 
-[Twitter](https://twitter.com/AndresGuarahino) [Matrix](https://matrix.to/#/@andreaguarracino:matrix.org) [Code](https://github.com/AndreaGuarracino) [Papers](https://scholar.google.com/citations?user=zABbjIoAAAAJ)
+### Full CV at https://andreaguarracino.github.io
 
 A computer engineer in love with the unknown side of biology.
 
-**Full CV**: https://andreaguarracino.github.io
+[Twitter](https://twitter.com/AndresGuarahino) | [Matrix](https://matrix.to/#/@andreaguarracino:matrix.org) | [Code](https://github.com/AndreaGuarracino) | [Papers](https://scholar.google.com/citations?user=zABbjIoAAAAJ) | [Skype](https://join.skype.com/invite/f1KWmWUcDD9f) | [LinkedIn](https://www.linkedin.com/in/andreaguarracino) | [ORCID](https://orcid.org/0000-0001-9744-131X)
 
 ### Teaching
 | Start date |  End date  |                                                        Course                                                        |                                                                                                     Links                                                                                                     |
@@ -22,7 +22,7 @@ A computer engineer in love with the unknown side of biology.
 | 2019/06/07 | 2021/07/21 |    Exam assistant for Molecular Biology (8 C.F.U.) - B.Sc. in Biological Science, University of Rome Tor Vergata     |                                                                  [Statistics (page 1)](other/EsamiSvoltiLaureeDocentePerAnnoAccademico.pdf)                                                                   |
 | 2019/06/07 | 2021/07/21 |               Bioinformatics (6 C.F.U.) - B.Sc. in Biological Science, University of Rome Tor Vergata                |                                                                  [Statistics (page 1)](other/EsamiSvoltiLaureeDocentePerAnnoAccademico.pdf)                                                                   |
 
-### Publications (***first authorship**)
+### Publications (without preprints) (***first authorship**)
 | Date       | Journal                         | Title                                                                                                                     |                                                                                                                 Links                                                                                                                  |
 |:-----------|:--------------------------------|:--------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | 2022/10/19 | Nature                          | Semi-automated assembly of high-quality diploid human reference genomes                                                   |                                                                                       [Publication](https://doi.org/10.1038/s41586-022-05325-5)                                                                                        |
