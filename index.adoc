@@ -123,6 +123,7 @@ ifdef::backend-html5[]
 endif::[]
 :icons: font
 
+image::images/Andrea_Guarracino_2022.jpg[AndreaGuarracinoPhoto,200]
 
 == icon:user[] Personal details
 
