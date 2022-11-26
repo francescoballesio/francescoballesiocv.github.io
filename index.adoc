@@ -15,6 +15,7 @@
 :uri-plos-one: https://journals.plos.org/plosone/
 :uri-gulbenkian-de-Ciencia: https://gulbenkian.pt/ciencia/
 :uri-orcid: https://orcid.org/0000-0001-9744-131X
+:uri-research-gate: https://www.researchgate.net/profile/Andrea-Guarracino
 
 // Talks / Posters
 :uri-github-iggsy2022-presentation: https://andreaguarracino.github.io/presentations/IGGSy2022_ChromosomeCommunitiesHumanPangenome_Presentation_AndreaGuarracino.pdf
@@ -135,7 +136,8 @@ icon:github[] {uri-github}[Code] |
 icon:google[] {uri-google-scholar}[Papers] |
 icon:skype[] https://join.skype.com/invite/f1KWmWUcDD9f[Skype] |
 icon:linkedin[] {uri-linkedin}[Linkedin] |
-icon:address-card[] {uri-orcid}[ORCID]
+icon:address-card[] {uri-orcid}[ORCID] |
+icon:registered[] {uri-research-gate}[ResearchGate]
 
 // Jan., Feb., Mar., Apr., May, June, July, Aug., Sept., Oct., Nov., Dec.
 
