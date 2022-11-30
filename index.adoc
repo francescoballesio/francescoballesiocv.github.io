@@ -389,7 +389,7 @@ See them on https://scholar.google.com/citations?user=zABbjIoAAAAJ[Google Schola
 | Bioinformatics, 2022
 | Unbiased pangenome graphs
 | Parallelization of a bottleneck, bug fixings, experiments in multiple species
-| icon:spinner[] {uri-garrison2022}[Paper]
+| icon:book[] {uri-garrison2022}[Paper]
 
 | Nature, 2022
 | Semi-automated assembly of high-quality diploid human reference genomes
