@@ -22,31 +22,10 @@ A computer engineer in love with the unknown side of biology.
 | 2019/06/07 | 2021/07/21 |    Exam assistant for Molecular Biology (8 C.F.U.) - B.Sc. in Biological Science, University of Rome Tor Vergata     |                                                                  [Statistics (page 1)](other/EsamiSvoltiLaureeDocentePerAnnoAccademico.pdf)                                                                   |
 | 2019/06/07 | 2021/07/21 |               Bioinformatics (6 C.F.U.) - B.Sc. in Biological Science, University of Rome Tor Vergata                |                                                                  [Statistics (page 1)](other/EsamiSvoltiLaureeDocentePerAnnoAccademico.pdf)                                                                   |
 
-| Nature, _Submitted_
-| The complete sequence of a human Y chromosome
-| Variants and Liftover
-| icon:spinner[] {uri-rhie2022-preprint}[Preprint]
-
-| Nature, _In revision_
-| **Recombination between heterologous human acrocentric chromosomes*
-| Pangenomic analyses, Figures from 1 to 5, paper writing
-| icon:spinner[] {uri-guarracino2022-acro-preprint}[Preprint]
-
-| Bioinformatics, _In revision_
-| Optimal gap-affine alignment in O(s) space
-| Testing, evaluation, Figure 2
-| icon:spinner[] {uri-marcosola2022-preprint}[Preprint]
-
-| Nature, _In revision_
-| A draft human pangenome reference
-| Paper editing, pangenome graph creation and visualization, population genetic analysis
-| icon:spinner[] {uri-liao2022-preprint}[Preprint]
-
-
 ### Publications (***first authorship**)
 | Date          | Journal                         | Title                                                                                                                     |                                                                                                                 Links                                                                                                                  |
 |:--------------|:--------------------------------|:--------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| _Submitted_   | Nature                          | The complete sequence of a human Y chromosome                                                                             |                                                                                         [Preprint](https://doi.org/10.1101/2022.04.14.488380)                                                                                          |
+| _Submitted_   | Nature                          | The complete sequence of a human Y chromosome                                                                             |                                                                                         [Preprint](https://doi.org/10.1101/2022.12.01.518724)                                                                                          |
 | _In revision_ | Nature                          | ***Recombination between heterologous human acrocentric chromosomes**                                                     |                                                                                         [Preprint](https://doi.org/10.1101/2022.02.14.480413)                                                                                          |
 | _In revision_ | Bioinformatics                  | Optimal gap-affine alignment in O(s) space                                                                                |                                                                                         [Preprint](https://doi.org/10.1101/2022.04.14.488380)                                                                                          |
 | _In revision_ | Nature                          | A draft human pangenome reference                                                                                         |                                                                                         [Preprint](https://doi.org/10.1101/2022.07.09.499321)                                                                                          |

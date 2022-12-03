@@ -93,7 +93,7 @@
 :uri-garrison2022-preprint: https://doi.org/10.1101/2022.02.14.480413
 :uri-garrison2022: https://doi.org/10.1093/bioinformatics/btac743
 :uri-marcosola2022-preprint: https://doi.org/10.1101/2022.04.14.488380
-:uri-rhie2022-preprint: https://doi.org/10.1101/2022.04.14.488380
+:uri-rhie2022-preprint: https://doi.org/10.1101/2022.12.01.518724
 
 // Repositories
 :uri-github-brio: https://github.com/helmercitterich-lab/BRIO
