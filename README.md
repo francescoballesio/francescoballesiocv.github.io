@@ -10,7 +10,7 @@ Andrea Guarracino CV
 
 A computer engineer in love with the unknown side of biology.
 
-[Twitter](https://twitter.com/AndresGuarahino) | [Matrix](https://matrix.to/#/@andreaguarracino:matrix.org) | [Code](https://github.com/AndreaGuarracino) | [Papers](https://scholar.google.com/citations?user=zABbjIoAAAAJ) | [Skype](https://join.skype.com/invite/f1KWmWUcDD9f) | [LinkedIn](https://www.linkedin.com/in/andreaguarracino) | [ORCID](https://orcid.org/0000-0001-9744-131X)
+[Twitter](https://twitter.com/AndresGuarahino) | [Matrix](https://matrix.to/#/@andreaguarracino:matrix.org) | [Code](https://github.com/AndreaGuarracino) | [Papers](https://scholar.google.com/citations?user=zABbjIoAAAAJ) | [Skype](https://join.skype.com/invite/f1KWmWUcDD9f) | [LinkedIn](https://www.linkedin.com/in/andreaguarracino) | [ORCID](https://orcid.org/0000-0001-9744-131X) | [ResearchGate](https://www.researchgate.net/profile/Andrea-Guarracino)
 
 ### Teaching
 | Start date |  End date  |                                                        Course                                                        |                                                                                                     Links                                                                                                     |
