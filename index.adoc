@@ -146,7 +146,7 @@ icon:registered[] {uri-research-gate}[ResearchGate]
 == icon:black-tie[] Current position
 
 icon:calendar[] `1 Nov. 2022 to Present` +
-icon:university[] *Postdoctoral Associate at the {uthsc}* (Memphis, USA). +
+icon:university[] *Postdoctoral Scholar at the {uthsc}* (Memphis, USA). +
 icon:group[] Reporting to Prof. Erik Garrison.
 
 * New generation of sequence aligners for aligning whole eukaryotic chromosomes
