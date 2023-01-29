@@ -18,6 +18,8 @@
 :uri-research-gate: https://www.researchgate.net/profile/Andrea-Guarracino
 
 // Talks / Posters
+:uri-ctc-rg-2022: https://www.complextrait.org/
+:uri-github-ctc-rg-2022-abstract: https://andreaguarracino.github.io/abstracts/CTC_RG_2022_InitialEffortGenRatPangenome_Abstract_AndreaGuarracino.pdf
 :uri-github-iggsy2022-presentation: https://andreaguarracino.github.io/presentations/IGGSy2022_ChromosomeCommunitiesHumanPangenome_Presentation_AndreaGuarracino.pdf
 :uri-iggsy2022: https://iggsy.org/
 :uri-3dbioinfo2021: https://elixir-europe.org/events/3d-bioinfo-2021-annual-meeting
@@ -465,6 +467,11 @@ icon:github[] {uri-github-rig}[Repository]
 ^| icon:globe[] Conference
 ^| icon:book[] Title
 ^| icon:link[] Links
+
+| `29 Sept. 2022 to 30 Sept. 2022` +
+| {uri-ctc-rg-2022}[Complex Trait Community and the Rat Genomics 2022]
+| Initial effort in generating a rat pangenome
+| icon:file-pdf-o[] {uri-github-ctc-rg-2022-abstract}[Abstract]
 
 | `4 July 2022 to 7 July 2022` +
 | {uri-iggsy2022}[International Genome Graph Symposium 2022]
