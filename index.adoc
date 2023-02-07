@@ -95,6 +95,7 @@
 :uri-garrison2022-preprint: https://doi.org/10.1101/2022.02.14.480413
 :uri-garrison2022: https://doi.org/10.1093/bioinformatics/btac743
 :uri-marcosola2022-preprint: https://doi.org/10.1101/2022.04.14.488380
+:uri-marcosola2023: https://doi.org/10.1093/bioinformatics/btad074
 :uri-rhie2022-preprint: https://doi.org/10.1101/2022.12.01.518724
 
 // Repositories
@@ -384,15 +385,15 @@ See them on https://scholar.google.com/citations?user=zABbjIoAAAAJ[Google Schola
 | Pangenomic analyses, Figures from 1 to 5, paper writing
 | icon:spinner[] {uri-guarracino2022-acro-preprint}[Preprint]
 
-| Bioinformatics, _In revision_
-| Optimal gap-affine alignment in O(s) space
-| Testing, evaluation, Figure 2
-| icon:spinner[] {uri-marcosola2022-preprint}[Preprint]
-
 | Nature, _Accepted_
 | A draft human pangenome reference
 | Paper editing, pangenome graph creation and visualization, population genetic analysis
 | icon:spinner[] {uri-liao2022-preprint}[Preprint]
+
+| Bioinformatics, 2023
+| Optimal gap-affine alignment in O(s) space
+| Testing, evaluation, Figure 2
+| icon:book[] {uri-marcosola2023}[Preprint]
 
 | Bioinformatics, 2022
 | Unbiased pangenome graphs
