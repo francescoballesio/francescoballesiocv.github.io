@@ -393,7 +393,7 @@ See them on https://scholar.google.com/citations?user=zABbjIoAAAAJ[Google Schola
 | Bioinformatics, 2023
 | Optimal gap-affine alignment in O(s) space
 | Testing, evaluation, Figure 2
-| icon:book[] {uri-marcosola2023}[Preprint]
+| icon:book[] {uri-marcosola2023}[Paper]
 
 | Bioinformatics, 2022
 | Unbiased pangenome graphs
