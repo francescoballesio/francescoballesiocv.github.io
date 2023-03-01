@@ -273,7 +273,7 @@ icon:university[] *Development of new software for pangenome graphs building and
 | icon:github[] {uri-github-datastructuresforbioinformatics}[Material]
 
 | `28 Feb. 2023 to 28 Feb. 2023` +
-| Advanced Bioinformatics: Data Mining and Data Integration for Life Science, Master’s degree, {utrecht-bioinformatics-center} (Utrecht, Netherlands)
+| Advanced Bioinformatics: Data Mining and Data Integration for Life Science (1.5 CFU/ECTS), Master’s degree, {utrecht-bioinformatics-center} (Utrecht, Netherlands)
 | *Teacher*, introducing pangenomics and PGGB (PanGenome Graph Builder)
 | icon:github[] {uri-github-advanced-bioinformatics-2023}[Website]
 
