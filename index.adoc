@@ -6,6 +6,7 @@
 :uri-human-technopole: https://humantechnopole.it/en/
 :uri-uthsc: https://www.uthsc.edu/
 :uri-university-tor-vergata: http://web.uniroma2.it/
+:uri-utrecht-bioinformatics-center: https://ubc.uu.nl/
 :uri-university-salerno: https://web.unisa.it/en/home
 :uri-iigm: https://www.iigm.it/
 :uri-irccs: https://www.irccs.com/en
@@ -72,6 +73,7 @@
 :human-technopole: {uri-human-technopole}[Human Technopole]
 :uthsc: {uri-uthsc}[University of Tennessee Health and Science Center]
 :university-tor-vergata: {uri-university-tor-vergata}[University of Rome Tor Vergata]
+:utrecht-bioinformatics-center: {uri-utrecht-bioinformatics-center}[Utrecht Bioinformatics Center]
 :university-salerno: {uri-university-salerno}[University of Salerno]
 :iigm: {uri-iigm}[Italian Institute for Genomic Medicine]
 :irccs: {uri-irccs}[Candiolo Cancer Institute]
@@ -113,6 +115,7 @@
 :uri-github-cpang22-poster: https://github.com/AndreaGuarracino/cv/blob/main/other/CPANG22_Poster.AndreaGuarracino.pdf
 :uri-github-cpang22-certificate: https://github.com/AndreaGuarracino/cv/blob/main/other/CPANG22_Certificate.AndreaGuarracino.pdf
 :uri-github-datastructuresforbioinformatics: https://github.com/AndreaGuarracino/DataStructuresForBioinformatics
+:uri-github-advanced-bioinformatics-2023: https://github.com/UMCUGenetics/AdvancedBioinformaticsCourse
 :uri-github-esami-svolti: https://andreaguarracino.github.io/other/EsamiSvoltiLaureeDocentePerAnnoAccademico.pdf
 :uri-github-covid19-research: https://github.com/vaguiarpulido/covid19-research.git
 :uri-github-rig: https://github.com/helmercitterich-lab/RIG
@@ -264,6 +267,16 @@ icon:university[] *Development of new software for pangenome graphs building and
 ^| icon:pencil[] Role
 ^| icon:link[] Links
 
+| `26 Oct. 2020 to Present` +
+| Data Structures for Bioinformatics (2 CFU/ECTS), Master’s degree in Bioinformatics, {university-tor-vergata} (Rome, Italy)
+| *Teacher*, created new material, held all the lessons, assisted the students, did final exams
+| icon:github[] {uri-github-datastructuresforbioinformatics}[Material]
+
+| `28 Feb. 2023 to 28 Feb. 2023` +
+| Advanced Bioinformatics: Data Mining and Data Integration for Life Science, Master’s degree, {utrecht-bioinformatics-center} (Utrecht, Netherlands)
+| *Teacher*, introducing pangenomics and PGGB (PanGenome Graph Builder)
+| icon:github[] {uri-github-advanced-bioinformatics-2023}[Website]
+
 | `23 May 2022 to 27 May 2022` +
 | CPANG22 Computational PANGenomics, {uri-gulbenkian-de-Ciencia}[Instituto Gulbenkian de Ciência] (Oeiras, Portugal)
 | *Instructor*, created new material and tutorials, held some lessons, assisted the participants
@@ -271,11 +284,6 @@ icon:university[] *Development of new software for pangenome graphs building and
   icon:github[] {uri-github-cpang22-material}[Material] +
   icon:file-pdf-o[] {uri-github-cpang22-poster}[Poster] +
   icon:file-pdf-o[] {uri-github-cpang22-certificate}[Certificate]
-
-| `26 Oct. 2020 to Present` +
-| Data Structures for Bioinformatics (2 CFU/ECTS), Master’s degree in Bioinformatics, {university-tor-vergata} (Rome, Italy)
-| *Teacher*, created new material, held all the lessons, assisted the students, did final exams
-| icon:github[] {uri-github-datastructuresforbioinformatics}[Material]
 
 | `7 Oct. 2019 to 7 Dec. 2020` +
 | Bioinformatics (6 CFU/ECTS), Bachelor’s degree in Biological Science, {university-tor-vergata} (Rome, Italy)
@@ -380,7 +388,7 @@ See them on https://scholar.google.com/citations?user=zABbjIoAAAAJ[Google Schola
 | Variants and Liftover
 | icon:spinner[] {uri-rhie2022-preprint}[Preprint]
 
-| Nature, _Accepted_
+| Nature, _In principle accepted_
 | **Recombination between heterologous human acrocentric chromosomes*
 | Pangenomic analyses, Figures from 1 to 5, paper writing
 | icon:spinner[] {uri-guarracino2022-acro-preprint}[Preprint]
