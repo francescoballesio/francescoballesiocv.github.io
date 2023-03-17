@@ -388,7 +388,7 @@ See them on https://scholar.google.com/citations?user=zABbjIoAAAAJ[Google Schola
 | Variants and Liftover
 | icon:spinner[] {uri-rhie2022-preprint}[Preprint]
 
-| Nature, _In principle accepted_
+| Nature, _Accepted_
 | **Recombination between heterologous human acrocentric chromosomes*
 | Pangenomic analyses, Figures from 1 to 5, paper writing
 | icon:spinner[] {uri-guarracino2022-acro-preprint}[Preprint]
