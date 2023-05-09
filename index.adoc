@@ -91,6 +91,7 @@
 :uri-novelli2021: https://doi.org/10.1038/s41419-021-03513-1
 :uri-manic2021: https://doi.org/10.1038/s41418-020-00733-4
 :uri-guarracino2022-acro-preprint: https://doi.org/10.1101/2022.08.15.504037
+:uri-guarracino2023: https://doi.org/10.1038/s41586-023-05976-y
 :uri-liao2022-preprint: https://doi.org/10.1101/2022.07.09.499321
 :uri-jarvis2022-preprint: https://doi.org/10.1101/2022.03.06.483034
 :uri-jarvis2022: https://doi.org/10.1038/s41586-022-05325-5
@@ -121,7 +122,7 @@
 :uri-github-covid19-research: https://github.com/vaguiarpulido/covid19-research.git
 :uri-github-rig: https://github.com/helmercitterich-lab/RIG
 
-= *Andrea Guarracino's CV*
+= *Andrea Guarracino*
 :favicon: favicon.ico
 :table-stripes: even
 Andrea Guarracino Ph.D. <aguarra1@uthsc.edu>
@@ -140,13 +141,13 @@ image::images/Andrea_Guarracino_2022.jpg[AndreaGuarracinoPhoto,200]
 A computer engineer in love with the unknown side of biology.
 
 icon:twitter[] {uri-twitter}[Twitter] |
-icon:comment[] https://matrix.to/#/@andreaguarracino:matrix.org[Matrix] |
-icon:github[] {uri-github}[Code] |
-icon:google[] {uri-google-scholar}[Papers] |
-icon:skype[] https://join.skype.com/invite/f1KWmWUcDD9f[Skype] |
 icon:linkedin[] {uri-linkedin}[Linkedin] |
+icon:google[] {uri-google-scholar}[Papers] |
+icon:registered[] {uri-research-gate}[ResearchGate] |
+icon:github[] {uri-github}[Code] |
+icon:skype[] https://join.skype.com/invite/f1KWmWUcDD9f[Skype] |
 icon:address-card[] {uri-orcid}[ORCID] |
-icon:registered[] {uri-research-gate}[ResearchGate]
+icon:comment[] https://matrix.to/#/@andreaguarracino:matrix.org[Chat]
 
 // Jan., Feb., Mar., Apr., May, June, July, Aug., Sept., Oct., Nov., Dec.
 
@@ -394,12 +395,13 @@ See them on https://scholar.google.com/citations?user=zABbjIoAAAAJ[Google Schola
 | Variants and Liftover
 | icon:spinner[] {uri-rhie2022-preprint}[Preprint]
 
-| Nature, _Accepted_
+| Nature, 2023
 | **Recombination between heterologous human acrocentric chromosomes*
 | Pangenomic analyses, Figures from 1 to 5, paper writing
-| icon:spinner[] {uri-guarracino2022-acro-preprint}[Preprint]
+| icon:book[] {uri-guarracino2023}[Paper] +
+icon:spinner[] {uri-guarracino2022-acro-preprint}[Preprint]
 
-| Nature, _Accepted_
+| Nature, 2023
 | A draft human pangenome reference
 | Paper editing, pangenome graph creation and visualization, population genetic analysis
 | icon:spinner[] {uri-liao2022-preprint}[Preprint]
