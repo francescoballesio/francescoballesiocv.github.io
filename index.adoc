@@ -91,9 +91,9 @@
 :uri-novelli2021: https://doi.org/10.1038/s41419-021-03513-1
 :uri-manic2021: https://doi.org/10.1038/s41418-020-00733-4
 :uri-guarracino2022-acro-preprint: https://doi.org/10.1101/2022.08.15.504037
-:uri-guarracino2023: https://www.nature.com/articles/s41586-023-05976-y
+:uri-guarracino2023: https://doi.org/10.1038/s41586-023-05976-y
 :uri-liao2022-preprint: https://doi.org/10.1101/2022.07.09.499321
-:uri-liao2023: https://www.nature.com/articles/s41586-023-05896-x
+:uri-liao2023: https://doi.org/10.1038/s41586-023-05896-x
 :uri-jarvis2022-preprint: https://doi.org/10.1101/2022.03.06.483034
 :uri-jarvis2022: https://doi.org/10.1038/s41586-022-05325-5
 :uri-garrison2022-preprint: https://doi.org/10.1101/2022.02.14.480413
