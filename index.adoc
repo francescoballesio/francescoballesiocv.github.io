@@ -117,6 +117,8 @@
 :uri-github-cpang22-material: https://github.com/GTPB/CPANG22
 :uri-github-cpang22-poster: https://github.com/AndreaGuarracino/cv/blob/main/other/CPANG22_Poster.AndreaGuarracino.pdf
 :uri-github-cpang22-certificate: https://github.com/AndreaGuarracino/cv/blob/main/other/CPANG22_Certificate.AndreaGuarracino.pdf
+:uri-github-mempang23-website: https://pangenome.github.io/MemPanG23/
+:uri-github-mempang23-material: https://github.com/pangenome/MemPanG23/
 :uri-github-datastructuresforbioinformatics: https://github.com/AndreaGuarracino/DataStructuresForBioinformatics
 :uri-github-advanced-bioinformatics-2023: https://github.com/UMCUGenetics/AdvancedBioinformaticsCourse
 :uri-github-esami-svolti: https://andreaguarracino.github.io/other/EsamiSvoltiLaureeDocentePerAnnoAccademico.pdf
@@ -274,6 +276,12 @@ icon:university[] *Development of new software for pangenome graphs building and
 | Data Structures for Bioinformatics (2 CFU/ECTS), Master’s degree in Bioinformatics, {university-tor-vergata} (Rome, Italy)
 | *Teacher*, created new material, held all the lessons, assisted the students, did final exams
 | icon:github[] {uri-github-datastructuresforbioinformatics}[Material]
+
+| `30 May 2023 to 2 June 2023` +
+| MemPanG23 Pangenomics, {uri-uthsc}[University of Tennessee Health and Science Center] (Memphis, USA)
+| *Instructor* and *organizer*, created new material and tutorials, held some lessons, assisted the participants, configured the virtual machines
+| icon:github[] {uri-github-mempang23-website}[Website] +
+icon:github[] {uri-github-mempang23-material}[Material]
 
 | `28 Feb. 2023 to 28 Feb. 2023` +
 | Advanced Bioinformatics: Data Mining and Data Integration for Life Science (1.5 CFU/ECTS), Master’s degree, {utrecht-bioinformatics-center} (Utrecht, Netherlands)
