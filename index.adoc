@@ -102,6 +102,7 @@
 :uri-marcosola2023: https://doi.org/10.1093/bioinformatics/btad074
 :uri-rhie2022-preprint: https://doi.org/10.1101/2022.12.01.518724
 :uri-garrison2023-preprint: https://doi.org/10.1101/2023.04.05.535718
+:uri-cochetel2023-preprint: https://doi.org/10.1101/2023.06.27.545624
 
 // Repositories
 :uri-github-brio: https://github.com/helmercitterich-lab/BRIO
@@ -393,6 +394,11 @@ See them on https://scholar.google.com/citations?user=zABbjIoAAAAJ[Google Schola
 ^| icon:book[] Title (*first authorship)
 ^| icon:pencil[] Contribution
 ^| icon:link[] Links
+
+| bioRxiv, _Submitted_
+| A reference-unbiased super-pangenome of the North American wild grape species (Vitis spp.) reveals genus-wide association with adaptive traits
+| Support for pangenome graph building and read mapping against the graph
+| icon:spinner[] {uri-cochetel2023-preprint}[Preprint]
 
 | bioRxiv, _In preparation_
 | **Building pangenome graphs*
