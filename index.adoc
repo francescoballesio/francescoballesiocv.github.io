@@ -400,15 +400,20 @@ See them on https://scholar.google.com/citations?user=zABbjIoAAAAJ[Google Schola
 | Support for pangenome graph building and read mapping against the graph
 | icon:spinner[] {uri-cochetel2023-preprint}[Preprint]
 
-| bioRxiv, _In preparation_
+| bioRxiv, _Submitted_
 | **Building pangenome graphs*
 | Software development, experiments, paper writing, documentation, testing
 | icon:spinner[] {uri-garrison2023-preprint}[Preprint]
 
-| Nature, _In revision_
+| Nature, _Accepted_
 | The complete sequence of a human Y chromosome
 | Variants and Liftover
 | icon:spinner[] {uri-rhie2022-preprint}[Preprint]
+
+| Frontiers in Genetics, _Accepted_
+| Pangenome Graphs in Infectious Disease: A Comprehensive Genetic Variation Analysis of Neisseria Meningitidis leveraging Oxford Nanopore long reads
+| Pangenomic analyses and support, paper editing
+| icon:spinner[] {xxxx}[Coming soon]
 
 | Nature, 2023
 | **Recombination between heterologous human acrocentric chromosomes*
