@@ -125,6 +125,7 @@
 :uri-github-esami-svolti: https://andreaguarracino.github.io/other/EsamiSvoltiLaureeDocentePerAnnoAccademico.pdf
 :uri-github-covid19-research: https://github.com/vaguiarpulido/covid19-research.git
 :uri-github-rig: https://github.com/helmercitterich-lab/RIG
+:uri-github-tutor-certificate: https://github.com/AndreaGuarracino/cv/blob/main/other/AttestatoTutoratoBioinformatica.DigitalSign.AndreaGuarracino.pdf
 
 = *Andrea Guarracino*
 :favicon: favicon.ico
@@ -297,10 +298,10 @@ icon:github[] {uri-github-mempang23-material}[Material]
   icon:file-pdf-o[] {uri-github-cpang22-poster}[Poster] +
   icon:file-pdf-o[] {uri-github-cpang22-certificate}[Certificate]
 
-| `7 Oct. 2019 to 7 Dec. 2020` +
+| `2018 to 2021` +
 | Bioinformatics (6 CFU/ECTS), Bachelor’s degree in Biological Science, {university-tor-vergata} (Rome, Italy)
 | *Tutor*, reviewed the practical lessons, assisted the students
-| -
+| icon:file-pdf-o[] {uri-github-tutor-certificate}[Certificate]
 
 | `16 Dec. 2019 to 29 Mar. 2021` +
 | Computational Proteogenomics (2 CFU/ECTS), Master’s degree in Bioinformatics, {university-tor-vergata} (Rome, Italy)
