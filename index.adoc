@@ -19,9 +19,13 @@
 :uri-research-gate: https://www.researchgate.net/profile/Andrea-Guarracino
 
 // Talks / Posters
+:uri-sbme23: https://www.smbe2023.org/
+:uri-github-smbe23-poster-acrocentric: https://andreaguarracino.github.io/posters/SMBE23_RecombinationHeterologousAcrocentricChromosomes_Poster_AndreaGuarracino.pdf
+:uri-github-smbe23-poster-rat: https://andreaguarracino.github.io/posters/SMBE23_BuildingPangenomeGraphRecombInbredRatStrainFamily_Poster_AndreaGuarracino.pdf
 :uri-ctc-rg-2022: https://www.complextrait.org/
 :uri-github-ctc-rg-2022-abstract: https://andreaguarracino.github.io/abstracts/CTC_RG_2022_InitialEffortGenRatPangenome_Abstract_AndreaGuarracino.pdf
 :uri-github-iggsy2022-presentation: https://andreaguarracino.github.io/presentations/IGGSy2022_ChromosomeCommunitiesHumanPangenome_Presentation_AndreaGuarracino.pdf
+:uri-github-iggsy2022-grant-certificate: https://andreaguarracino.github.io/other/IGGSy2022_StudentTravelGrant_AndreaGuarracino.jpg
 :uri-iggsy2022: https://iggsy.org/
 :uri-3dbioinfo2021: https://elixir-europe.org/events/3d-bioinfo-2021-annual-meeting
 :uri-3dbioinfo2021-abstract: https://andreaguarracino.github.io/abstracts/3DBioinfo2021_RNASecondaryStructMotifsInvolvedInTheInteractionWithRBPs_Abstract_AndreaGuarracino.pdf
@@ -414,7 +418,7 @@ See them on https://scholar.google.com/citations?user=zABbjIoAAAAJ[Google Schola
 | Frontiers in Genetics, _Accepted_
 | Pangenome Graphs in Infectious Disease: A Comprehensive Genetic Variation Analysis of Neisseria Meningitidis leveraging Oxford Nanopore long reads
 | Pangenomic analyses and support, paper editing
-| icon:spinner[] {xxxx}[Coming soon]
+| icon:spinner[] Coming soon
 
 | Nature, 2023
 | **Recombination between heterologous human acrocentric chromosomes*
@@ -494,6 +498,24 @@ icon:github[] {uri-github-rig}[Repository]
 
 |===
 
+== icon:dollar[] Awards
+
+[cols="1,1,2,1,1",options="header"]
+|===
+
+^| icon:calendar[] Time
+^| icon:globe[] Place
+^| icon:book[] Description
+^| icon:money[] Amount
+^| icon:link[] Links
+
+| `5 July 2022` +
+| {uri-iggsy2022}[International Genome Graph Symposium 2022]
+| Student Travel Grant
+| 600 CHF (632.36 EUR)
+| icon:file-image-o[] {uri-github-iggsy2022-grant-certificate}[Certificate]
+
+|===
 
 == icon:bullhorn[] Talks / Posters
 
@@ -504,6 +526,16 @@ icon:github[] {uri-github-rig}[Repository]
 ^| icon:globe[] Conference
 ^| icon:book[] Title
 ^| icon:link[] Links
+
+| `23 July 2023 to 27 July 2023` +
+| {uri-sbme23}[Society for Molecular Biology & Evolution 2023 (SMBE23)]
+| Recombination between heterologous human acrocentric chromosomes
+| icon:file-pdf-o[] {uri-github-smbe23-poster-acrocentric}[Poster]
+
+| `23 July 2023 to 27 July 2023` +
+| {uri-sbme23}[Society for Molecular Biology & Evolution 2023 (SMBE23)]
+| Building a Pangenome Graph for the HXB/BXH Recombinant Inbred Rat Strain Family: Enhanced Discovery of Complex Variants and Validation with Sanger Sequencing
+| icon:file-pdf-o[] {uri-github-smbe23-poster-rat}[Poster]
 
 | `29 Sept. 2022 to 30 Sept. 2022` +
 | {uri-ctc-rg-2022}[Complex Trait Community and the Rat Genomics 2022]
