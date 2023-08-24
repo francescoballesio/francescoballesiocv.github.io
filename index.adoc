@@ -127,7 +127,7 @@
 :uri-github-cpang22-certificate: https://github.com/AndreaGuarracino/cv/blob/main/certificates/CPANG22_CertificateInstructor.AndreaGuarracino.pdf
 :uri-github-mempang23-website: https://pangenome.github.io/MemPanG23/
 :uri-github-mempang23-material: https://github.com/pangenome/MemPanG23/
-:uri-github-mempang23-certificate: https://github.com/AndreaGuarracino/cv/blob/main/certificates/MemPanG23_CertificateOrganizerAndInstructor_AndreaGuarracino.pdf
+:uri-github-mempang23-certificate: https://github.com/AndreaGuarracino/cv/blob/main/certificates/MemPanG23_CertificateOrganizerInstructorChair_AndreaGuarracino.pdf
 :uri-github-datastructuresforbioinformatics: https://github.com/AndreaGuarracino/DataStructuresForBioinformatics
 :uri-github-advanced-bioinformatics-2023: https://github.com/UMCUGenetics/AdvancedBioinformaticsCourse
 :uri-github-esami-svolti: https://andreaguarracino.github.io/other/EsamiSvoltiLaureeDocentePerAnnoAccademico.pdf
@@ -289,7 +289,7 @@ icon:university[] *Development of new software for pangenome graphs building and
 
 | `30 May 2023 to 2 June 2023` +
 | MemPanG23 Pangenomics, {uri-uthsc}[University of Tennessee Health and Science Center] (Memphis, USA)
-| *Instructor* and *organizer*, created new material and tutorials, held some lessons, assisted the participants, configured the virtual machines
+| *Organizer*, *instructor* and *chair*, created new material and tutorials, held some lessons, assisted the participants, configured the virtual machines
 | icon:github[] {uri-github-mempang23-website}[Website] +
 icon:github[] {uri-github-mempang23-material}[Material] +
 icon:file-pdf-o[] {uri-github-mempang23-certificate}[Certificate]
