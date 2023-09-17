@@ -388,7 +388,7 @@ icon:file-pdf-o[] {uri-github-cpang22-certificate}[Certificate]
 
 |===
 
-== icon:user-secret[] Invitations
+== icon:microphone[] Invitations
 
 [cols="1,1,2,1",options="header"]
 |===
