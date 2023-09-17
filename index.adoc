@@ -74,6 +74,23 @@
 :uri-ismb2020-abstract-c: https://andreaguarracino.github.io/abstracts/ISMB2020_ComprehensiveAnalysisSARSCoV2_Abstract_AndreaGuarracino.pdf
 :uri-ismb2020-poster-c: https://andreaguarracino.github.io/posters/ISMB2020_ComprehensiveAnalysisSARSCoV2_Poster_AndreaGuarracino.pdf
 
+// Courses
+:uri-lorentz-center: https://www.lorentzcenter.nl/
+:uri-lorentz-center-epistasis-poster: https://github.com/AndreaGuarracino/andreaguarracino.github.io/blob/main/other/LorentzEpistatisWorkshop_AndreaGuarracino.pdf
+:uri-enago-academy-academic-writing: https://www.enago.com/academy/how-to-overcome-challenges-in-academic-writing/
+:uri-enago-academy-academic-writing-certificate: https://github.com/AndreaGuarracino/andreaguarracino.github.io/blob/main/certificates/ENAGO_CertificateOvercomingChallengesAcademicWriting_AndreaGuarracino.pdf
+:uri-english-language-certification-certificate: https://github.com/AndreaGuarracino/andreaguarracino.github.io/blob/main/certificates/EnglishCertificateESOL_B2_CEFR_AndreaGuarracino.pdf
+:uri-best-practices-RNA-seq: https://elixir-iib-training.github.io/website/2017/09/27/RNA-seq-Salerno.html
+:uri-best-practices-RNA-seq-certificate: https://github.com/AndreaGuarracino/andreaguarracino.github.io/blob/main/certificates/ELIXIR_IIB_CertificateBestPracticesForRNAseqDataAnalysis_AndreaGuarracino.pdf
+:uri-best-practices-RNA-seq-repository: https://github.com/ELIXIR-IIB-training/RNASeq2017
+
+// Misc
+:uri-deciphering-complexity-neudeg-and-cacer-poster: https://github.com/AndreaGuarracino/andreaguarracino.github.io/blob/main/achievements/PhDWorkshop_DecipheringTheComplexityInNeurodegenAndCancer_Poster_AndreaGuarracino.pdf
+:uri-google-summer-of-code: https://summerofcode.withgoogle.com/
+:uri-google-summer-of-code-blog: https://gsocgraph.blogspot.com/2020/08/final-week-recap-of-my-gsoc-experience.html
+:uri-lemonde-binaire: https://www.lemonde.fr/blog/binaire/
+:uri-lemonde-binaire-article: https://www.lemonde.fr/blog/binaire/2020/05/06/sars-cov-2-et-covid-19-on-va-jouer-sur-les-mots/
+
 // Universities, institutes
 :human-technopole: {uri-human-technopole}[Human Technopole]
 :uthsc: {uri-uthsc}[University of Tennessee Health and Science Center]
@@ -172,7 +189,6 @@ icon:group[] Reporting to Prof. Erik Garrison.
 
 * New generation of sequence aligners for aligning whole eukaryotic chromosomes
 
-
 == icon:search[] Collaborations
 
 icon:calendar[] `1 Nov. 2022 to Present` +
@@ -189,7 +205,6 @@ icon:group[] Reporting to Dr. Ilio Vitale.
 * Spindle Assembly Checkpoint functionality in colon-rectal cancer stem cell
 * Exploiting karyotypic aberrations and chromosomal instability in cancer stem cells for precision immunotherapy
 
-
 == icon:suitcase[] Employment
 
 icon:calendar[] `1 Nov. 2021 to 31 Oct. 2022` (1 year) +
@@ -201,7 +216,8 @@ icon:group[] Reporting to Prof. Nicole Soranzo and Prof. Erik Garrison.
 
 icon:calendar[] `4 Mar. 2013 to 31 Oct. 2018` (5 years, 7 months, 28 days) +
 icon:university[] *Computer engineer for multiplatform firmware/software development, {uri-gisa}[GISA]* (Salerno, Italy). +
-icon:group[] Reporting to Eng. Gaetano Giordano.
+icon:group[] Reporting to Eng.
+Gaetano Giordano.
 
 * Firmware development in STMicroelectronics microcontrollers for high efficiency embedded systems
 * Firmware and library development in open-source hardware and software platforms (Arduino/Genuino)
@@ -223,7 +239,6 @@ icon:university[] *Web Developer, Virtual* (Salerno, Italy).
 
 * Development of dynamic websites using Java Server Page, JavaScript, ASP.NET, PHP, MySQL
 
-
 == icon:graduation-cap[] Education
 
 icon:calendar[] `1 Nov. 2018 to 8 Feb. 2022` +
@@ -241,7 +256,6 @@ icon:calendar[] `1 Oct. 2007 to 29 Oct. 2010` +
 icon:university[] *Bachelor’s degree in Computer Engineering (L-8), {university-salerno}* (Salerno, Italy). +
 icon:book[] Thesis: "Energetic and functional characterization of phosphorylations involved in the co-regulation of protein interaction". +
 icon:battery-full[] Evaluation: 110/110 cum laude; GPA: 4.00, A+.
-
 
 == icon:flask[] Research experience
 
@@ -270,7 +284,6 @@ icon:university[] *Development of new software for pangenome graphs building and
 * Development of a new gap-affine pairwise aligner to align whole eukaryotic chromosomes (icon:github[] {uri-github-wfmash}[wfmash])
 * Software and workflows development for PubSeq, a free and open online public sequence resource with on-the-fly analysis (icon:github[] {uri-github-pubseq}[bh20-seq-resource])
 * Pangenome graph browser development (icon:github[] {uri-github-pantograph}[Pantograph])
-
 
 == icon:users[] Teaching
 
@@ -303,9 +316,9 @@ icon:file-pdf-o[] {uri-github-mempang23-certificate}[Certificate]
 | CPANG22 Computational PANGenomics, {uri-gulbenkian-de-Ciencia}[Instituto Gulbenkian de Ciência] (Oeiras, Portugal)
 | *Instructor*, created new material and tutorials, held some lessons, assisted the participants
 | icon:github[] {uri-github-cpang22-website}[Website] +
-  icon:github[] {uri-github-cpang22-material}[Material] +
-  icon:file-pdf-o[] {uri-github-cpang22-poster}[Poster] +
-  icon:file-pdf-o[] {uri-github-cpang22-certificate}[Certificate]
+icon:github[] {uri-github-cpang22-material}[Material] +
+icon:file-pdf-o[] {uri-github-cpang22-poster}[Poster] +
+icon:file-pdf-o[] {uri-github-cpang22-certificate}[Certificate]
 
 | `2018 to 2021` +
 | Bioinformatics (6 CFU/ECTS), Bachelor’s degree in Biological Science, {university-tor-vergata} (Rome, Italy)
@@ -328,7 +341,6 @@ icon:file-pdf-o[] {uri-github-mempang23-certificate}[Certificate]
 | icon:file-pdf-o[] {uri-github-esami-svolti}[Page 1]
 
 |===
-
 
 == icon:handshake-o[] Mentoring
 
@@ -372,7 +384,6 @@ icon:file-pdf-o[] {uri-github-mempang23-certificate}[Certificate]
 
 |===
 
-
 == icon:user-secret[] Peer-review
 
 [cols="1,1,1",options="header"]
@@ -391,7 +402,6 @@ icon:file-pdf-o[] {uri-github-mempang23-certificate}[Certificate]
 | {uri-orcid}[ORCID]
 
 |===
-
 
 == icon:book[] Publications
 
@@ -536,13 +546,13 @@ icon:github[] {uri-github-rig}[Repository]
 | {uri-sbme23}[Society for Molecular Biology & Evolution 2023 (SMBE23)]
 | Recombination between heterologous human acrocentric chromosomes
 | icon:file-pdf-o[] {uri-github-smbe23-poster-acrocentric}[Poster] +
-  icon:file-pdf-o[] {uri-github-smbe23-certificate}[Certificate]
+icon:file-pdf-o[] {uri-github-smbe23-certificate}[Certificate]
 
 | `23 July 2023 to 27 July 2023` +
 | {uri-sbme23}[Society for Molecular Biology & Evolution 2023 (SMBE23)]
 | Building a Pangenome Graph for the HXB/BXH Recombinant Inbred Rat Strain Family: Enhanced Discovery of Complex Variants and Validation with Sanger Sequencing
 | icon:file-pdf-o[] {uri-github-smbe23-poster-rat}[Poster] +
-  icon:file-pdf-o[] {uri-github-smbe23-certificate}[Certificate]
+icon:file-pdf-o[] {uri-github-smbe23-certificate}[Certificate]
 
 | `29 Sept. 2022 to 30 Sept. 2022` +
 | {uri-ctc-rg-2022}[Complex Trait Community and the Rat Genomics 2022]
@@ -563,25 +573,25 @@ icon:github[] {uri-github-rig}[Repository]
 | {uri-biodiversitygenomics2021}[Biodiversity Genomics 2021]
 | Chromosome communities in the human pangenome
 | icon:file-pdf-o[] {uri-biodiversitygenomics2021-abstract}[Abstract] +
-  icon:file-pdf-o[] {uri-biodiversitygenomics2021-presentation}[Presentation]
+icon:file-pdf-o[] {uri-biodiversitygenomics2021-presentation}[Presentation]
 
 | `21 Sept. 2021 to 24 Sept. 2021` +
 | {uri-agi2021congress}[AGI2021 Congress]
 | A pangenome for the expanded BXD family of mice
 | icon:file-pdf-o[] {uri-agi2021congress-abstract}[Abstract] +
-  icon:file-pdf-o[] {uri-agi2021congress-poster}[Poster]
+icon:file-pdf-o[] {uri-agi2021congress-poster}[Poster]
 
 | `6 Sept. 2021 to 8 Sept. 2021` +
 | {uri-germanconferencebioinformatics2021}[German Conference on Bioinformatics 2021]
 | ODGI: scalable tools for pangenome graphs
 | icon:file-pdf-o[] {uri-germanconferencebioinformatics2021-abstract}[Abstract] +
-  icon:file-pdf-o[] {uri-germanconferencebioinformatics2021-presentation}[Presentation]
+icon:file-pdf-o[] {uri-germanconferencebioinformatics2021-presentation}[Presentation]
 
 | `9 June 2021 to 12 June 2021` +
 | {uri-eacr2021}[EACR 2021]
 | Control of replication stress and mitosis in cancer stem cells
 | icon:file-pdf-o[] {uri-eacr2021-abstract}[Abstract] +
-  icon:file-pdf-o[] {uri-eacr2021-poster}[Poster]
+icon:file-pdf-o[] {uri-eacr2021-poster}[Poster]
 
 | `20 May 2021 to 21 May 2021` +
 | {uri-emblinitaly2021}[EMBL in Italy 2021]
@@ -592,58 +602,124 @@ icon:github[] {uri-github-rig}[Repository]
 | {uri-thebiologyofgenomes2021}[The Biology of Genomes 2021]
 | Identification of RNA sequence and structure motifs for protein interaction
 | icon:file-pdf-o[] {uri-thebiologyofgenomes2021-abstract}[Abstract] +
-  icon:file-pdf-o[] {uri-thebiologyofgenomes2021-poster}[Poster]
+icon:file-pdf-o[] {uri-thebiologyofgenomes2021-poster}[Poster]
 
 | `11 May 2021 to 14 May 2021` +
 | {uri-bbcc2021}[BBCC2021]
 | Population genomics analyses on pangenome graphs
 | icon:file-pdf-o[] {uri-bbcc2021-abstract}[Abstract] +
-  icon:file-pdf-o[] {uri-bbcc2021-presentation}[Presentation] ({uri-bbcc2021-presentation-f1000research}[f1000research link])
+icon:file-pdf-o[] {uri-bbcc2021-presentation}[Presentation] ({uri-bbcc2021-presentation-f1000research}[f1000research link])
 
 | `28 Sept. 2020 to 1 Oct. 2020` +
 | {uri-vcbm2020}[EG VCBM 2020]
 | Graph Layout by Path-Guided Stochastic Gradient
 | icon:file-pdf-o[] {uri-vcbm2020-abstract}[Abstract] +
-  icon:file-pdf-o[] {uri-vcbm2020-poster}[Presentation]
+icon:file-pdf-o[] {uri-vcbm2020-poster}[Presentation]
 
 | `21 Sept. 2020 to 23 Sept. 2020` +
 | {uri-t2thprc2020}[T2T-HPRC-Virtual Conference 2020]
 | Graph Layout by Path-Guided Stochastic Gradient
 | icon:file-pdf-o[] {uri-t2thprc2020-abstract-a}[Abstract] +
-  icon:file-pdf-o[] {uri-t2thprc2020-poster-a}[Presentation]
+icon:file-pdf-o[] {uri-t2thprc2020-poster-a}[Presentation]
 
 | `21 Sept. 2020 to 23 Sept. 2020` +
 | {uri-t2thprc2020}[T2T-HPRC-Virtual Conference 2020]
 | Graph Layout by Path-Guided Stochastic Gradient
 | icon:file-pdf-o[] {uri-t2thprc2020-abstract-b}[Abstract] +
-  icon:file-pdf-o[] {uri-t2thprc2020-poster-b}[Presentation] +
-  icon:link[] {uri-t2thprc2020-blog}[Blog]
+icon:file-pdf-o[] {uri-t2thprc2020-poster-b}[Presentation] +
+icon:link[] {uri-t2thprc2020-blog}[Blog]
 
 | `17 July 2020 to 25 July 2020` +
 | {uri-bcc2020}[BCC 2020]
 | COVID-19 PubSeq: Public SARS-CoV-2 Sequence Resource
 | icon:file-pdf-o[] {uri-bcc2020-abstract}[Abstract] +
-  icon:file-pdf-o[] {uri-bcc2020-poster}[Poster] +
-  icon:file-pdf-o[] {uri-bcc2020-presentation}[Presentation]
+icon:file-pdf-o[] {uri-bcc2020-poster}[Poster] +
+icon:file-pdf-o[] {uri-bcc2020-presentation}[Presentation]
 
 | `13 July 2020 to 16 July 2020` +
 | {uri-ismb2020}[ISMB 2020]
 | Pantograph: Scalable Interactive Graph Genome Visualization
 | icon:file-pdf-o[] {uri-ismb2020-abstract-a}[Abstract] +
-  icon:file-pdf-o[] {uri-ismb2020-poster-a}[Poster]
+icon:file-pdf-o[] {uri-ismb2020-poster-a}[Poster]
 
 | `13 July 2020 to 16 July 2020` +
 | {uri-ismb2020}[ISMB 2020]
 | Semantic Variation Graphs - A Pangenome Ontology
 | icon:file-pdf-o[] {uri-ismb2020-abstract-b}[Abstract] +
-  icon:file-pdf-o[] {uri-ismb2020-poster-b}[Poster] +
-  icon:link[] {uri-ismb2020-best-poster-prize}[Best Poster Prize] +
-  icon:book[] {uri-ismb2020-citation}[Citation]
+icon:file-pdf-o[] {uri-ismb2020-poster-b}[Poster] +
+icon:link[] {uri-ismb2020-best-poster-prize}[Best Poster Prize] +
+icon:book[] {uri-ismb2020-citation}[Citation]
 
 | `13 July 2020 to 16 July 2020` +
 | {uri-ismb2020}[ISMB 2020]
 | Comprehensive analysis of human SARS-CoV-2 infection and host-virus interaction
 | icon:file-pdf-o[] {uri-ismb2020-abstract-c}[Abstract] +
-  icon:file-pdf-o[] {uri-ismb2020-poster-c}[Poster]
+icon:file-pdf-o[] {uri-ismb2020-poster-c}[Poster]
 
 |===
+
+== icon:pencil[] Courses
+
+[cols="1,1,2,1",options="header"]
+|===
+
+^| icon:calendar[] Time
+^| icon:globe[] Place
+^| icon:book[] Title
+^| icon:link[] Links
+
+| `17 July 2023 to 21 July 2023` +
+| {uri-lorentz-center}[Lorentz Center, Leiden, Netherlands]
+| A multidisciplinary approach to epistasis detection
+| icon:file-pdf-o[] {uri-lorentz-center-epistasis-poster}[Poster]
+
+| `08 July 2020` +
+| {uri-enago-academy-academic-writing}[Enago academy, Virtual]
+| Overcoming Challenges in Academic Writing: Tips for Writing Articles and Grant Applications
+| icon:file-pdf-o[] {uri-enago-academy-academic-writing-certificate}[Certificate]
+
+| `21 Apr. 2018` +
+| English language certification
+| English Speaking Board (EBS) Level 1, Pass with distinction
+| icon:file-pdf-o[] {uri-english-language-certification-certificate}[Certificate]
+
+| `27 Sept. 2017 to 29 Sept. 2017` +
+| {university-salerno}
+| {uri-best-practices-RNA-seq}[Best practices for RNA-Seq data analysis - ELIXIR-IIB]
+| icon:file-pdf-o[] {uri-best-practices-RNA-seq-certificate}[Certificate] +
+icon:link[] {uri-best-practices-RNA-seq-repository}[Repository]
+
+|===
+
+== icon:cloud[] Misc
+
+[cols="1,1,2,1",options="header"]
+|===
+
+^| icon:calendar[] Time
+^| icon:globe[] Info
+^| icon:book[] What
+^| icon:link[] Links
+
+| `20 Oct. 2020 to Present` +
+|
+| Associate Member of the **Human Pangenome Reference Consortium**
+|
+
+| `09 July 2021` +
+| {university-tor-vergata}
+| *Chair* at the "Deciphering the complexity in neurodegeneration and cancer" workshop
+| icon:file-pdf-o[] {uri-deciphering-complexity-neudeg-and-cacer-poster}[Poster]
+
+| `07 June 2020 to 30 Aug. 2020` +
+| {uri-google-summer-of-code}[Google Summer of Code (GSOC)]
+| *Helper* for the "Parallel Graph Traversal for Variation Graphs" project
+| icon:link[] {uri-google-summer-of-code-blog}[Blog]
+
+| `20 June 2020` +
+| {uri-lemonde-binaire}[Lemonde/binaire]
+| Quote in the newspaper *Le Monde*: SARS-CoV-2 et Covid-19
+| icon:link[] {uri-lemonde-binaire-article}[Blog]
+
+|===
+
