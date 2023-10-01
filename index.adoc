@@ -414,24 +414,24 @@ icon:file-pdf-o[] {uri-agi-simag-2023-Brochure}[Brochure]
 
 == icon:book[] Publications
 
-See them on https://scholar.google.com/citations?user=zABbjIoAAAAJ[Google Scholar].
+**first authorship*
 
 [cols="1,3,3,1",options="header"]
 |===
 
 ^| icon:newspaper-o[] Journal
-^| icon:book[] Title (*first authorship)
+^| icon:book[] Title
 ^| icon:pencil[] Contribution
 ^| icon:link[] Links
 
-| bioRxiv, _Under review_
+| *bioRxiv, _Under review_*
 | **Building pangenome graphs*
-| Software development, experiments, paper writing, documentation, testing
+| *Software development, experiments, paper writing, documentation, testing*
 | icon:spinner[] {uri-garrison2023-preprint}[Preprint]
 
-| bioRxiv, _In preparation_
+| *bioRxiv, _In preparation_*
 | **Pangenome graph layout by Path-Guided Stochastic Gradient Descent*
-| Algorithm implementation and evaluation, paper writing
+| *Algorithm implementation and evaluation, paper writing*
 | icon:spinner[] {uri-heumos2023-preprint}[Preprint]
 
 | bioRxiv, _In preparation_
@@ -449,9 +449,9 @@ See them on https://scholar.google.com/citations?user=zABbjIoAAAAJ[Google Schola
 | Pangenomic analyses and support, paper editing
 | icon:book[] {uri-yang2022}[Paper]
 
-| Nature, 2023
+| *Nature, 2023*
 | **Recombination between heterologous human acrocentric chromosomes*
-| Pangenomic analyses, Figures from 1 to 5, paper writing
+| *Pangenomic analyses, Figures from 1 to 5, paper writing*
 | icon:book[] {uri-guarracino2023}[Paper]
 
 | Nature, 2023
@@ -481,9 +481,9 @@ See them on https://scholar.google.com/citations?user=zABbjIoAAAAJ[Google Schola
 TF-binding motif enrichment, survival analyses
 | icon:book[] {uri-musella2022}[Paper]
 
-| Bioinformatics, 2022
+| *Bioinformatics, 2022*
 | **ODGI: understanding pangenome graphs*
-| Paper and documentation writing, figures and table, implemented several tools
+| *Paper and documentation writing, figures and table, implemented several tools*
 | icon:book[] {uri-guarracino2022-odgi}[Paper]
 
 | Non-coding RNA Research, 2022
@@ -491,9 +491,9 @@ TF-binding motif enrichment, survival analyses
 | Genome sequences collection, filtering, deduplication, alignment, variant calling
 | icon:book[] {uri-pepe2022}[Paper]
 
-| Nucleic Acids Research, 2021
+| *Nucleic Acids Research, 2021*
 | **BRIO: a web server for RNA sequence and structure motif scan*
-| Paper writing, figures and table, refactored and completed the webserver, datasets refinement
+| *Paper writing, figures and table, refactored and completed the webserver, datasets refinement*
 | icon:book[] {uri-guarracino2021-brio}[Paper] +
 icon:globe[] {uri-guarracino2021-brio-webserver}[Webserver] +
 icon:github[] {uri-github-brio}[Repository]
@@ -514,9 +514,9 @@ icon:github[] {uri-github-covid19-research}[Repository]
 | Figure 4, _in silico_ 3D structures analysis
 | icon:book[] {uri-novelli2021}[Paper]
 
-| NAR Genomics & Bioinformatics, 2021
+| *NAR Genomics & Bioinformatics, 2021*
 | **Relative Information Gain: Shannon entropy-based measure of the relative structural conservation in RNA alignments*
-| Paper writing, contributed to Figure 2, made Figure 3, 4, and 5, and fixed, refactored and completed the framework
+| *Paper writing, contributed to Figure 2, made Figure 3, 4, and 5, and fixed, refactored and completed the framework*
 | icon:book[] {uri-pietrosanto-adinolfi-guarracino2021-rig}[Paper] +
 icon:github[] {uri-github-rig}[Repository]
 
