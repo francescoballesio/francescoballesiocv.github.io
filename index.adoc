@@ -130,6 +130,7 @@
 :uri-rhie2023: https://www.nature.com/articles/s41586-023-06457-y
 :uri-yang2022: https://doi.org/10.3389/fgene.2023.1225248
 :uri-garrison2023-preprint: https://doi.org/10.1101/2023.04.05.535718
+:uri-heumos2023-preprint: https://doi.org/10.1101/2023.09.22.558964
 :uri-cochetel2023-preprint: https://doi.org/10.1101/2023.06.27.545624
 
 // Repositories
@@ -423,15 +424,20 @@ See them on https://scholar.google.com/citations?user=zABbjIoAAAAJ[Google Schola
 ^| icon:pencil[] Contribution
 ^| icon:link[] Links
 
-| bioRxiv, _Submitted_
-| A reference-unbiased super-pangenome of the North American wild grape species (Vitis spp.) reveals genus-wide association with adaptive traits
-| Support for pangenome graph building and read mapping against the graph
-| icon:spinner[] {uri-cochetel2023-preprint}[Preprint]
-
-| bioRxiv, _Submitted_
+| bioRxiv, _Under review_
 | **Building pangenome graphs*
 | Software development, experiments, paper writing, documentation, testing
 | icon:spinner[] {uri-garrison2023-preprint}[Preprint]
+
+| bioRxiv, _In preparation_
+| **Pangenome graph layout by Path-Guided Stochastic Gradient Descent*
+| Algorithm implementation and evaluation, paper writing
+| icon:spinner[] {uri-heumos2023-preprint}[Preprint]
+
+| bioRxiv, _In preparation_
+| A reference-unbiased super-pangenome of the North American wild grape species (Vitis spp.) reveals genus-wide association with adaptive traits
+| Support for pangenome graph building and read mapping against the graph
+| icon:spinner[] {uri-cochetel2023-preprint}[Preprint]
 
 | Nature, 2023
 | The complete sequence of a human Y chromosome
