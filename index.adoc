@@ -402,13 +402,13 @@ icon:file-pdf-o[] {uri-github-cpang22-certificate}[Certificate]
 | `14 Sept. 2023 to 16 Sept. 2023` +
 | {uri-joint-meeting-agi-simag-2023}[Joint Meeting AGI-SIMAG, Cortona, Italy]
 | Invited speaker on "Heterologous recombination in the human pangenome"
-| icon:file-pdf-o[] {uri-seminar-invitation-tor-vergata-2023}[Invitation]
+| icon:file-pdf-o[] {uri-agi-simag-2023-invitation-speaker-letter}[Invitation] +
+icon:file-pdf-o[] {uri-agi-simag-2023-Brochure}[Brochure]
 
 | `13 Sept. 2023` +
 | {university-salerno}
 | Seminar on "Heterologous recombination in the human pangenome"
-| icon:file-pdf-o[] {uri-agi-simag-2023-invitation-speaker-letter}[Invitation] +
-icon:file-pdf-o[] {uri-agi-simag-2023-Brochure}[Brochure]
+| icon:file-pdf-o[] {uri-seminar-invitation-tor-vergata-2023}[Invitation]
 
 |===
 
