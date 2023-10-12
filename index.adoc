@@ -23,7 +23,9 @@
 :uri-github-smbe23-poster-acrocentric: https://andreaguarracino.github.io/posters/SMBE23_RecombinationHeterologousAcrocentricChromosomes_Poster_AndreaGuarracino.pdf
 :uri-github-smbe23-poster-rat: https://andreaguarracino.github.io/posters/SMBE23_BuildingPangenomeGraphRecombInbredRatStrainFamily_Poster_AndreaGuarracino.pdf
 :uri-github-smbe23-certificate: https://andreaguarracino.github.io/certificates/SMBE23_CertificateOfAttendance_AndreaGuarracino.pdf
-:uri-ctc-rg-2022: https://www.complextrait.org/
+:uri-ctc-rg-2022: https://www.complextrait.org
+:uri-ctc-rg-2023: https://complextrait.org/meetings/ctc-rg2023/program.html
+:ri-ctc-rg-2023-certificate: https://still-missing-certificate
 :uri-github-ctc-rg-2022-abstract: https://andreaguarracino.github.io/abstracts/CTC_RG_2022_InitialEffortGenRatPangenome_Abstract_AndreaGuarracino.pdf
 :uri-github-iggsy2022-presentation: https://andreaguarracino.github.io/presentations/IGGSy2022_ChromosomeCommunitiesHumanPangenome_Presentation_AndreaGuarracino.pdf
 :uri-github-iggsy2022-grant-certificate: https://andreaguarracino.github.io/other/IGGSy2022_StudentTravelGrant_AndreaGuarracino.jpg
@@ -304,6 +306,13 @@ icon:university[] *Development of new software for pangenome graphs building and
 | Data Structures for Bioinformatics (2 CFU/ECTS), Master’s degree in Bioinformatics, {university-tor-vergata} (Rome, Italy)
 | *Teacher*, created new material, held all the lessons, assisted the students, did final exams
 | icon:github[] {uri-github-datastructuresforbioinformatics}[Material]
+
+| `8 Oct. 2023 to 12 Oct. 2023` +
+| Complex Trait Community & Rat Genome {uri-ctc-rg-2023}[CTC-RG2023] (Memphis, USA)
+| *Organizer* and *instructor*, created new material for the *Pangenome workshop*
+| icon:book[] {uri-ctc-rg-2023}[Website] +
+icon:file-pdf-o[] {uri-ctc-rg-2023-certificate}[Certificate - STILL MISSING]
+
 
 | `30 May 2023 to 2 June 2023` +
 | MemPanG23 Pangenomics, {uri-uthsc}[University of Tennessee Health and Science Center] (Memphis, USA)
