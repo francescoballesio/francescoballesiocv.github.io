@@ -17,6 +17,7 @@
 :uri-gulbenkian-de-Ciencia: https://gulbenkian.pt/ciencia/
 :uri-orcid: https://orcid.org/0000-0001-9744-131X
 :uri-research-gate: https://www.researchgate.net/profile/Andrea-Guarracino
+:uri-rincess-maxima-centrum: https://www.prinsesmaximacentrum.nl/en
 
 // Talks / Posters
 :uri-sbme23: https://www.smbe2023.org/
@@ -87,6 +88,8 @@
 :uri-best-practices-RNA-seq-repository: https://github.com/ELIXIR-IIB-training/RNASeq2017
 
 // Misc
+:uri-hprc: https://humanpangenome.org/
+:uri-hprc-collection: https://www.nature.com/collections/aebdjihcda
 :uri-deciphering-complexity-neudeg-and-cacer-poster: https://github.com/AndreaGuarracino/andreaguarracino.github.io/blob/main/achievements/PhDWorkshop_DecipheringTheComplexityInNeurodegenAndCancer_Poster_AndreaGuarracino.pdf
 :uri-google-summer-of-code: https://summerofcode.withgoogle.com/
 :uri-google-summer-of-code-blog: https://gsocgraph.blogspot.com/2020/08/final-week-recap-of-my-gsoc-experience.html
@@ -94,7 +97,7 @@
 :uri-lemonde-binaire-article: https://www.lemonde.fr/blog/binaire/2020/05/06/sars-cov-2-et-covid-19-on-va-jouer-sur-les-mots/
 :uri-seminar-invitation-tor-vergata-2023: https://github.com/AndreaGuarracino/andreaguarracino.github.io/blob/main/other/20230913_SeminarInvitationTorVergata_AndreaGuarracino.pdf
 :uri-agi-simag-2023-invitation-speaker-letter: https://github.com/AndreaGuarracino/andreaguarracino.github.io/blob/main/other/20230606_AGI-SIMAG-2023_InvitationSpeakerLetter_AndreaGuarracino.pdf
-:uri-agi-simag-2023-Brochure: https://github.com/AndreaGuarracino/andreaguarracino.github.io/blob/main/other/AGI-SIMAG-2023_Brochure_AndreaGuarracino.pdf
+:uri-agi-simag-2023-brochure: https://github.com/AndreaGuarracino/andreaguarracino.github.io/blob/main/other/AGI-SIMAG-2023_Brochure_AndreaGuarracino.pdf
 :uri-joint-meeting-agi-simag-2023: https://www.associazionegeneticaitaliana.it/2023/05/14/joint-meeting-agi_simag-2023/
 
 // Universities, institutes
@@ -105,6 +108,7 @@
 :university-salerno: {uri-university-salerno}[University of Salerno]
 :iigm: {uri-iigm}[Italian Institute for Genomic Medicine]
 :irccs: {uri-irccs}[Candiolo Cancer Institute]
+:princess-maxima-centrum: {uri-rincess-maxima-centrum}[Princess Máxima Center for Pediatric Oncology]
 
 // Publications
 :uri-pietrosanto-adinolfi-guarracino2021-rig: https://doi.org/10.1093/nargab/lqab007
@@ -203,6 +207,12 @@ icon:group[] Reporting to Prof. Erik Garrison.
 
 == icon:search[] Collaborations
 
+icon:calendar[] `1 Nov. 2023 to Present` +
+icon:university[] *Honorary contract holder at the {princess-maxima-centrum}* (Utrecht, Netherlands). +
+icon:group[] Reporting to Dr. Ruben van Boxtel and Prof. Pjotr Prins.
+
+* Personalized reference pangenomes for improved cancer genomics
+
 icon:calendar[] `1 Nov. 2022 to Present` +
 icon:university[] *E-Visitor at the {human-technopole}* (Milan, Italy). +
 icon:group[] Reporting to Prof. Nicole Soranzo and Prof. Erik Garrison.
@@ -270,7 +280,7 @@ icon:battery-full[] Evaluation: 110/110 cum laude; GPA: 4.00, A+.
 
 == icon:flask[] Research experience
 
-icon:calendar[] `1 Nov. 2018 to Present` +
+icon:calendar[] `1 Nov. 2018 to 8 Nov. 2022` +
 icon:university[] *Bioinformatic analyses of multiomics data, {university-tor-vergata}* (Rome, Italy).
 
 * Germline and somatic variants analyses on Whole-Exome sequencing (WES) data: quality control, sample matching, rRNA contamination, read trimming and mapping, variant calling, and functional prediction
@@ -286,7 +296,7 @@ icon:university[] *Bioinformatic analyses of multiomics data, {university-tor-ve
 * Cox modeling and survival analysis on patient cohorts (from TCGA and cBioPortal platforms)
 * Basic procedures on High Performance Computing (HPC) machines
 
-icon:calendar[] `5 Apr. 2020 to Present` +
+icon:calendar[] `5 Apr. 2020 to 21 Sept. 2022` +
 icon:university[] *Previous software development for pangenomics*.
 
 * Workflow development of a public sequence resource for on-the-fly analyses (icon:github[] {uri-github-pubseq}[bh20-seq-resource])
@@ -310,8 +320,8 @@ icon:university[] *Previous software development for pangenomics*.
 | `8 Oct. 2023 to 12 Oct. 2023` +
 | Complex Trait Community & Rat Genome {uri-ctc-rg-2023}[CTC-RG2023] (Memphis, USA)
 | *Organizer* and *instructor*, created new material for the *Pangenome workshop*
-| icon:book[] {uri-ctc-rg-2023}[Website] +
-icon:file-pdf-o[] {uri-ctc-rg-2023-certificate}[Certificate - STILL MISSING]
+| icon:book[] {uri-ctc-rg-2023}[Website]
+//ToDo +icon:file-pdf-o[] {uri-ctc-rg-2023-certificate}[Certificate]
 
 | `30 May 2023 to 2 June 2023` +
 | MemPanG23 Pangenomics, {uri-uthsc}[University of Tennessee Health and Science Center] (Memphis, USA)
@@ -411,7 +421,7 @@ icon:file-pdf-o[] {uri-github-cpang22-certificate}[Certificate]
 | {uri-joint-meeting-agi-simag-2023}[Joint Meeting AGI-SIMAG, Cortona, Italy]
 | Invited speaker on "Heterologous recombination in the human pangenome"
 | icon:file-pdf-o[] {uri-agi-simag-2023-invitation-speaker-letter}[Invitation] +
-icon:file-pdf-o[] {uri-agi-simag-2023-Brochure}[Brochure]
+icon:file-pdf-o[] {uri-agi-simag-2023-brochure}[Brochure]
 
 | `13 Sept. 2023` +
 | {university-salerno}
@@ -575,7 +585,7 @@ icon:github[] {uri-github-rig}[Repository]
 |===
 ////
 
-== icon:bullhorn[] Talks / Posters
+== icon:bullhorn[] Talks & Posters
 
 [cols="1,1,2,1",options="header"]
 |===
@@ -723,7 +733,7 @@ icon:file-pdf-o[] {uri-ismb2020-poster-c}[Poster]
 
 | `21 Apr. 2018` +
 | English language certification
-| English Speaking Board (EBS) Level 1 (B2 CEFR), Pass with distinction
+| English Speaking Board (ESB) Level 1 (B2 CEFR), Pass with distinction
 | icon:file-pdf-o[] {uri-english-language-certification-certificate}[Certificate]
 
 | `27 Sept. 2017 to 29 Sept. 2017` +
@@ -745,9 +755,9 @@ icon:link[] {uri-best-practices-RNA-seq-repository}[Repository]
 ^| icon:link[] Links
 
 | `20 Oct. 2020 to Present` +
-|
+| {uri-hprc}[Human Pangenome Reference Consortium]
 | Associate Member of the *Human Pangenome Reference Consortium*
-|
+| icon:link[] {uri-hprc-collection}[Collection]
 
 | `09 July 2021` +
 | {university-tor-vergata}
