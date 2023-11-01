@@ -211,7 +211,7 @@ icon:calendar[] `1 Nov. 2023 to Present` +
 icon:university[] *Honorary contract holder at the {princess-maxima-centrum}* (Utrecht, Netherlands). +
 icon:group[] Reporting to Dr. Ruben van Boxtel and Prof. Pjotr Prins.
 
-* Personalized reference pangenomes for improved cancer genomics
+* Personalized pangenome references for improved cancer genomics
 
 icon:calendar[] `1 Nov. 2022 to Present` +
 icon:university[] *E-Visitor at the {human-technopole}* (Milan, Italy). +
