@@ -677,7 +677,7 @@ icon:file-pdf-o[] {uri-t2thprc2020-poster-a}[Presentation]
 
 | `21 Sept. 2020 to 23 Sept. 2020` +
 | {uri-t2thprc2020}[T2T-HPRC-Virtual Conference 2020]
-| Graph Layout by Path-Guided Stochastic Gradient
+| Scalable Variant Detection In Pangenome Models
 | icon:file-pdf-o[] {uri-t2thprc2020-abstract-b}[Abstract] +
 icon:file-pdf-o[] {uri-t2thprc2020-poster-b}[Presentation] +
 icon:link[] {uri-t2thprc2020-blog}[Blog]
