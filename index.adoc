@@ -319,7 +319,7 @@ icon:university[] *Previous software development for pangenomics*.
 
 | `8 Oct. 2023 to 12 Oct. 2023` +
 | Complex Trait Community & Rat Genome {uri-ctc-rg-2023}[CTC-RG2023] (Memphis, USA)
-| *Organizer* and *instructor*, created new material for the *Pangenome workshop*
+| *Organizer* and *instructor*, created new material for the Pangenome workshop
 | icon:book[] {uri-ctc-rg-2023}[Website]
 //ToDo +icon:file-pdf-o[] {uri-ctc-rg-2023-certificate}[Certificate]
 
@@ -738,8 +738,9 @@ icon:file-pdf-o[] {uri-ismb2020-poster-c}[Poster]
 
 | `27 Sept. 2017 to 29 Sept. 2017` +
 | {university-salerno}
-| {uri-best-practices-RNA-seq}[Best practices for RNA-Seq data analysis - ELIXIR-IIB]
-| icon:file-pdf-o[] {uri-best-practices-RNA-seq-certificate}[Certificate] +
+| [Best practices for RNA-Seq data analysis - ELIXIR-IIB]
+| icon:book[] {uri-best-practices-RNA-seq}[Website] +
+icon:file-pdf-o[] {uri-best-practices-RNA-seq-certificate}[Certificate] +
 icon:link[] {uri-best-practices-RNA-seq-repository}[Repository]
 
 |===
