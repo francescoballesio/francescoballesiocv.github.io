@@ -738,7 +738,7 @@ icon:file-pdf-o[] {uri-ismb2020-poster-c}[Poster]
 
 | `27 Sept. 2017 to 29 Sept. 2017` +
 | {university-salerno}
-| [Best practices for RNA-Seq data analysis - ELIXIR-IIB]
+| Best practices for RNA-Seq data analysis - ELIXIR-IIB
 | icon:book[] {uri-best-practices-RNA-seq}[Website] +
 icon:file-pdf-o[] {uri-best-practices-RNA-seq-certificate}[Certificate] +
 icon:link[] {uri-best-practices-RNA-seq-repository}[Repository]
