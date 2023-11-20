@@ -26,6 +26,9 @@
 :uri-github-smbe23-certificate: https://andreaguarracino.github.io/certificates/SMBE23_CertificateOfAttendance_AndreaGuarracino.pdf
 :uri-ctc-rg-2022: https://www.complextrait.org
 :uri-ctc-rg-2023: https://complextrait.org/meetings/ctc-rg2023/program.html
+:uri-h3abionet: https://www.h3abionet.org/
+:uri-h3bionet-2023-material: https://github.com/AndreaGuarracino/ReferenceGraphPangenomeDataAnalysisHackathon2023
+:uri-h3bionet-2023-inv-letter: https://github.com/AndreaGuarracino/andreaguarracino.github.io/blob/main/certificates/H3ABioNet2023_RefGraphInvitationLetter_AndreaGuarracino.pdf
 :ri-ctc-rg-2023-certificate: https://still-missing-certificate
 :uri-github-ctc-rg-2022-abstract: https://andreaguarracino.github.io/abstracts/CTC_RG_2022_InitialEffortGenRatPangenome_Abstract_AndreaGuarracino.pdf
 :uri-github-iggsy2022-presentation: https://andreaguarracino.github.io/presentations/IGGSy2022_ChromosomeCommunitiesHumanPangenome_Presentation_AndreaGuarracino.pdf
@@ -317,6 +320,12 @@ icon:university[] *Previous software development for pangenomics*.
 | Data Structures for Bioinformatics (2 CFU/ECTS), Master’s degree in Bioinformatics, {university-tor-vergata} (Rome, Italy)
 | *Teacher*, created new material, held all the lessons, assisted the students, did final exams
 | icon:github[] {uri-github-datastructuresforbioinformatics}[Material]
+
+| `13 Nov. 2023 to 17 Nov. 2023` +
+| Pangenome & RefGraph Workshop by {uri-h3abionet}[H3ABioNet] (Cape Town, South Africa)
+| *Instructor*, created new material for the workshop
+| icon:book[] {uri-h3bionet-2023-material}[Material] +
+icon:file-pdf-o[] {uri-h3bionet-2023-inv-letter}[Invitation letter]
 
 | `8 Oct. 2023 to 12 Oct. 2023` +
 | Complex Trait Community & Rat Genome {uri-ctc-rg-2023}[CTC-RG2023] (Memphis, USA)
