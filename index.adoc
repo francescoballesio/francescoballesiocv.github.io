@@ -325,7 +325,7 @@ icon:university[] *Previous software development for pangenomics*.
 | Pangenome & RefGraph Workshop by {uri-h3abionet}[H3ABioNet] (Cape Town, South Africa)
 | *Instructor*, created new material and analyzed new human genome assemblies
 | icon:book[] {uri-h3bionet-2023-material}[Material] +
-icon:file-pdf-o[] {uri-h3bionet-2023-inv-letter}[Invitation letter]
+icon:file-pdf-o[] {uri-h3bionet-2023-inv-letter}[Invitation]
 
 | `8 Oct. 2023 to 12 Oct. 2023` +
 | Complex Trait Community & Rat Genome {uri-ctc-rg-2023}[CTC-RG2023] (Memphis, USA)
