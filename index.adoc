@@ -323,7 +323,7 @@ icon:university[] *Previous software development for pangenomics*.
 
 | `13 Nov. 2023 to 17 Nov. 2023` +
 | Pangenome & RefGraph Workshop by {uri-h3abionet}[H3ABioNet] (Cape Town, South Africa)
-| *Instructor*, created new material for the workshop
+| *Instructor*, created new material and analyzed new human genome assemblies
 | icon:book[] {uri-h3bionet-2023-material}[Material] +
 icon:file-pdf-o[] {uri-h3bionet-2023-inv-letter}[Invitation letter]
 
