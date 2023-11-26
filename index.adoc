@@ -1,3 +1,5 @@
+// Jan., Feb., Mar., Apr., May, June, July, Aug., Sept., Oct., Nov., Dec.
+
 // Urls
 :uri-twitter: https://twitter.com/AndresGuarahino
 :uri-github: https://github.com/AndreaGuarracino
@@ -182,9 +184,20 @@ endif::[]
 
 == icon:user[] Personal details
 
-image::images/Andrea_Guarracino_2022.jpg[AndreaGuarracinoPhoto,200]
+image::images/Andrea_Guarracino_2022.jpg[AndreaGuarracinoPhoto, 200]
 
 Computer engineer working on pangenomics.
+
+[.float-group]
+--
+[.left]
+[link=https://doi.org/10.1038/s41586-023-05976-y]
+image::images/AcrocentricPangenomeGraph.png["Guarracino et al., 2023, Nature", 520]
+
+[.left]
+[link=https://doi.org/10.1093/bioinformatics/btac308]
+image::images/ODGIUnderstandingPangenomeGraphs.jpeg["Guarracino et al., 2022, Bioinformatics", 326]
+--
 
 icon:twitter[] {uri-twitter}[Twitter] |
 icon:linkedin[] {uri-linkedin}[Linkedin] |
@@ -194,8 +207,6 @@ icon:github[] {uri-github}[Code] |
 icon:skype[] https://join.skype.com/invite/f1KWmWUcDD9f[Skype] |
 icon:address-card[] {uri-orcid}[ORCID] |
 icon:comment[] https://matrix.to/#/@andreaguarracino:matrix.org[Chat]
-
-// Jan., Feb., Mar., Apr., May, June, July, Aug., Sept., Oct., Nov., Dec.
 
 == icon:black-tie[] Current position
 
