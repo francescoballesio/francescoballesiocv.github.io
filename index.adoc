@@ -473,7 +473,12 @@ icon:file-pdf-o[] {uri-agi-simag-2023-brochure}[Brochure]
 | *Algorithm implementation and evaluation, paper writing*
 | icon:spinner[] {uri-heumos2023-preprint}[Preprint]
 
-| bioRxiv, _In review_
+| None, _Submitted_
+| Global diversity, recurrent evolution, and recent selection on amylase structural haplotypes in humans
+| Pangenome graph analsysis, genome assembly, manuscript writing and editing
+| icon:spinner[] None
+
+| Genome Biology, _Accepted_
 | A reference-unbiased super-pangenome of the North American wild grape species (Vitis spp.) reveals genus-wide association with adaptive traits
 | Support for pangenome graph building and read mapping against the graph
 | icon:spinner[] {uri-cochetel2023-preprint}[Preprint]
