@@ -11,11 +11,11 @@ Andrea Guarracino
 Computer engineer working on pangenomics.
 
 <a href="https://doi.org/10.1038/s41586-023-05976-y">
-    <img src="images/AcrocentricPangenomeGraph.png" alt="Guarracino et al., 2023, Nature" style="width: 520px;"/>
+    <img src="images/AcrocentricPangenomeGraph.png" alt="Guarracino et al., 2023, Nature" style="width: 484px;"/>
 </a>
 
 <a href="https://doi.org/10.1093/bioinformatics/btac308">
-    <img src="images/ODGIUnderstandingPangenomeGraphs.jpeg" alt="Guarracino et al., 2022, Bioinformatics" style="width: 326px;"/>
+    <img src="images/ODGIUnderstandingPangenomeGraphs.jpeg" alt="Guarracino et al., 2022, Bioinformatics" style="width: 303px;"/>
 </a>
 
 
