@@ -8,6 +8,15 @@ Andrea Guarracino
 
 ### CV at https://andreaguarracino.github.io
 
-A computer engineer in love with the unknown side of biology.
+Computer engineer working on pangenomics.
+
+<a href="https://doi.org/10.1038/s41586-023-05976-y">
+    <img src="images/AcrocentricPangenomeGraph.png" alt="Guarracino et al., 2023, Nature" style="width: 520px;"/>
+</a>
+
+<a href="https://doi.org/10.1093/bioinformatics/btac308">
+    <img src="images/ODGIUnderstandingPangenomeGraphs.jpeg" alt="Guarracino et al., 2022, Bioinformatics" style="width: 326px;"/>
+</a>
+
 
 [Twitter](https://twitter.com/AndresGuarahino) | [LinkedIn](https://www.linkedin.com/in/andreaguarracino) | [Google Scholar](https://scholar.google.com/citations?user=zABbjIoAAAAJ) | [ResearchGate](https://www.researchgate.net/profile/Andrea-Guarracino) | [Code](https://github.com/AndreaGuarracino) | [Skype](https://join.skype.com/invite/f1KWmWUcDD9f) | [ORCID](https://orcid.org/0000-0001-9744-131X) | [Chat](https://matrix.to/#/@andreaguarracino:matrix.org)
