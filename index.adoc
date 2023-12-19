@@ -145,6 +145,7 @@
 :uri-garrison2023-preprint: https://doi.org/10.1101/2023.04.05.535718
 :uri-heumos2023-preprint: https://doi.org/10.1101/2023.09.22.558964
 :uri-cochetel2023-preprint: https://doi.org/10.1101/2023.06.27.545624
+:uri-cochetel2023: https://doi.org/10.1186/s13059-023-03133-2
 :uri-volpe2023-preprint: https://doi.org/10.1101/2023.11.01.565049
 
 // Repositories
@@ -485,15 +486,15 @@ icon:file-pdf-o[] {uri-agi-simag-2023-brochure}[Brochure]
 | Pangenome graph analsysis, genome assembly, manuscript writing and editing
 | icon:spinner[] None
 
-| Genome Biology, _Accepted_
-| A reference-unbiased super-pangenome of the North American wild grape species (Vitis spp.) reveals genus-wide association with adaptive traits
-| Support for pangenome graph building and read mapping against the graph
-| icon:spinner[] {uri-cochetel2023-preprint}[Preprint]
-
 | bioRxiv, _Submitted_
 | The complete human diploid reference genome of RPE-1 identifies the phased epigenetic landscapes from multi-omics data
 | Support for the analyses and figures, Figure 2, paper writing
 | icon:spinner[] {uri-volpe2023-preprint}[Preprint]
+
+| Genome Biology, _Accepted_
+| A super-pangenome of the North American wild grape species
+| Support for pangenome graph building and read mapping against the graph
+| icon:book[] {uri-cochetel2023}[Paper]
 
 | Nature, 2023
 | The complete sequence of a human Y chromosome
