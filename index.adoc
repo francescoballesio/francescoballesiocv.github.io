@@ -472,7 +472,7 @@ icon:file-pdf-o[] {uri-agi-simag-2023-brochure}[Brochure]
 ^| icon:pencil[] Contribution
 ^| icon:link[] Links
 
-| *bioRxiv, _Submitted_*
+| bioRxiv, _Submitted_
 | Pangenome reconstruction in rats enhances genotype-phenotype mapping and novel variant discovery
 | Pangenome graph building and analyses, paper writing
 | icon:spinner[] {uri-villani2023-preprint}[Preprint]
