@@ -143,6 +143,7 @@
 :uri-rhie2023: https://www.nature.com/articles/s41586-023-06457-y
 :uri-yang2022: https://doi.org/10.3389/fgene.2023.1225248
 :uri-garrison2023-preprint: https://doi.org/10.1101/2023.04.05.535718
+:uri-villani2023-preprint: https://doi.org/10.1101/2024.01.10.575041
 :uri-heumos2023-preprint: https://doi.org/10.1101/2023.09.22.558964
 :uri-cochetel2023-preprint: https://doi.org/10.1101/2023.06.27.545624
 :uri-cochetel2023: https://doi.org/10.1186/s13059-023-03133-2
@@ -470,6 +471,11 @@ icon:file-pdf-o[] {uri-agi-simag-2023-brochure}[Brochure]
 ^| icon:book[] Title
 ^| icon:pencil[] Contribution
 ^| icon:link[] Links
+
+| *bioRxiv, _Submitted_*
+| Pangenome reconstruction in rats enhances genotype-phenotype mapping and novel variant discovery
+| Pangenome graph building and analyses, paper writing
+| icon:spinner[] {uri-villani2023-preprint}[Preprint]
 
 | *bioRxiv, _In review_*
 | **Building pangenome graphs*
