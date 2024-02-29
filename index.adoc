@@ -481,7 +481,7 @@ icon:file-pdf-o[] {uri-agi-simag-2023-brochure}[Brochure]
 
 | bioRxiv, _In review_
 | Pangenome reconstruction in rats enhances genotype-phenotype mapping and novel variant discovery
-| Pangenome graph building and analyses, paper writing
+| Pangenome graph building and analyses, structural variant calling, paper writing
 | icon:spinner[] {uri-villani2023-preprint}[Preprint]
 
 | *bioRxiv, _In review_*
@@ -496,7 +496,7 @@ icon:file-pdf-o[] {uri-agi-simag-2023-brochure}[Brochure]
 
 | bioRxiv, _Submitted_
 | Global diversity, recurrent evolution, and recent selection on amylase structural haplotypes in humans
-| Pangenome graph analsysis, genome assembly, manuscript writing and editing
+| Pangenome graph analsysis, genome assembly, paper writing and editing
 | icon:spinner[] {uri-bolognini2024-preprint}[Preprint]
 
 | bioRxiv, _Submitted_
