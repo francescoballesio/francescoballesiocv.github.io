@@ -149,6 +149,7 @@
 :uri-cochetel2023: https://doi.org/10.1186/s13059-023-03133-2
 :uri-volpe2023-preprint: https://doi.org/10.1101/2023.11.01.565049
 :uri-bolognini2024-preprint: https://doi.org/10.1101/2024.02.07.579378
+:uri-li2024-preprint: https://doi.org/10.1101/2024.02.17.580840
 
 // Repositories
 :uri-github-brio: https://github.com/helmercitterich-lab/BRIO
@@ -472,6 +473,11 @@ icon:file-pdf-o[] {uri-agi-simag-2023-brochure}[Brochure]
 ^| icon:book[] Title
 ^| icon:pencil[] Contribution
 ^| icon:link[] Links
+
+| bioRxiv, _Submitted_
+| Genetic Modulation of Protein Expression in Rat Brain
+| Pangenome graph building and analyses, paper editing
+| icon:spinner[] {uri-li2024-preprint}[Preprint]
 
 | bioRxiv, _In review_
 | Pangenome reconstruction in rats enhances genotype-phenotype mapping and novel variant discovery
