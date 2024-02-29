@@ -296,7 +296,7 @@ icon:battery-full[] Evaluation: 110/110 cum laude; GPA: 4.00, A+.
 
 icon:calendar[] `1 Oct. 2007 to 29 Oct. 2010` +
 icon:university[] *Bachelor’s degree in Computer Engineering (L-8), {university-salerno}* (Salerno, Italy). +
-icon:book[] Thesis: "Energetic and functional characterization of phosphorylations involved in the co-regulation of protein interaction". +
+icon:book[] Thesis: "High Dynamic Range (HDR) methods for industrial inspection applications". +
 icon:battery-full[] Evaluation: 110/110 cum laude; GPA: 4.00, A+.
 
 == icon:flask[] Research experience
