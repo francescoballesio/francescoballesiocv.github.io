@@ -150,6 +150,7 @@
 :uri-volpe2023-preprint: https://doi.org/10.1101/2023.11.01.565049
 :uri-bolognini2024-preprint: https://doi.org/10.1101/2024.02.07.579378
 :uri-li2024-preprint: https://doi.org/10.1101/2024.02.17.580840
+:uri-gustafson2024-preprint: https://doi.org/10.1101/2024.03.05.24303792
 
 // Repositories
 :uri-github-brio: https://github.com/helmercitterich-lab/BRIO
@@ -474,6 +475,11 @@ icon:file-pdf-o[] {uri-agi-simag-2023-brochure}[Brochure]
 ^| icon:pencil[] Contribution
 ^| icon:link[] Links
 
+| medrxiv, _Submitted_
+| Nanopore sequencing of 1000 Genomes Project samples to build a comprehensive catalog of human genetic variation
+| Pangenome graph building and analyses, paper method section writing
+| icon:spinner[] {uri-gustafson2024-preprint}[Preprint]
+
 | bioRxiv, _Submitted_
 | Genetic Modulation of Protein Expression in Rat Brain
 | Pangenome graph building and analyses, paper editing
@@ -494,7 +500,7 @@ icon:file-pdf-o[] {uri-agi-simag-2023-brochure}[Brochure]
 | *Algorithm implementation and evaluation, paper writing*
 | icon:spinner[] {uri-heumos2023-preprint}[Preprint]
 
-| bioRxiv, _Submitted_
+| bioRxiv, _In review_
 | Global diversity, recurrent evolution, and recent selection on amylase structural haplotypes in humans
 | Pangenome graph analsysis, genome assembly, paper writing and editing
 | icon:spinner[] {uri-bolognini2024-preprint}[Preprint]
