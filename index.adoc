@@ -8,6 +8,7 @@
 :uri-human-technopole: https://humantechnopole.it/en/
 :uri-uthsc: https://www.uthsc.edu/
 :uri-university-tor-vergata: http://web.uniroma2.it/
+:uri-university-la-sapienza: https://www.uniroma1.it/
 :uri-utrecht-bioinformatics-center: https://ubc.uu.nl/
 :uri-university-salerno: https://web.unisa.it/en/home
 :uri-iigm: https://www.iigm.it/
@@ -104,6 +105,8 @@
 :uri-agi-simag-2023-invitation-speaker-letter: https://github.com/AndreaGuarracino/andreaguarracino.github.io/blob/main/other/20230606_AGI-SIMAG-2023_InvitationSpeakerLetter_AndreaGuarracino.pdf
 :uri-agi-simag-2023-brochure: https://github.com/AndreaGuarracino/andreaguarracino.github.io/blob/main/other/AGI-SIMAG-2023_Brochure_AndreaGuarracino.pdf
 :uri-joint-meeting-agi-simag-2023: https://www.associazionegeneticaitaliana.it/2023/05/14/joint-meeting-agi_simag-2023/
+:uri-seminar-invitation-la-sapienza-2024: https://github.com/AndreaGuarracino/andreaguarracino.github.io/blob/main/other/20240226_InvitationLetterLaSapienza_AndreaGuarracino.pdf
+:uri-seminar-brochure-la-sapienza-2024: https://github.com/AndreaGuarracino/andreaguarracino.github.io/blob/main/other/20240226_SeminarBrochureLaSapienza_AndreaGuarracino.pdf
 
 // Universities, institutes
 :human-technopole: {uri-human-technopole}[Human Technopole]
@@ -116,6 +119,7 @@
 :princess-maxima-centrum: {uri-rincess-maxima-centrum}[Princess Máxima Center for Pediatric Oncology]
 :uri-semm: https://www.semm.it/curriculum/computational-biology
 :university-semm: {uri-semm}[SEMM European School of Molecular Medicine]
+:university-la-sapienza: {uri-university-la-sapienza}[University of Rome La Sapienza]
 
 // Publications
 :uri-pietrosanto-adinolfi-guarracino2021-rig: https://doi.org/10.1093/nargab/lqab007
@@ -450,6 +454,12 @@ icon:file-pdf-o[] {uri-github-cpang22-certificate}[Certificate]
 ^| icon:globe[] Place
 ^| icon:book[] Description
 ^| icon:link[] Links
+
+| `26 Feb. 2024` +
+| {university-la-sapienza}
+| Seminar on "Heterologous recombination in the human pangenome"
+| icon:file-pdf-o[] {uri-seminar-invitation-la-sapienza-2024}[Invitation] +
+icon:file-pdf-o[] {uri-seminar-brochure-la-sapienza-2024}[Brochure]
 
 | `14 Sept. 2023 to 16 Sept. 2023` +
 | {uri-joint-meeting-agi-simag-2023}[Joint Meeting AGI-SIMAG, Cortona, Italy]
