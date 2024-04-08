@@ -176,7 +176,7 @@
 :uri-github-mempang23-material: https://github.com/pangenome/MemPanG23/
 :uri-github-mempang23-certificate: https://github.com/AndreaGuarracino/cv/blob/main/certificates/MemPanG23_CertificateOrganizerInstructorChair_AndreaGuarracino.pdf
 :uri-github-datastructuresforbioinformatics: https://github.com/AndreaGuarracino/DataStructuresForBioinformatics
-:uri-github-advanced-bioinformatics-2023: https://github.com/UMCUGenetics/AdvancedBioinformaticsCourse
+:uri-github-advanced-bioinformatics: https://github.com/UMCUGenetics/AdvancedBioinformaticsCourse
 :uri-github-esami-svolti: https://andreaguarracino.github.io/other/EsamiSvoltiLaureeDocentePerAnnoAccademico.pdf
 :uri-github-covid19-research: https://github.com/vaguiarpulido/covid19-research.git
 :uri-github-rig: https://github.com/helmercitterich-lab/RIG
@@ -344,6 +344,11 @@ icon:university[] *Previous software development for pangenomics*.
 | *Teacher*, created new material, held all the lessons, assisted the students, did final exams
 | icon:github[] {uri-github-datastructuresforbioinformatics}[Material]
 
+| `9 Apr. 2024 to 9 Apr. 2024` +
+| Advanced Bioinformatics: Data Mining and Data Integration for Life Science (1.5 CFU/ECTS), Master’s degree, {utrecht-bioinformatics-center} (Utrecht, Netherlands)
+| *Teacher*, introducing pangenomics and PGGB (PanGenome Graph Builder)
+| icon:github[] {uri-github-advanced-bioinformatics}[Website]
+
 | `13 Nov. 2023 to 17 Nov. 2023` +
 | Pangenome & RefGraph Workshop by {uri-h3abionet}[H3ABioNet] (Cape Town, South Africa)
 | *Instructor*, created new material and analyzed new human genome assemblies
@@ -366,7 +371,7 @@ icon:file-pdf-o[] {uri-github-mempang23-certificate}[Certificate]
 | `28 Feb. 2023 to 28 Feb. 2023` +
 | Advanced Bioinformatics: Data Mining and Data Integration for Life Science (1.5 CFU/ECTS), Master’s degree, {utrecht-bioinformatics-center} (Utrecht, Netherlands)
 | *Teacher*, introducing pangenomics and PGGB (PanGenome Graph Builder)
-| icon:github[] {uri-github-advanced-bioinformatics-2023}[Website]
+| icon:github[] {uri-github-advanced-bioinformatics}[Website]
 
 | `23 May 2022 to 27 May 2022` +
 | CPANG22 Computational PANGenomics, {uri-gulbenkian-de-Ciencia}[Instituto Gulbenkian de Ciência] (Oeiras, Portugal)
