@@ -10,6 +10,7 @@
 :uri-university-tor-vergata: http://web.uniroma2.it/
 :uri-university-la-sapienza: https://www.uniroma1.it/
 :uri-utrecht-bioinformatics-center: https://ubc.uu.nl/
+:uri-unipavia-phdsgb: http://phdsgb.unipv.eu/site/en/home.html
 :uri-university-salerno: https://web.unisa.it/en/home
 :uri-iigm: https://www.iigm.it/
 :uri-irccs: https://www.irccs.com/en
@@ -113,6 +114,7 @@
 :uthsc: {uri-uthsc}[University of Tennessee Health and Science Center]
 :university-tor-vergata: {uri-university-tor-vergata}[University of Rome Tor Vergata]
 :utrecht-bioinformatics-center: {uri-utrecht-bioinformatics-center}[Utrecht Bioinformatics Center]
+:unipavia-phdsgb: {uri-unipavia-phdsgb}[University of Pavia]
 :university-salerno: {uri-university-salerno}[University of Salerno]
 :iigm: {uri-iigm}[Italian Institute for Genomic Medicine]
 :irccs: {uri-irccs}[Candiolo Cancer Institute]
@@ -177,6 +179,8 @@
 :uri-github-mempang23-certificate: https://github.com/AndreaGuarracino/cv/blob/main/certificates/MemPanG23_CertificateOrganizerInstructorChair_AndreaGuarracino.pdf
 :uri-github-datastructuresforbioinformatics: https://github.com/AndreaGuarracino/DataStructuresForBioinformatics
 :uri-github-advanced-bioinformatics: https://github.com/UMCUGenetics/AdvancedBioinformaticsCourse
+:uri-github-unipavia-phdsgb-2024-flier: https://github.com/AndreaGuarracino/cv/blob/main/certificates/UniPaviaPhDCoursePangenome2024_Flier_Apr18-19_2024_final_AndreaGuarracino.pdf
+:uri-github-unipavia-phdsgb-2024-invitation-email: https://github.com/AndreaGuarracino/cv/blob/main/certificates/UniPaviaPhDCoursePangenome2024_InvitationMail_AndreaGuarracino.pdf
 :uri-github-esami-svolti: https://andreaguarracino.github.io/other/EsamiSvoltiLaureeDocentePerAnnoAccademico.pdf
 :uri-github-covid19-research: https://github.com/vaguiarpulido/covid19-research.git
 :uri-github-rig: https://github.com/helmercitterich-lab/RIG
@@ -344,7 +348,13 @@ icon:university[] *Previous software development for pangenomics*.
 | *Teacher*, created new material, held all the lessons, assisted the students, did final exams
 | icon:github[] {uri-github-datastructuresforbioinformatics}[Material]
 
-| `9 Apr. 2024 to 9 Apr. 2024` +
+| `17 Apr. 2024` +
+| PhD Program in Genetics, Molecular and Cellular Biology, {unipavia-phdsgb} (Pavia, Italy)
+| *Teacher*, introducing pangenomics and PGGB (PanGenome Graph Builder)
+| icon:file-pdf-o[] {uri-github-unipavia-phdsgb-2024-flier}[Flier] +
+icon:file-pdf-o[] {uri-github-unipavia-phdsgb-2024-invitation-email}[Invitation]
+
+| `9 Apr. 2024` +
 | Advanced Bioinformatics: Data Mining and Data Integration for Life Science (1.5 CFU/ECTS), Master’s degree, {utrecht-bioinformatics-center} (Utrecht, Netherlands)
 | *Teacher*, introducing pangenomics and PGGB (PanGenome Graph Builder)
 | icon:github[] {uri-github-advanced-bioinformatics}[Website]
