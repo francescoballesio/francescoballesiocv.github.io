@@ -33,7 +33,7 @@
 :uri-h3abionet: https://www.h3abionet.org/
 :uri-h3bionet-2023-material: https://github.com/AndreaGuarracino/ReferenceGraphPangenomeDataAnalysisHackathon2023
 :uri-h3bionet-2023-inv-letter: https://github.com/AndreaGuarracino/andreaguarracino.github.io/blob/main/certificates/H3ABioNet2023_RefGraphInvitationLetter_AndreaGuarracino.pdf
-:ri-ctc-rg-2023-certificate: https://still-missing-certificate
+:uri-ctc-rg-2023-certificate: https://andreaguarracino.github.io/certificates/CTCTG2023_CertificateOrganizerInstructor_AndreaGuarracino.pdf
 :uri-github-ctc-rg-2022-abstract: https://andreaguarracino.github.io/abstracts/CTC_RG_2022_InitialEffortGenRatPangenome_Abstract_AndreaGuarracino.pdf
 :uri-github-iggsy2022-presentation: https://andreaguarracino.github.io/presentations/IGGSy2022_ChromosomeCommunitiesHumanPangenome_Presentation_AndreaGuarracino.pdf
 :uri-github-iggsy2022-grant-certificate: https://andreaguarracino.github.io/other/IGGSy2022_StudentTravelGrant_AndreaGuarracino.jpg
@@ -178,6 +178,9 @@
 :uri-github-mempang23-website: https://pangenome.github.io/MemPanG23/
 :uri-github-mempang23-material: https://github.com/pangenome/MemPanG23/
 :uri-github-mempang23-certificate: https://github.com/AndreaGuarracino/cv/blob/main/certificates/MemPanG23_CertificateOrganizerInstructorChair_AndreaGuarracino.pdf
+:uri-github-mempang24-website: https://pangenome.github.io/MemPanG24/
+:uri-github-mempang24-material: https://github.com/pangenome/MemPanG24/
+:uri-github-mempang24-certificate: https://github.com/AndreaGuarracino/cv/blob/main/certificates/MemPanG24_CertificateOrganizerInstructorChair_AndreaGuarracino.pdf
 :uri-github-datastructuresforbioinformatics: https://github.com/AndreaGuarracino/DataStructuresForBioinformatics
 :uri-github-advanced-bioinformatics: https://github.com/UMCUGenetics/AdvancedBioinformaticsCourse
 :uri-github-unipavia-phdsgb-2024-flier: https://github.com/AndreaGuarracino/cv/blob/main/certificates/UniPaviaPhDCoursePangenome2024_Flier_Apr18-19_2024_final_AndreaGuarracino.pdf
@@ -344,6 +347,13 @@ icon:university[] *Previous software development for pangenomics*.
 ^| icon:pencil[] Role
 ^| icon:link[] Links
 
+| `18 May 2023 to 22 May 2024` +
+| MemPanG24 Pangenomics, {uri-uthsc}[University of Tennessee Health and Science Center] (Memphis, USA)
+| *Organizer*, *instructor* and *chair*, created new material and tutorials, held some lessons, assisted the participants, configured the virtual machines
+| icon:github[] {uri-github-mempang24-website}[Website] +
+icon:github[] {uri-github-mempang24-material}[Material] +
+icon:file-pdf-o[] {uri-github-mempang24-certificate}[Certificate]
+
 | `26 Oct. 2020 to Present` +
 | Data Structures for Bioinformatics (2 CFU/ECTS), Master’s degree in Bioinformatics, {university-tor-vergata} (Rome, Italy)
 | *Teacher*, created new material, held all the lessons, assisted the students, did final exams
@@ -369,8 +379,8 @@ icon:file-pdf-o[] {uri-h3bionet-2023-inv-letter}[Invitation]
 | `8 Oct. 2023 to 12 Oct. 2023` +
 | Complex Trait Community & Rat Genome {uri-ctc-rg-2023}[CTC-RG2023] (Memphis, USA)
 | *Organizer* and *instructor*, created new material for the Pangenome workshop
-| icon:book[] {uri-ctc-rg-2023}[Website]
-//ToDo +icon:file-pdf-o[] {uri-ctc-rg-2023-certificate}[Certificate]
+| icon:book[] {uri-ctc-rg-2023}[Website] +
+icon:file-pdf-o[] {uri-ctc-rg-2023-certificate}[Certificate]
 
 | `30 May 2023 to 2 June 2023` +
 | MemPanG23 Pangenomics, {uri-uthsc}[University of Tennessee Health and Science Center] (Memphis, USA)
