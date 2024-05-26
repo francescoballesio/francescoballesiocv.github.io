@@ -522,7 +522,7 @@ icon:file-pdf-o[] {uri-agi-simag-2023-brochure}[Brochure]
 | Human centromere analysis
 | icon:spinner[] {uri-koren2024-preprint}[Preprint]
 
-| medrxiv, _Submitted_
+| bioRxiv, _In review_
 | Nanopore sequencing of 1000 Genomes Project samples to build a comprehensive catalog of human genetic variation
 | Pangenome graph building and analyses, paper method section writing
 | icon:spinner[] {uri-gustafson2024-preprint}[Preprint]
@@ -537,12 +537,12 @@ icon:file-pdf-o[] {uri-agi-simag-2023-brochure}[Brochure]
 | Pangenome graph building and analyses, structural variant calling, paper writing
 | icon:spinner[] {uri-villani2023-preprint}[Preprint]
 
-| *bioRxiv, _In review_*
+| *Nature Methods, _Accepted_*
 | **Building pangenome graphs*
 | *Software development, experiments, paper writing, documentation, testing*
 | icon:spinner[] {uri-garrison2023-preprint}[Preprint]
 
-| *bioRxiv, _In review_*
+| *Bioinformatics, _Accepted_*
 | **Pangenome graph layout by Path-Guided Stochastic Gradient Descent*
 | *Algorithm implementation and evaluation, paper writing*
 | icon:spinner[] {uri-heumos2023-preprint}[Preprint]
