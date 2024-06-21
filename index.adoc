@@ -24,6 +24,8 @@
 :uri-rincess-maxima-centrum: https://www.prinsesmaximacentrum.nl/en
 
 // Talks / Posters
+:uri-bog24: https://meetings.cshl.edu/meetings.aspx?meet=GENOME&year=24
+:uri-github-bog24-poster-wfmash: https://andreaguarracino.github.io/posters/BoG24_AligningPangenomesWithHierarchicalWFA_Poster_AndreaGuarracino.pdf
 :uri-sbme23: https://www.smbe2023.org/
 :uri-github-smbe23-poster-acrocentric: https://andreaguarracino.github.io/posters/SMBE23_RecombinationHeterologousAcrocentricChromosomes_Poster_AndreaGuarracino.pdf
 :uri-github-smbe23-poster-rat: https://andreaguarracino.github.io/posters/SMBE23_BuildingPangenomeGraphRecombInbredRatStrainFamily_Poster_AndreaGuarracino.pdf
@@ -707,6 +709,11 @@ icon:github[] {uri-github-rig}[Repository]
 ^| icon:globe[] Conference
 ^| icon:book[] Title
 ^| icon:link[] Links
+
+| `7 May 2024 to 11 May 2024` +
+| {uri-bog24}[CHSL Biology of Genomes]
+| Aligning pangenomes with hierarchical wavefront algorithm
+| icon:file-pdf-o[] {uri-github-bog24-poster-wfmash}[Poster]
 
 | `23 July 2023 to 27 July 2023` +
 | {uri-sbme23}[Society for Molecular Biology & Evolution 2023 (SMBE23)]
