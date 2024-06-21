@@ -711,7 +711,7 @@ icon:github[] {uri-github-rig}[Repository]
 ^| icon:link[] Links
 
 | `7 May 2024 to 11 May 2024` +
-| {uri-bog24}[CHSL Biology of Genomes]
+| {uri-bog24}[The Biology of Genomes 2024]
 | Aligning pangenomes with hierarchical wavefront algorithm
 | icon:file-pdf-o[] {uri-github-bog24-poster-wfmash}[Poster]
 
