@@ -153,6 +153,7 @@
 :uri-garrison2023-preprint: https://doi.org/10.1101/2023.04.05.535718
 :uri-villani2023-preprint: https://doi.org/10.1101/2024.01.10.575041
 :uri-heumos2023-preprint: https://doi.org/10.1101/2023.09.22.558964
+:uri-heumos2024: https://doi.org/10.1093/bioinformatics/btae363
 :uri-cochetel2023-preprint: https://doi.org/10.1101/2023.06.27.545624
 :uri-cochetel2023: https://doi.org/10.1186/s13059-023-03133-2
 :uri-volpe2023-preprint: https://doi.org/10.1101/2023.11.01.565049
@@ -242,7 +243,7 @@ icon:group[] Reporting to Prof. Erik Garrison.
 * Telomere-to-Telomere Robertsonian translocation characterization
 * Nanopore sequencing for studying recombination in yeast
 * Development of a new whole-genome aligner (icon:github[] {uri-github-wfmash}[wfmash])
-* Pangenome graph sorting and layout (icon:spinner[] {uri-heumos2023-preprint}[Heumos*, Guarracino* _et al._, 2023, bioRxiv])
+* Pangenome graph sorting and layout (icon:spinner[] {uri-heumos2024}[Heumos*, Guarracino* _et al._, 2023, bioRxiv])
 
 == icon:search[] Collaborations
 
@@ -552,11 +553,6 @@ icon:file-pdf-o[] {uri-agi-simag-2023-brochure}[Brochure]
 | *Software development, experiments, paper writing, documentation, testing*
 | icon:spinner[] {uri-garrison2023-preprint}[Preprint]
 
-| *Bioinformatics, _Accepted_*
-| **Pangenome graph layout by Path-Guided Stochastic Gradient Descent*
-| *Algorithm implementation and evaluation, paper writing*
-| icon:spinner[] {uri-heumos2023-preprint}[Preprint]
-
 | bioRxiv, _In review_
 | Global diversity, recurrent evolution, and recent selection on amylase structural haplotypes in humans
 | Pangenome graph analsysis, genome assembly, paper writing and editing
@@ -566,6 +562,11 @@ icon:file-pdf-o[] {uri-agi-simag-2023-brochure}[Brochure]
 | The complete diploid reference genome of RPE-1 identifies human phased epigenetic landscapes
 | Support for the analyses and figures, Figure 2, paper writing
 | icon:spinner[] {uri-volpe2023-preprint}[Preprint]
+
+| *Bioinformatics, 2024*
+| **Pangenome graph layout by Path-Guided Stochastic Gradient Descent*
+| *Algorithm implementation and evaluation, paper writing*
+| icon:book[] {uri-heumos2024}[Paper]
 
 | Genome Biology, 2023
 | A super-pangenome of the North American wild grape species
