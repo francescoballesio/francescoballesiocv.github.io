@@ -523,12 +523,12 @@ icon:file-pdf-o[] {uri-agi-simag-2023-brochure}[Brochure]
 ^| icon:pencil[] Contribution
 ^| icon:link[] Links
 
-| bioRxiv, _Submitted_
+| bioRxiv, _In review_
 | Cluster efficient pangenome graph construction with nf-core/pangenome
 | Software development, paper editing
 | icon:spinner[] {uri-heumos2024-preprint}[Preprint]
 
-| bioRxiv, _Submitted_
+| bioRxiv, _In review_
 | Gapless assembly of complete human and plant chromosomes using only nanopore sequencing
 | Human centromere analysis
 | icon:spinner[] {uri-koren2024-preprint}[Preprint]
@@ -553,7 +553,7 @@ icon:file-pdf-o[] {uri-agi-simag-2023-brochure}[Brochure]
 | *Software development, experiments, paper writing, documentation, testing*
 | icon:spinner[] {uri-garrison2023-preprint}[Preprint]
 
-| bioRxiv, _In review_
+| Nature, _Accepted_
 | Global diversity, recurrent evolution, and recent selection on amylase structural haplotypes in humans
 | Pangenome graph analsysis, genome assembly, paper writing and editing
 | icon:spinner[] {uri-bolognini2024-preprint}[Preprint]
