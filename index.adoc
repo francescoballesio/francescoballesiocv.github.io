@@ -26,6 +26,8 @@
 // Talks / Posters
 :uri-bog24: https://meetings.cshl.edu/meetings.aspx?meet=GENOME&year=24
 :uri-github-bog24-poster-wfmash: https://andreaguarracino.github.io/posters/BoG24_AligningPangenomesWithHierarchicalWFA_Poster_AndreaGuarracino.pdf
+:uri-sbme24: https://smbe2024.org/
+:uri-sbme24-call-for-abstracts: https://andreaguarracino.github.io/images/SMBE24_CallForAbstracts_AndreaGuarracino.png
 :uri-sbme23: https://www.smbe2023.org/
 :uri-github-smbe23-poster-acrocentric: https://andreaguarracino.github.io/posters/SMBE23_RecombinationHeterologousAcrocentricChromosomes_Poster_AndreaGuarracino.pdf
 :uri-github-smbe23-poster-rat: https://andreaguarracino.github.io/posters/SMBE23_BuildingPangenomeGraphRecombInbredRatStrainFamily_Poster_AndreaGuarracino.pdf
@@ -37,9 +39,10 @@
 :uri-h3bionet-2023-inv-letter: https://github.com/AndreaGuarracino/andreaguarracino.github.io/blob/main/certificates/H3ABioNet2023_RefGraphInvitationLetter_AndreaGuarracino.pdf
 :uri-ctc-rg-2023-certificate: https://andreaguarracino.github.io/certificates/CTCTG2023_CertificateOrganizerInstructor_AndreaGuarracino.pdf
 :uri-github-ctc-rg-2022-abstract: https://andreaguarracino.github.io/abstracts/CTC_RG_2022_InitialEffortGenRatPangenome_Abstract_AndreaGuarracino.pdf
+:uri-github-iggsy2024-presentation: https://andreaguarracino.github.io/presentations/IGGSy2024_TheCompleteSeqOfHumanRobChromosomes_Presentation_AndreaGuarracino.pdf
 :uri-github-iggsy2022-presentation: https://andreaguarracino.github.io/presentations/IGGSy2022_ChromosomeCommunitiesHumanPangenome_Presentation_AndreaGuarracino.pdf
 :uri-github-iggsy2022-grant-certificate: https://andreaguarracino.github.io/other/IGGSy2022_StudentTravelGrant_AndreaGuarracino.jpg
-:uri-iggsy2022: https://iggsy.org/
+:uri-iggsy: https://iggsy.org/
 :uri-3dbioinfo2021: https://elixir-europe.org/events/3d-bioinfo-2021-annual-meeting
 :uri-3dbioinfo2021-abstract: https://andreaguarracino.github.io/abstracts/3DBioinfo2021_RNASecondaryStructMotifsInvolvedInTheInteractionWithRBPs_Abstract_AndreaGuarracino.pdf
 :uri-biodiversitygenomics2021: https://enrolment.engage-powered.com/hinxtonhall/go/register.aspx
@@ -435,6 +438,21 @@ icon:file-pdf-o[] {uri-github-cpang22-certificate}[Certificate]
 
 |===
 
+== icon:calendar[] Symposia
+
+[cols="2,4,4,1",options="header"]
+|===
+^| icon:calendar[] Time
+^| icon:book[] Event
+^| icon:pencil[] Role
+^| icon:link[] Links
+
+| `7 July 2024 to 11 July 2024` +
+| {uri-sbme24}[Society for Molecular Biology & Evolution 2024 (SMBE24)]
+| Organizer of the "human genetic variability in the Pangenomic era" symposia
+| {uri-sbme24-call-for-abstracts}[Call for abstracts]
+|===
+
 == icon:handshake-o[] Mentoring
 
 [cols="2,4,4,1",options="header"]
@@ -673,7 +691,7 @@ icon:github[] {uri-github-rig}[Repository]
 ^| icon:link[] Links
 
 | `5 July 2022` +
-| {uri-iggsy2022}[International Genome Graph Symposium 2022]
+| {uri-iggsy}[International Genome Graph Symposium 2022]
 | Student Travel Grant
 | 600 CHF (632.36 EUR)
 | icon:file-image-o[] {uri-github-iggsy2022-grant-certificate}[Certificate]
@@ -711,6 +729,11 @@ icon:github[] {uri-github-rig}[Repository]
 ^| icon:book[] Title
 ^| icon:link[] Links
 
+| `30 June 2024 to 4 July 2024` +
+| {uri-iggsy}[International Genome Graph Symposium 2024]
+| The complete sequence of Robertsonian chromosomes
+| icon:file-pdf-o[] {uri-github-iggsy2024-presentation}[Presentation]
+
 | `7 May 2024 to 11 May 2024` +
 | {uri-bog24}[The Biology of Genomes 2024]
 | Aligning pangenomes with hierarchical wavefront algorithm
@@ -734,7 +757,7 @@ icon:file-pdf-o[] {uri-github-smbe23-certificate}[Certificate]
 | icon:file-pdf-o[] {uri-github-ctc-rg-2022-abstract}[Abstract]
 
 | `4 July 2022 to 7 July 2022` +
-| {uri-iggsy2022}[International Genome Graph Symposium 2022]
+| {uri-iggsy}[International Genome Graph Symposium 2022]
 | Chromosome communities in the human pangenome
 | icon:file-pdf-o[] {uri-github-iggsy2022-presentation}[Presentation]
 
