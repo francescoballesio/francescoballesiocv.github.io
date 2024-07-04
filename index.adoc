@@ -449,7 +449,7 @@ icon:file-pdf-o[] {uri-github-cpang22-certificate}[Certificate]
 
 | `7 July 2024 to 11 July 2024` +
 | {uri-sbme24}[Society for Molecular Biology & Evolution 2024 (SMBE24)]
-| Organizer of the "human genetic variability in the Pangenomic era" symposia
+| Organizer of the "Human genetic variability in the Pangenomic era" symposia
 | {uri-sbme24-call-for-abstracts}[Call for abstracts]
 |===
 
