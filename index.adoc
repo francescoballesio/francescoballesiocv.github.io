@@ -246,7 +246,7 @@ icon:group[] Reporting to Prof. Erik Garrison.
 * Telomere-to-Telomere Robertsonian translocation characterization
 * Nanopore sequencing for studying recombination in yeast
 * Development of a new whole-genome aligner (icon:github[] {uri-github-wfmash}[wfmash])
-* Pangenome graph sorting and layout (icon:spinner[] {uri-heumos2024}[Heumos*, Guarracino* _et al._, 2023, bioRxiv])
+* Pangenome graph sorting and layout (icon:book[] {uri-heumos2024}[Heumos*, Guarracino* _et al._, 2024, Bioinformatics])
 
 == icon:search[] Collaborations
 
