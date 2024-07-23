@@ -28,6 +28,7 @@
 :uri-github-bog24-poster-wfmash: https://andreaguarracino.github.io/posters/BoG24_AligningPangenomesWithHierarchicalWFA_Poster_AndreaGuarracino.pdf
 :uri-sbme24: https://smbe2024.org/
 :uri-sbme24-call-for-abstracts: https://andreaguarracino.github.io/images/SMBE24_CallForAbstracts_AndreaGuarracino.png
+:uri-github-smbe24-certificate: https://andreaguarracino.github.io/certificates/SMBE24_CertificateOfAttendance_AndreaGuarracino.pdf
 :uri-sbme23: https://www.smbe2023.org/
 :uri-github-smbe23-poster-acrocentric: https://andreaguarracino.github.io/posters/SMBE23_RecombinationHeterologousAcrocentricChromosomes_Poster_AndreaGuarracino.pdf
 :uri-github-smbe23-poster-rat: https://andreaguarracino.github.io/posters/SMBE23_BuildingPangenomeGraphRecombInbredRatStrainFamily_Poster_AndreaGuarracino.pdf
@@ -188,7 +189,7 @@
 :uri-github-mempang24-material: https://github.com/pangenome/MemPanG24/
 :uri-github-mempang24-certificate: https://github.com/AndreaGuarracino/cv/blob/main/certificates/MemPanG24_CertificateOrganizerInstructorChair_AndreaGuarracino.pdf
 :uri-github-romepang24-website: https://elixir-iib-training.github.io/site/2024-06-Pangenomics
-:uri-github-romepang24-certificate: https://github.com/AndreaGuarracino/cv/blob/main/certificates/RomePanG24_CertificateOrganizerInstructor_AndreaGuarracino.pdf
+:uri-github-romepang24-certificate: https://github.com/AndreaGuarracino/cv/blob/main/certificates/RomePanG24_ElixirCourse_CertificateOrganizerInstructor_AndreaGuarracino.pdf
 :uri-github-datastructuresforbioinformatics: https://github.com/AndreaGuarracino/DataStructuresForBioinformatics
 :uri-github-advanced-bioinformatics: https://github.com/UMCUGenetics/AdvancedBioinformaticsCourse
 :uri-github-unipavia-phdsgb-2024-flier: https://github.com/AndreaGuarracino/cv/blob/main/certificates/UniPaviaPhDCoursePangenome2024_Flier_Apr18-19_2024_final_AndreaGuarracino.pdf
@@ -359,7 +360,7 @@ icon:university[] *Previous software development for pangenomics*.
 | Computational Pangenomics, {university-la-sapienza} (Rome, Italy)
 | *Organizer* and *instructor*, created new material and tutorials, held lessons, assisted the participants, configured the machines
 | icon:github[] {uri-github-romepang24-website}[Website] +
-icon:file-pdf-o[] {uri-github-romepang24-certificate}[MISSING]
+icon:file-pdf-o[] {uri-github-romepang24-certificate}[Certificate]
 
 | `18 May 2024 to 22 May 2024` +
 | MemPanG24 Pangenomics, {uri-uthsc}[University of Tennessee Health and Science Center] (Memphis, USA)
@@ -450,7 +451,8 @@ icon:file-pdf-o[] {uri-github-cpang22-certificate}[Certificate]
 | `7 July 2024 to 11 July 2024` +
 | {uri-sbme24}[Society for Molecular Biology & Evolution 2024 (SMBE24)]
 | Organizer of the "Human genetic variability in the Pangenomic era" symposia
-| {uri-sbme24-call-for-abstracts}[Call for abstracts]
+| {uri-sbme24-call-for-abstracts}[Call for abstracts] +
+icon:file-pdf-o[] {uri-github-smbe24-certificate}[Certificate]
 |===
 
 == icon:handshake-o[] Mentoring
@@ -738,12 +740,6 @@ icon:github[] {uri-github-rig}[Repository]
 | {uri-bog24}[The Biology of Genomes 2024]
 | Aligning pangenomes with hierarchical wavefront algorithm
 | icon:file-pdf-o[] {uri-github-bog24-poster-wfmash}[Poster]
-
-| `23 July 2023 to 27 July 2023` +
-| {uri-sbme23}[Society for Molecular Biology & Evolution 2023 (SMBE23)]
-| Recombination between heterologous human acrocentric chromosomes
-| icon:file-pdf-o[] {uri-github-smbe23-poster-acrocentric}[Poster] +
-icon:file-pdf-o[] {uri-github-smbe23-certificate}[Certificate]
 
 | `23 July 2023 to 27 July 2023` +
 | {uri-sbme23}[Society for Molecular Biology & Evolution 2023 (SMBE23)]
