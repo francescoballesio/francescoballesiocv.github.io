@@ -166,6 +166,7 @@
 :uri-gustafson2024-preprint: https://doi.org/10.1101/2024.03.05.24303792
 :uri-koren2024-preprint: https://doi.org/10.1101/2024.03.15.585294
 :uri-heumos2024-preprint: https://doi.org/10.1101/2024.05.13.593871
+:uri-dongahn2024-preprint: https://doi.org/10.1101/2024.07.31.605654
 
 // Repositories
 :uri-github-brio: https://github.com/helmercitterich-lab/BRIO
@@ -542,6 +543,11 @@ icon:file-pdf-o[] {uri-agi-simag-2023-brochure}[Brochure]
 ^| icon:book[] Title
 ^| icon:pencil[] Contribution
 ^| icon:link[] Links
+
+| bioRxiv, _Submitted_
+| Complete sequencing of ape genomes
+| Pangenome alignment/Divergence
+| icon:spinner[] {uri-dongahn2024-preprint}[Preprint]
 
 | bioRxiv, _In review_
 | Cluster efficient pangenome graph construction with nf-core/pangenome
