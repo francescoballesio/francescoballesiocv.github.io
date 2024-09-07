@@ -592,8 +592,8 @@ icon:file-pdf-o[] {uri-agi-simag-2023-brochure}[Brochure]
 | icon:book[] {uri-bolognini2024}[Paper]
 
 | arXiv, 2024
-| **Rapid GPU-Based Pangenome Graph Layout*
-| *pangenomic support*
+| Rapid GPU-Based Pangenome Graph Layout
+| Pangenomic support
 | icon:book[] {uri-li2024}[Paper]
 
 | *Bioinformatics, 2024*
