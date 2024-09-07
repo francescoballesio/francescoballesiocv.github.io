@@ -162,6 +162,7 @@
 :uri-cochetel2023: https://doi.org/10.1186/s13059-023-03133-2
 :uri-volpe2023-preprint: https://doi.org/10.1101/2023.11.01.565049
 :uri-bolognini2024-preprint: https://doi.org/10.1101/2024.02.07.579378
+:uri-bolognini2024: https://doi.org/10.1038/s41586-024-07911-1
 :uri-li2024-preprint: https://doi.org/10.1101/2024.02.17.580840
 :uri-gustafson2024-preprint: https://doi.org/10.1101/2024.03.05.24303792
 :uri-koren2024-preprint: https://doi.org/10.1101/2024.03.15.585294
@@ -544,7 +545,7 @@ icon:file-pdf-o[] {uri-agi-simag-2023-brochure}[Brochure]
 ^| icon:pencil[] Contribution
 ^| icon:link[] Links
 
-| bioRxiv, _Submitted_
+| bioRxiv, _In review_
 | Complete sequencing of ape genomes
 | Pangenome alignment/Divergence
 | icon:spinner[] {uri-dongahn2024-preprint}[Preprint]
@@ -579,15 +580,15 @@ icon:file-pdf-o[] {uri-agi-simag-2023-brochure}[Brochure]
 | *Software development, experiments, paper writing, documentation, testing*
 | icon:spinner[] {uri-garrison2023-preprint}[Preprint]
 
-| Nature, _Accepted_
-| Global diversity, recurrent evolution, and recent selection on amylase structural haplotypes in humans
-| Pangenome graph analsysis, genome assembly, paper writing and editing
-| icon:spinner[] {uri-bolognini2024-preprint}[Preprint]
-
 | bioRxiv, _Submitted_
 | The complete diploid reference genome of RPE-1 identifies human phased epigenetic landscapes
 | Support for the analyses and figures, Figure 2, paper writing
 | icon:spinner[] {uri-volpe2023-preprint}[Preprint]
+
+| Nature, 2024
+| Global diversity, recurrent evolution, and recent selection on amylase structural haplotypes in humans
+| Pangenome graph analsysis, genome assembly, paper writing and editing
+| icon:book[] {uri-bolognini2024}[Paper]
 
 | *Bioinformatics, 2024*
 | **Pangenome graph layout by Path-Guided Stochastic Gradient Descent*
