@@ -587,7 +587,7 @@ icon:file-pdf-o[] {uri-agi-simag-2023-brochure}[Brochure]
 | icon:spinner[] {uri-volpe2023-preprint}[Preprint]
 
 | Nature, 2024
-| Global diversity, recurrent evolution, and recent selection on amylase structural haplotypes in humans
+| Recurrent evolution and selection shape structural diversity at the amylase locus
 | Pangenome graph analsysis, genome assembly, paper writing and editing
 | icon:book[] {uri-bolognini2024}[Paper]
 
