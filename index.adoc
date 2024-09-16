@@ -169,6 +169,7 @@
 :uri-heumos2024-preprint: https://doi.org/10.1101/2024.05.13.593871
 :uri-li2024: https://doi.org/10.48550/arxiv.2409.00876
 :uri-dongahn2024-preprint: https://doi.org/10.1101/2024.07.31.605654
+:uri-potapova2024-preprint: https://doi.org/10.1101/2024.09.13.612795
 
 // Repositories
 :uri-github-brio: https://github.com/helmercitterich-lab/BRIO
@@ -546,6 +547,11 @@ icon:file-pdf-o[] {uri-agi-simag-2023-brochure}[Brochure]
 ^| icon:pencil[] Contribution
 ^| icon:link[] Links
 
+| bioRxiv, _Submitted_
+| Epigenetic control and inheritance of rDNA arrays
+| Nanopore reads analysis
+| icon:spinner[] {uri-potapova2024-preprint}[Preprint]
+
 | bioRxiv, _In review_
 | Complete sequencing of ape genomes
 | Pangenome alignment/Divergence
@@ -556,7 +562,7 @@ icon:file-pdf-o[] {uri-agi-simag-2023-brochure}[Brochure]
 | Software development, paper editing
 | icon:spinner[] {uri-heumos2024-preprint}[Preprint]
 
-| bioRxiv, _In review_
+| bioRxiv, _Accepted_
 | Gapless assembly of complete human and plant chromosomes using only nanopore sequencing
 | Human centromere analysis
 | icon:spinner[] {uri-koren2024-preprint}[Preprint]
