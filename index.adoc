@@ -24,6 +24,9 @@
 :uri-rincess-maxima-centrum: https://www.prinsesmaximacentrum.nl/en
 
 // Talks / Posters
+:uri-t2t-f2f: https://sites.google.com/ucsc.edu/t2t-f2f/home
+:uri-github-t2t-f2f-presentation: https://andreaguarracino.github.io/posters/T2T24_FormationTransmissionRobChrs_Presentation_AndreaGuarracino.pdf
+:uri-github-hprc24-presentation: https://andreaguarracino.github.io/posters/HPRC24_LessonsFromAmylaseLocus_Presentation_AndreaGuarracino.pdf
 :uri-bog24: https://meetings.cshl.edu/meetings.aspx?meet=GENOME&year=24
 :uri-github-bog24-poster-wfmash: https://andreaguarracino.github.io/posters/BoG24_AligningPangenomesWithHierarchicalWFA_Poster_AndreaGuarracino.pdf
 :uri-sbme24: https://smbe2024.org/
@@ -155,6 +158,7 @@
 :uri-rhie2023: https://www.nature.com/articles/s41586-023-06457-y
 :uri-yang2022: https://doi.org/10.3389/fgene.2023.1225248
 :uri-garrison2023-preprint: https://doi.org/10.1101/2023.04.05.535718
+:uri-garrison2024: https://doi.org/10.1038/s41592-024-02430-3
 :uri-villani2023-preprint: https://doi.org/10.1101/2024.01.10.575041
 :uri-heumos2023-preprint: https://doi.org/10.1101/2023.09.22.558964
 :uri-heumos2024: https://doi.org/10.1093/bioinformatics/btae363
@@ -265,7 +269,7 @@ icon:calendar[] `1 Nov. 2022 to Present` +
 icon:university[] *E-Visitor at the {human-technopole}* (Milan, Italy). +
 icon:group[] Reporting to Prof. Nicole Soranzo and Prof. Erik Garrison.
 
-* Building pangenome graphs (icon:spinner[] {uri-garrison2023-preprint}[Garrison*, Guarracino* _et al._, 2023, bioRxiv]) (icon:github[] {uri-github-pggb}[PGGB], icon:github[] {uri-github-smoothxg}[smoothxg])
+* Building pangenome graphs (icon:spinner[] {uri-garrison2024}[Garrison*, Guarracino* _et al._, 2024, Nature Methods]) (icon:github[] {uri-github-pggb}[PGGB], icon:github[] {uri-github-smoothxg}[smoothxg])
 
 icon:calendar[] `1 Nov. 2019 to Present` +
 icon:university[] *{iigm}* (Candiolo, Italy) and the *{irccs}* (Candiolo, Italy). +
@@ -582,15 +586,15 @@ icon:file-pdf-o[] {uri-agi-simag-2023-brochure}[Brochure]
 | Pangenome graph building and analyses, structural variant calling, paper writing
 | icon:spinner[] {uri-villani2023-preprint}[Preprint]
 
-| *Nature Methods, _Accepted_*
-| **Building pangenome graphs*
-| *Software development, experiments, paper writing, documentation, testing*
-| icon:spinner[] {uri-garrison2023-preprint}[Preprint]
-
 | bioRxiv, _Submitted_
 | The complete diploid reference genome of RPE-1 identifies human phased epigenetic landscapes
 | Support for the analyses and figures, Figure 2, paper writing
 | icon:spinner[] {uri-volpe2023-preprint}[Preprint]
+
+| *Nature Methods, 2024*
+| **Building pangenome graphs*
+| *Software development, experiments, paper writing, documentation, testing*
+| icon:spinner[] {uri-garrison2024}[Paper]
 
 | Nature, 2024
 | Recurrent evolution and selection shape structural diversity at the amylase locus
@@ -749,6 +753,16 @@ icon:github[] {uri-github-rig}[Repository]
 ^| icon:globe[] Conference
 ^| icon:book[] Title
 ^| icon:link[] Links
+
+| `5 Sept. 2024 to 6 Sept. 2024` +
+| HPRC 2024 Annual Meeting
+| Lessons from the amylase locus
+| icon:file-pdf-o[] {uri-github-hprc24-presentation}[Presentation]
+
+| `3 Sept. 2024 to 4 Sept. 2024` +
+| {uri-t2t-2f2}[Telomere-to-Telomere "Face-to-Face" (T2T-F2F) 2024]
+| Formation and propagation of human Robertsonian chromosomes
+| icon:file-pdf-o[] {uri-github-t2t-f2f-presentation}[Presentation]
 
 | `30 June 2024 to 4 July 2024` +
 | {uri-iggsy}[International Genome Graph Symposium 2024]
