@@ -20,3 +20,6 @@ Computer engineer working on pangenomics.
 
 
 [Twitter](https://twitter.com/AndresGuarahino) | [LinkedIn](https://www.linkedin.com/in/andreaguarracino) | [Google Scholar](https://scholar.google.com/citations?user=zABbjIoAAAAJ) | [ResearchGate](https://www.researchgate.net/profile/Andrea-Guarracino) | [Code](https://github.com/AndreaGuarracino) | [Skype](https://join.skype.com/invite/f1KWmWUcDD9f) | [ORCID](https://orcid.org/0000-0001-9744-131X) | [Chat](https://matrix.to/#/@andreaguarracino:matrix.org)
+
+
+https://docs.google.com/presentation/d/161MrExp6rrJ2pzo8vGzjaRh7r0c8L_xnbD15u61MbCA/edit?usp=sharing
