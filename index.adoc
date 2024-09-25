@@ -9,6 +9,7 @@
 :uri-uthsc: https://www.uthsc.edu/
 :uri-university-tor-vergata: http://web.uniroma2.it/
 :uri-university-la-sapienza: https://www.uniroma1.it/
+:uri-stowers-institute: https://www.stowers.org/
 :uri-utrecht-bioinformatics-center: https://ubc.uu.nl/
 :uri-unipavia-phdsgb: http://phdsgb.unipv.eu/site/en/home.html
 :uri-university-salerno: https://web.unisa.it/en/home
@@ -131,6 +132,7 @@
 :uri-semm: https://www.semm.it/curriculum/computational-biology
 :university-semm: {uri-semm}[SEMM European School of Molecular Medicine]
 :university-la-sapienza: {uri-university-la-sapienza}[University of Rome La Sapienza]
+:stowers-institute: {uri-stowers-institute}[Stowers Institute]
 
 // Publications
 :uri-pietrosanto-adinolfi-guarracino2021-rig: https://doi.org/10.1093/nargab/lqab007
@@ -519,6 +521,12 @@ icon:file-pdf-o[] {uri-github-smbe24-certificate}[Certificate]
 ^| icon:globe[] Place
 ^| icon:book[] Description
 ^| icon:link[] Links
+
+| `24 Sept. 2024` +
+| {stowers-institute}
+| Seminar on "Pangenomes everywhere"
+| icon:file-pdf-o[] -
+
 
 | `26 Feb. 2024` +
 | {university-la-sapienza}
