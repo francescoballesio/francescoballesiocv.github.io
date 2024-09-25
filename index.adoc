@@ -118,7 +118,7 @@
 :uri-joint-meeting-agi-simag-2023: https://www.associazionegeneticaitaliana.it/2023/05/14/joint-meeting-agi_simag-2023/
 :uri-seminar-invitation-la-sapienza-2024: https://github.com/AndreaGuarracino/andreaguarracino.github.io/blob/main/other/20240226_InvitationLetterLaSapienza_AndreaGuarracino.pdf
 :uri-seminar-brochure-la-sapienza-2024: https://github.com/AndreaGuarracino/andreaguarracino.github.io/blob/main/other/20240226_SeminarBrochureLaSapienza_AndreaGuarracino.pdf
-:uri-seminar-brochure-stowers-institute-2024: https://github.com/AndreaGuarracino/andreaguarracino.github.io/blob/main/other/20230924_SeminarBrochureStowersInstitute_AndreaGuarracino.pdf
+:uri-seminar-brochure-stowers-institute-2024: https://github.com/AndreaGuarracino/andreaguarracino.github.io/blob/main/other/20240924_SeminarBrochureStowersInstitute_AndreaGuarracino.pdf
 
 // Universities, institutes
 :human-technopole: {uri-human-technopole}[Human Technopole]
