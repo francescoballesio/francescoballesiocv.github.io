@@ -177,6 +177,7 @@
 :uri-li2024: https://doi.org/10.48550/arxiv.2409.00876
 :uri-dongahn2024-preprint: https://doi.org/10.1101/2024.07.31.605654
 :uri-potapova2024-preprint: https://doi.org/10.1101/2024.09.13.612795
+:uri-delima2024-preprint: https://doi.org/10.1101/2024.09.24.614821
 
 // Repositories
 :uri-github-brio: https://github.com/helmercitterich-lab/BRIO
@@ -558,6 +559,11 @@ icon:file-pdf-o[] {uri-agi-simag-2023-brochure}[Brochure]
 ^| icon:book[] Title
 ^| icon:pencil[] Contribution
 ^| icon:link[] Links
+
+| *bioRxiv, _Submitted_*
+| The formation and propagation of human Robertsonian chromosomes
+| Genetic, epigenetic, and pangenome analyses, figures, paper writing 
+| icon:spinner[] {uri-delima2024-preprint}[Preprint]
 
 | bioRxiv, _Submitted_
 | Epigenetic control and inheritance of rDNA arrays
