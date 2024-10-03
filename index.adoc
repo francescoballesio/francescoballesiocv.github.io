@@ -172,6 +172,7 @@
 :uri-bolognini2024: https://doi.org/10.1038/s41586-024-07911-1
 :uri-li2024-preprint: https://doi.org/10.1101/2024.02.17.580840
 :uri-gustafson2024-preprint: https://doi.org/10.1101/2024.03.05.24303792
+:uri-gustafson2024: http://doi.org/10.1101/gr.279273.124
 :uri-koren2024-preprint: https://doi.org/10.1101/2024.03.15.585294
 :uri-heumos2024-preprint: https://doi.org/10.1101/2024.05.13.593871
 :uri-li2024: https://doi.org/10.48550/arxiv.2409.00876
@@ -585,11 +586,6 @@ icon:file-pdf-o[] {uri-agi-simag-2023-brochure}[Brochure]
 | Human centromere analysis
 | icon:spinner[] {uri-koren2024-preprint}[Preprint]
 
-| bioRxiv, _In review_
-| Nanopore sequencing of 1000 Genomes Project samples to build a comprehensive catalog of human genetic variation
-| Pangenome graph building and analyses, paper method section writing
-| icon:spinner[] {uri-gustafson2024-preprint}[Preprint]
-
 | bioRxiv, _Submitted_
 | Genetic Modulation of Protein Expression in Rat Brain
 | Pangenome graph building and analyses, paper editing
@@ -608,7 +604,12 @@ icon:file-pdf-o[] {uri-agi-simag-2023-brochure}[Brochure]
 | *Nature Methods, 2024*
 | **Building pangenome graphs*
 | *Software development, experiments, paper writing, documentation, testing*
-| icon:spinner[] {uri-garrison2024}[Paper]
+| icon:book[] {uri-garrison2024}[Paper]
+
+| Genome Research, 2024
+| High-coverage nanopore sequencing of samples from the 1000 Genomes Project to build a comprehensive catalog of human genetic variation
+| Pangenome graph building and analyses, paper method section writing
+| icon:book[] {uri-gustafson2024}[Paper]
 
 | Nature, 2024
 | Recurrent evolution and selection shape structural diversity at the amylase locus
