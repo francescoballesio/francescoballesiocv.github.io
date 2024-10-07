@@ -9,6 +9,7 @@
 :uri-uthsc: https://www.uthsc.edu/
 :uri-university-tor-vergata: http://web.uniroma2.it/
 :uri-university-la-sapienza: https://www.uniroma1.it/
+:uri-afinsubria: https://www.afinsubria.org/
 :uri-stowers-institute: https://www.stowers.org/
 :uri-utrecht-bioinformatics-center: https://ubc.uu.nl/
 :uri-unipavia-phdsgb: http://phdsgb.unipv.eu/site/en/home.html
@@ -205,6 +206,8 @@
 :uri-github-mempang24-certificate: https://github.com/AndreaGuarracino/cv/blob/main/certificates/MemPanG24_CertificateOrganizerInstructorChair_AndreaGuarracino.pdf
 :uri-github-romepang24-website: https://elixir-iib-training.github.io/site/2024-06-Pangenomics
 :uri-github-romepang24-certificate: https://github.com/AndreaGuarracino/cv/blob/main/certificates/RomePanG24_ElixirCourse_CertificateOrganizerInstructor_AndreaGuarracino.pdf
+:uri-github-afipang24-website: https://www.afinsubria.org/2024/07/09/computational-pangenomics/
+:uri-github-afipang24-repository: https://github.com/AndreaGuarracino/computational_pangenomics
 :uri-github-datastructuresforbioinformatics: https://github.com/AndreaGuarracino/DataStructuresForBioinformatics
 :uri-github-advanced-bioinformatics: https://github.com/UMCUGenetics/AdvancedBioinformaticsCourse
 :uri-github-unipavia-phdsgb-2024-flier: https://github.com/AndreaGuarracino/cv/blob/main/certificates/UniPaviaPhDCoursePangenome2024_Flier_Apr18-19_2024_final_AndreaGuarracino.pdf
@@ -370,6 +373,12 @@ icon:university[] *Previous software development for pangenomics*.
 ^| icon:book[] Course
 ^| icon:pencil[] Role
 ^| icon:link[] Links
+
+| `7 Oct. 2024 to 8 Oct. 2024` +
+| Computational Pangenomics, {uri-afinsubria}[AFI - Alta Formazione Insubria] (Pozzolo, Italy)
+| *Organizer* and *instructor*, created new material and tutorials, held lessons, assisted the participants, configured the machines
+| icon:github[] {uri-github-afipang24-website}[Website] +
+icon:file-pdf-o[] {uri-github-afipang24-repository}[Repository]
 
 | `19 June 2024 to 21 June 2024` +
 | Computational Pangenomics, {university-la-sapienza} (Rome, Italy)
@@ -773,7 +782,7 @@ icon:github[] {uri-github-rig}[Repository]
 
 | `2 Oct. 2024 to 5 Oct. 2024` +
 | {uri-ctc-rg-2024}[Complex Trait Community and the Rat Genomics 2024]
-| Multi-platform genome assembly of an SHR/OlaIpcv X BN-Lx/Cub F1 rat “trio”
+| Multi-platform genome assembly of an SHR/OlaIpcv X BN-Lx/Cub F1 rat "trio"
 | icon:file-pdf-o[] {uri-github-ctcrg2024-presentation}[Presentation]
 
 | `5 Sept. 2024 to 6 Sept. 2024` +
