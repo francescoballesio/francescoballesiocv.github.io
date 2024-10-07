@@ -28,6 +28,7 @@
 :uri-t2t-f2f: https://sites.google.com/ucsc.edu/t2t-f2f/home
 :uri-github-t2t-f2f-presentation: https://andreaguarracino.github.io/presentations/T2T24_FormationTransmissionRobChrs_Presentation_AndreaGuarracino.pdf
 :uri-github-hprc24-presentation: https://andreaguarracino.github.io/presentations/HPRC24_LessonsFromAmylaseLocus_Presentation_AndreaGuarracino.pdf
+:uri-github-ctcrg2024-presentation: https://andreaguarracino.github.io/presentations/CTCRG24_MultiPlatformSHRXBNLxF1Trio_AndreaGuarracino.pdf
 :uri-bog24: https://meetings.cshl.edu/meetings.aspx?meet=GENOME&year=24
 :uri-github-bog24-poster-wfmash: https://andreaguarracino.github.io/posters/BoG24_AligningPangenomesWithHierarchicalWFA_Poster_AndreaGuarracino.pdf
 :uri-sbme24: https://smbe2024.org/
@@ -39,6 +40,7 @@
 :uri-github-smbe23-certificate: https://andreaguarracino.github.io/certificates/SMBE23_CertificateOfAttendance_AndreaGuarracino.pdf
 :uri-ctc-rg-2022: https://www.complextrait.org
 :uri-ctc-rg-2023: https://complextrait.org/meetings/ctc-rg2023/program.html
+:uri-ctc-rg-2024: https://rgd.mcw.edu/rgdweb/ctc-rg2024/program.html
 :uri-h3abionet: https://www.h3abionet.org/
 :uri-h3bionet-2023-material: https://github.com/AndreaGuarracino/ReferenceGraphPangenomeDataAnalysisHackathon2023
 :uri-h3bionet-2023-inv-letter: https://github.com/AndreaGuarracino/andreaguarracino.github.io/blob/main/certificates/H3ABioNet2023_RefGraphInvitationLetter_AndreaGuarracino.pdf
@@ -768,6 +770,11 @@ icon:github[] {uri-github-rig}[Repository]
 ^| icon:globe[] Conference
 ^| icon:book[] Title
 ^| icon:link[] Links
+
+| `2 Oct. 2024 to 5 Oct. 2024` +
+| {uri-ctc-rg-2024}[Complex Trait Community and the Rat Genomics 2024]
+| Multi-platform genome assembly of an SHR/OlaIpcv X BN-Lx/Cub F1 rat “trio”
+| icon:file-pdf-o[] {uri-github-ctcrg2024-presentation}[Presentation]
 
 | `5 Sept. 2024 to 6 Sept. 2024` +
 | HPRC 2024 Annual Meeting
