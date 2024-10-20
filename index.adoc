@@ -577,8 +577,8 @@ icon:file-pdf-o[] {uri-agi-simag-2023-brochure}[Brochure]
 ^| icon:link[] Links
 
 | *bioRxiv, _Submitted_*
-| The formation and propagation of human Robertsonian chromosomes
-| Genetic, epigenetic, and pangenome analyses, figures, paper writing 
+| *The formation and propagation of human Robertsonian chromosomes*
+| *Genetic, epigenetic, and pangenome analyses, figures, paper writing*
 | icon:spinner[] {uri-delima2024-preprint}[Preprint]
 
 | bioRxiv, _Submitted_
