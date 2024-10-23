@@ -45,6 +45,8 @@
 :uri-h3abionet: https://www.h3abionet.org/
 :uri-h3bionet-2023-material: https://github.com/AndreaGuarracino/ReferenceGraphPangenomeDataAnalysisHackathon2023
 :uri-h3bionet-2023-inv-letter: https://github.com/AndreaGuarracino/andreaguarracino.github.io/blob/main/certificates/H3ABioNet2023_RefGraphInvitationLetter_AndreaGuarracino.pdf
+:uri-h3bionet-2024-material: https://github.com/pangenome/HumanPangenomeBYOD2024
+:uri-h3bionet-2024-website: https://elwazi.org/trainings/28
 :uri-ctc-rg-2023-certificate: https://andreaguarracino.github.io/certificates/CTCTG2023_CertificateOrganizerInstructor_AndreaGuarracino.pdf
 :uri-github-ctc-rg-2022-abstract: https://andreaguarracino.github.io/abstracts/CTC_RG_2022_InitialEffortGenRatPangenome_Abstract_AndreaGuarracino.pdf
 :uri-github-iggsy2024-presentation: https://andreaguarracino.github.io/presentations/IGGSy2024_TheCompleteSeqOfHumanRobChromosomes_Presentation_AndreaGuarracino.pdf
@@ -376,6 +378,12 @@ icon:university[] *Previous software development for pangenomics*.
 ^| icon:book[] Course
 ^| icon:pencil[] Role
 ^| icon:link[] Links
+
+| `21 Oct. 2024 to 25 Nov. 2024` +
+| Human Pangenome BYOD Analysis Workshop {uri-h3abionet}[H3ABioNet] (Cape Town, South Africa)
+| *Organizer* and *instructor*, created new material and analyzed new human genome assemblies
+| icon:github[] {uri-h3bionet-2024-material}[Material] +
+icon:book[] {uri-h3bionet-2024-website}[Website]
 
 | `7 Oct. 2024 to 8 Oct. 2024` +
 | Computational Pangenomics, {uri-afinsubria}[AFI - Alta Formazione Insubria] (Pozzolo, Italy)
