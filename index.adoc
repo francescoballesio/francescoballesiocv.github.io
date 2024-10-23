@@ -380,7 +380,7 @@ icon:university[] *Previous software development for pangenomics*.
 ^| icon:link[] Links
 
 | `21 Oct. 2024 to 25 Nov. 2024` +
-| Human Pangenome BYOD Analysis Workshop {uri-h3abionet}[H3ABioNet] (Cape Town, South Africa)
+| Human Pangenome BYOD Analysis Workshop by {uri-h3abionet}[H3ABioNet] (Cape Town, South Africa)
 | *Organizer* and *instructor*, created new material and analyzed new human genome assemblies
 | icon:github[] {uri-h3bionet-2024-material}[Material] +
 icon:book[] {uri-h3bionet-2024-website}[Website]
