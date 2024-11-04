@@ -186,6 +186,7 @@
 :uri-potapova2024-preprint: https://pmc.ncbi.nlm.nih.gov/articles/PMC11451732/
 :uri-darnell2024-preprint: http://www.ncbi.nlm.nih.gov/pmc/articles/pmc11507946/
 :uri-delima2024-preprint: https://pmc.ncbi.nlm.nih.gov/articles/PMC11463614/
+:uri-kronenberg2024-preprint: https://doi.org/10.1101/2024.10.02.616333
 
 // Repositories
 :uri-github-brio: https://github.com/helmercitterich-lab/BRIO
@@ -588,6 +589,11 @@ icon:file-pdf-o[] {uri-agi-simag-2023-brochure}[Brochure]
 | *The formation and propagation of human Robertsonian chromosomes*
 | *Genetic, epigenetic, and pangenome analyses, figures, paper writing*
 | icon:spinner[] {uri-delima2024-preprint}[Preprint]
+
+| bioRxiv, _Submitted_
+| The Platinum Pedigree: A long-read benchmark for genetic variants
+| Pangenome analysis
+| icon:spinner[] {uri-kronenberg2024-preprint}[Preprint]
 
 | bioRxiv, _Submitted_
 | Creating a biomedical knowledge base by addressing GPT inaccurate responses and benchmarking context
