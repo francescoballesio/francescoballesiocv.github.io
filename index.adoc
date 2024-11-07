@@ -179,6 +179,7 @@
 :uri-gustafson2024-preprint: https://doi.org/10.1101/2024.03.05.24303792
 :uri-gustafson2024: http://doi.org/10.1101/gr.279273.124
 :uri-koren2024-preprint: https://pmc.ncbi.nlm.nih.gov/articles/PMC10962732/
+:uri-koren2024: https://pubmed.ncbi.nlm.nih.gov/39505490/
 :uri-heumos2024-preprint: https://doi.org/10.1101/2024.05.13.593871
 :uri-heumos2024: https://doi.org/10.1093/bioinformatics/btae609
 :uri-li2024: https://doi.org/10.48550/arxiv.2409.00876
@@ -610,11 +611,6 @@ icon:file-pdf-o[] {uri-agi-simag-2023-brochure}[Brochure]
 | Pangenome alignment/Divergence
 | icon:spinner[] {uri-dongahn2024-preprint}[Preprint]
 
-| bioRxiv, _Accepted_
-| Gapless assembly of complete human and plant chromosomes using only nanopore sequencing
-| Human centromere analysis
-| icon:spinner[] {uri-koren2024-preprint}[Preprint]
-
 | bioRxiv, _Submitted_
 | Genetic Modulation of Protein Expression in Rat Brain
 | Pangenome graph building and analyses, paper editing
@@ -629,6 +625,11 @@ icon:file-pdf-o[] {uri-agi-simag-2023-brochure}[Brochure]
 | The complete diploid reference genome of RPE-1 identifies human phased epigenetic landscapes
 | Support for the analyses and figures, Figure 2, paper writing
 | icon:spinner[] {uri-volpe2023-preprint}[Preprint]
+
+| Genome Research, 2024
+| Gapless assembly of complete human and plant chromosomes using only nanopore sequencing
+| Human centromere analysis
+| icon:book[] {uri-koren2024}[Paper]
 
 | *Nature Methods, 2024*
 | **Building pangenome graphs*
