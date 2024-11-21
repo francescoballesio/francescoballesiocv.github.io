@@ -481,7 +481,7 @@ icon:file-pdf-o[] {uri-github-smbe24-certificate}[Certificate]
 
 | `2 Dec. 2024 to Present.` +
 | Master’s degree in Bioinformatics, {university-tor-vergata} (Rome, Italy)
-| Pangenome-based pipelines for unbiased ancient DNA analysis,
+| Pangenome-based pipelines for unbiased ancient DNA analysis
 | -
 
 | `2 Oct. 2024 to Present.` +
