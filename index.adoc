@@ -210,7 +210,7 @@
 :uri-github-mempang24-website: https://pangenome.github.io/MemPanG24/
 :uri-github-mempang24-material: https://github.com/pangenome/MemPanG24/
 :uri-github-mempang24-certificate: https://github.com/AndreaGuarracino/cv/blob/main/certificates/MemPanG24_CertificateOrganizerInstructorChair_AndreaGuarracino.pdf
-:uri-github-romepang24-website: https://elixir-iib-training.github.io/site/2024-06-Pangenomics
+:uri-github-romepang24-website: https://elixir-iib-training.github.io/site/2024-06-19-Pangenomics
 :uri-github-romepang24-certificate: https://github.com/AndreaGuarracino/cv/blob/main/certificates/RomePanG24_ElixirCourse_CertificateOrganizerInstructor_AndreaGuarracino.pdf
 :uri-github-afipang24-website: https://www.afinsubria.org/2024/07/09/computational-pangenomics/
 :uri-github-afipang24-repository: https://github.com/AndreaGuarracino/computational_pangenomics
