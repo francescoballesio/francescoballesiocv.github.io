@@ -6,6 +6,18 @@ Francesco Ballesio
 [//]: # (For the icons: https://fontawesome.com/v4/icons/)
 [//]: # (NOT USED. To generate the index.html file: pandoc -f markdown --standalone --metadata title="Andrea Guarracino CV" --variable=title="" --css=style.css --output=index.html README.md)
 
+👋🏻 Nice to meet you!
+
+👨🏻‍💻 I’m a postdoctoral researcher in Bioinformatics at Tor Vergata University of Rome.
+
+⚗️ I’m mainly interested in tumor metabolism, immunotherapy, long non-coding RNA genes, and genomics in general.
+
+⌨️ But I’m also a very interested in data science, machine learning and natural language processing (NLP).
+
+✨ and in learning more about large language models!
+
+🧬 I’m currently working on cancer metabolism, the research of a modular organization of lncRNA genes and on NLP-based representation methods for biological sequences for machine learning analysis.
+
 ### CV at https://francescoballesiocv.github.io
 
 
