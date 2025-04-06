@@ -18,7 +18,7 @@ Francesco Ballesio
 
 🧬 I’m currently working on cancer metabolism, the research of a modular organization of lncRNA genes and on NLP-based representation methods for biological sequences for machine learning analysis.
 
-### CV at https://francescoballesiocv.github.io
+### CV at https://francescoballesio.github.io
 
 
 <!-- 
